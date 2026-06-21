@@ -1,0 +1,28 @@
+CREATE DATABASE SALES;
+USE SALES;
+
+CREATE TABLE Lojas(
+	id_loja INT PRIMARY KEY NOT NULL,
+	estado VARCHAR(50) NOT NULL,
+	cidade VARCHAR(100) NOT NULL,
+	vendedores VARCHAR(100) NOT NULL
+	);
+
+CREATE TABLE Produtos(
+	id_produto INT PRIMARY KEY NOT NULL,
+	nome VARCHAR(255) NOT NULL,
+	preco DECIMAL(10,2) NOT NULL
+	);
+
+CREATE TABLE Compras (
+	id_compra INT IDENTITY PRIMARY KEY NOT NULL,
+	data DATETIME NOT NULL,
+	id_loja INT NOT NULL FOREIGN KEY REFERENCES Lojas(id_loja),
+	loja VARCHAR(255) NOT NULL,
+	vendedor VARCHAR(100) NOT NULL,
+	id_produto INT NOT NULL FOREIGN KEY REFERENCES Produtos(id_produto),
+	produto VARCHAR(100) NOT NULL,
+	nome_cliente VARCHAR(255) NOT NULL,
+	genero_cliente CHAR(1) NOT NULL,
+	forma_pagamento VARCHAR(50) NOT NULL
+	);

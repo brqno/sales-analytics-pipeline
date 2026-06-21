@@ -1,0 +1,6 @@
+estado,cidade,vendedores
+SP,São Paulo,"['João', 'Maria', 'Pedro']"
+MG,Belo Horizonte,"['Carlos', 'Stephanie', 'Carleto']"
+RJ,Rio de Janeiro,"['Antônio', 'Juliana', 'Paulo']"
+SC,Florianópolis,"['Eduardo', 'Paola', 'Rafaela']"
+RS,Porto Alegre,"['Tiago', 'Marta', 'Lucas']"

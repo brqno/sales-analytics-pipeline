@@ -1,0 +1,2001 @@
+data,id_compra,loja,vendedor,produto,nome_cliente,genero_cliente,forma_pagamento
+2025-06-20 17:34:22.371504,0,Rio de Janeiro,Juliana,iPad,Christopher Murphy,M,Dinheiro
+2025-06-20 22:01:27.127761,1,Florianópolis,Eduardo,iPhone,John Guthrie,M,Cartão de Crédito
+2025-06-20 22:15:27.572684,2,Florianópolis,Paola,Dell,Pamela Kremen,F,Cartão de Crédito
+2025-06-21 01:14:27.859744,3,Belo Horizonte,Stephanie,Dell,Bonnie Thalls,F,Boleto
+2025-06-21 01:56:24.377365,4,Porto Alegre,Marta,Android,Catherine Small,F,Dinheiro
+2025-06-21 02:52:25.311096,5,Florianópolis,Paola,Galaxy,Florence Carrillo,O,Pix
+2025-06-21 03:07:23.192160,6,São Paulo,Maria,iPhone,Bertha Head,F,Cartão de Crédito
+2025-06-21 17:12:23.525962,7,Porto Alegre,Marta,iPhone,Desiree Yacko,F,Dinheiro
+2025-06-21 17:28:25.845191,8,Belo Horizonte,Carleto,iPhone,Julie Toland,O,Cartão de Crédito
+2025-06-21 18:54:25.851854,9,Belo Horizonte,Carlos,Galaxy,Cindy Briggs,F,Dinheiro
+2025-06-22 00:35:26.490526,10,Porto Alegre,Marta,Android,Amy Martinez,F,Dinheiro
+2025-06-22 18:22:26.586749,11,Florianópolis,Rafaela,Dell,Billy Shin,O,Pix
+2025-06-22 21:47:21.928790,12,Belo Horizonte,Stephanie,iPhone,Helen Riera,O,Cartão de Crédito
+2025-06-23 02:06:25.841131,13,Porto Alegre,Tiago,Galaxy,Angelina Johnson,F,Cartão de Crédito
+2025-06-23 16:58:25.249875,14,Belo Horizonte,Carleto,iPhone,Betty Barlow,F,Pix
+2025-06-23 17:27:25.045680,15,São Paulo,Pedro,Dell,Katie Salcedo,F,Pix
+2025-06-23 17:40:26.188647,16,Porto Alegre,Lucas,Galaxy,Annie Gladney,F,Dinheiro
+2025-06-23 22:38:26.773119,17,São Paulo,Pedro,iPhone,Sarah Roberts,O,Cartão de Crédito
+2025-06-23 23:39:25.513629,18,Porto Alegre,Tiago,Android,Crystal Kiser,F,Boleto
+2025-06-24 00:12:25.263101,19,Belo Horizonte,Stephanie,Dell,Betty Howard,F,Cartão de Crédito
+2025-06-24 01:46:22.912310,20,Florianópolis,Paola,iPad,Debra Edwards,F,Boleto
+2025-06-24 03:20:25.492199,21,São Paulo,João,iPhone,John Guzman,M,Boleto
+2025-06-24 18:36:22.802062,22,Rio de Janeiro,Paulo,iPad,Latonya Empie,F,Pix
+2025-06-24 20:19:26.914566,23,Florianópolis,Paola,Dell,Betty Beard,F,Pix
+2025-06-24 23:16:26.282155,24,Porto Alegre,Tiago,Android,James Schuster,M,Pix
+2025-06-25 02:40:26.897699,25,Belo Horizonte,Carleto,Dell,Joseph Lansdell,M,Pix
+2025-06-25 18:24:22.429251,26,Belo Horizonte,Stephanie,iPhone,Gladys Stewart,F,Cartão de Crédito
+2025-06-25 18:43:24.388526,27,Rio de Janeiro,Antônio,Dell,Jack Lewis,M,Boleto
+2025-06-25 18:52:25.342967,28,São Paulo,Pedro,iPad,John Blackburn,M,Boleto
+2025-06-26 00:35:23.913577,29,Florianópolis,Rafaela,iPad,Dianne Sichler,F,Pix
+2025-06-26 02:47:22.747278,30,Belo Horizonte,Carleto,Galaxy,Maryann Pickle,O,Dinheiro
+2025-06-26 16:42:23.524951,31,Rio de Janeiro,Juliana,iPad,Amy Connelly,F,Dinheiro
+2025-06-26 17:42:22.771577,32,São Paulo,Maria,Galaxy,Brian Walbridge,M,Cartão de Crédito
+2025-06-26 18:29:26.153885,33,Rio de Janeiro,Paulo,iPhone,Edgar Corbin,M,Dinheiro
+2025-06-26 20:36:25.173481,34,Porto Alegre,Tiago,Galaxy,Joseph Higbee,M,Boleto
+2025-06-26 22:48:24.829026,35,Porto Alegre,Marta,Android,Christopher Peterson,O,Pix
+2025-06-26 23:37:26.039743,36,Porto Alegre,Marta,Android,Roxanne Crader,O,Pix
+2025-06-27 00:20:25.649836,37,São Paulo,Maria,Android,Nellie Amyx,F,Cartão de Crédito
+2025-06-27 01:24:24.437435,38,Belo Horizonte,Stephanie,Dell,Hector Ryan,M,Cartão de Crédito
+2025-06-27 01:55:27.301208,39,Porto Alegre,Lucas,iPhone,Paula Hendricks,F,Dinheiro
+2025-06-27 16:29:28.012045,40,Rio de Janeiro,Antônio,Dell,James Ziemba,M,Boleto
+2025-06-27 23:28:25.217381,41,Florianópolis,Eduardo,iPhone,John Clifton,O,Boleto
+2025-06-28 00:59:23.714475,42,Rio de Janeiro,Paulo,iPad,Beatrice Kiper,O,Boleto
+2025-06-28 03:14:24.832575,43,Belo Horizonte,Carlos,iPad,Ethel Rivera,O,Boleto
+2025-06-28 20:56:26.369016,44,Belo Horizonte,Carleto,iPad,Cody Chadwick,M,Cartão de Crédito
+2025-06-29 01:09:24.100034,45,Rio de Janeiro,Juliana,Android,Michael Mcfarland,M,Boleto
+2025-06-29 01:57:23.681039,46,Florianópolis,Paola,Android,Darlene Ollis,O,Boleto
+2025-06-29 02:03:26.791576,47,Florianópolis,Paola,Android,Johnathon Snellings,O,Pix
+2025-06-29 03:02:25.047393,48,Florianópolis,Eduardo,Dell,Ann Lacroix,F,Cartão de Crédito
+2025-06-29 20:27:23.328292,49,Rio de Janeiro,Juliana,Galaxy,Marjorie Clark,F,Dinheiro
+2025-06-29 21:05:25.381536,50,Belo Horizonte,Carleto,Android,Sylvester Davis,M,Pix
+2025-06-29 21:52:27.234620,51,Belo Horizonte,Carlos,Galaxy,Anna Belden,F,Boleto
+2025-06-29 22:02:23.713459,52,São Paulo,João,iPhone,Lucille Sands,F,Pix
+2025-06-29 23:26:24.426652,53,Rio de Janeiro,Juliana,Dell,Zachary Burtch,M,Pix
+2025-06-30 01:18:25.226254,54,Florianópolis,Rafaela,Dell,Candace Roman,F,Cartão de Crédito
+2025-06-30 17:11:26.773311,55,Florianópolis,Eduardo,Android,Donald Wray,M,Cartão de Crédito
+2025-06-30 19:15:26.037485,56,São Paulo,Maria,iPhone,Greg Racine,O,Dinheiro
+2025-06-30 19:26:21.538440,57,Porto Alegre,Lucas,Dell,Oscar Sasser,M,Dinheiro
+2025-06-30 19:26:26.932327,58,Florianópolis,Eduardo,iPhone,Luke Faircloth,M,Cartão de Crédito
+2025-06-30 19:37:23.483629,59,Belo Horizonte,Carleto,Dell,Junior Calkins,M,Dinheiro
+2025-07-01 00:02:23.813267,60,Florianópolis,Paola,Dell,Kali Atkins,O,Pix
+2025-07-01 02:20:25.238969,61,Rio de Janeiro,Antônio,iPad,Nancy Brescia,O,Boleto
+2025-07-01 02:47:22.255429,62,Florianópolis,Paola,iPhone,Judi Klitz,F,Cartão de Crédito
+2025-07-01 18:18:23.684617,63,Porto Alegre,Marta,Galaxy,Willie Marino,F,Pix
+2025-07-01 19:45:24.199358,64,Porto Alegre,Marta,Galaxy,Nancy Velasquez,O,Pix
+2025-07-01 22:36:26.734523,65,São Paulo,Pedro,Galaxy,Marvin Chicoine,O,Dinheiro
+2025-07-02 20:12:23.843883,66,Rio de Janeiro,Paulo,Android,Travis Parkinson,M,Pix
+2025-07-02 22:14:26.484549,67,Rio de Janeiro,Juliana,iPad,Joyce Smith,F,Dinheiro
+2025-07-03 01:24:22.340170,68,Rio de Janeiro,Paulo,iPhone,John Bradberry,M,Dinheiro
+2025-07-03 01:39:25.182305,69,Porto Alegre,Marta,iPad,Jonathon Lewis,M,Boleto
+2025-07-03 19:53:25.811950,70,São Paulo,Maria,iPad,Douglas Bade,M,Cartão de Crédito
+2025-07-03 21:00:21.563626,71,São Paulo,Pedro,iPad,Patrick Collier,M,Pix
+2025-07-03 21:37:22.962046,72,Porto Alegre,Tiago,iPad,Edward Williams,O,Pix
+2025-07-03 22:18:23.217537,73,Florianópolis,Rafaela,Galaxy,Renee Ellis,F,Cartão de Crédito
+2025-07-03 22:58:24.470881,74,São Paulo,João,iPhone,Curtis Wright,O,Cartão de Crédito
+2025-07-04 00:59:24.896415,75,Belo Horizonte,Carlos,Dell,Wanda Furr,F,Pix
+2025-07-04 01:59:24.381393,76,Belo Horizonte,Carlos,iPad,Debra Sugg,O,Dinheiro
+2025-07-04 21:23:24.213567,77,Rio de Janeiro,Paulo,iPad,Edward Keele,M,Boleto
+2025-07-04 22:44:21.899233,78,São Paulo,João,Galaxy,Martin Heinrich,M,Boleto
+2025-07-04 23:18:25.888548,79,Florianópolis,Eduardo,Galaxy,Ervin Lambert,M,Boleto
+2025-07-04 23:46:26.480959,80,Rio de Janeiro,Antônio,iPhone,Clara Nash,O,Cartão de Crédito
+2025-07-05 18:29:26.483148,81,Florianópolis,Paola,Dell,Leroy Velez,O,Cartão de Crédito
+2025-07-05 18:31:27.922359,82,Belo Horizonte,Stephanie,Android,Krystal Cox,F,Cartão de Crédito
+2025-07-05 18:53:25.896011,83,São Paulo,João,Galaxy,Vance Mcadams,M,Pix
+2025-07-05 21:31:22.977745,84,Rio de Janeiro,Paulo,Dell,Arthur Gillum,O,Cartão de Crédito
+2025-07-05 23:38:25.049848,85,Porto Alegre,Tiago,iPad,Deloris Sanford,F,Dinheiro
+2025-07-05 23:50:24.701319,86,Florianópolis,Eduardo,Android,Hazel Barnes,F,Pix
+2025-07-06 02:47:27.619462,87,São Paulo,Maria,Dell,Derek Giannecchini,O,Boleto
+2025-07-06 20:10:26.703669,88,Florianópolis,Paola,Galaxy,Charles Chatman,O,Dinheiro
+2025-07-06 20:34:25.816442,89,Rio de Janeiro,Paulo,Android,Karen Thompson,F,Dinheiro
+2025-07-06 20:56:23.491901,90,Rio de Janeiro,Juliana,iPad,Amanda Penderel,F,Boleto
+2025-07-06 22:54:25.996675,91,Porto Alegre,Marta,Galaxy,Melvin Howard,M,Boleto
+2025-07-06 23:37:23.025772,92,Rio de Janeiro,Paulo,Dell,Jack Kowalski,O,Cartão de Crédito
+2025-07-07 01:07:22.483048,93,Rio de Janeiro,Juliana,Android,Dolores Mcgrath,O,Boleto
+2025-07-07 03:00:24.125068,94,São Paulo,Pedro,iPad,Emilia Robinson,O,Pix
+2025-07-07 17:13:22.251631,95,Florianópolis,Paola,iPhone,Stanley Aman,M,Boleto
+2025-07-07 17:36:22.432720,96,São Paulo,Pedro,iPad,Robert Breedlove,M,Cartão de Crédito
+2025-07-07 17:42:21.795200,97,Belo Horizonte,Carlos,iPad,Dale Trujillo,M,Cartão de Crédito
+2025-07-07 19:35:23.569883,98,São Paulo,Maria,Galaxy,Mary Vaughan,O,Cartão de Crédito
+2025-07-08 00:28:25.660041,99,Porto Alegre,Tiago,Android,Kevin Muros,M,Cartão de Crédito
+2025-07-08 01:36:25.111334,100,São Paulo,Maria,Dell,Ronald Horka,O,Dinheiro
+2025-07-08 02:37:27.727609,101,São Paulo,Pedro,Android,Rose Charles,F,Cartão de Crédito
+2025-07-08 18:56:26.989946,102,Belo Horizonte,Carlos,Android,Andrea Garcia,F,Cartão de Crédito
+2025-07-08 19:01:27.913265,103,Belo Horizonte,Stephanie,Galaxy,Kari Wagner,F,Dinheiro
+2025-07-08 19:15:23.818369,104,São Paulo,Maria,iPhone,Giuseppina Bruce,F,Boleto
+2025-07-08 19:35:22.196455,105,Belo Horizonte,Carlos,Galaxy,Kirk Tanner,M,Pix
+2025-07-08 21:23:23.425480,106,Florianópolis,Paola,iPad,Tracy Walton,O,Boleto
+2025-07-08 22:32:23.276116,107,Belo Horizonte,Carleto,iPhone,Eric Lyons,O,Cartão de Crédito
+2025-07-08 23:49:22.429804,108,Florianópolis,Eduardo,Dell,Michael Miller,M,Boleto
+2025-07-09 01:42:26.068550,109,Rio de Janeiro,Juliana,iPhone,Christian Rojo,M,Cartão de Crédito
+2025-07-09 16:40:26.418598,110,Porto Alegre,Tiago,Dell,Nancy Hermes,O,Dinheiro
+2025-07-09 17:04:27.757753,111,Rio de Janeiro,Juliana,iPhone,Paul Slater,M,Dinheiro
+2025-07-09 22:21:21.661509,112,Rio de Janeiro,Juliana,Dell,Marvin Bessel,O,Pix
+2025-07-09 22:40:26.154600,113,Rio de Janeiro,Paulo,iPhone,Kelly Flood,M,Dinheiro
+2025-07-10 17:44:27.926505,114,Belo Horizonte,Stephanie,iPhone,Brett Johns,O,Cartão de Crédito
+2025-07-10 23:27:23.791022,115,Belo Horizonte,Carleto,Dell,Beverly Mignot,F,Dinheiro
+2025-07-11 17:49:23.450680,116,Rio de Janeiro,Paulo,Android,Jason Bonilla,M,Boleto
+2025-07-12 02:22:26.330584,117,Rio de Janeiro,Juliana,Dell,Kelly Pope,F,Pix
+2025-07-12 17:37:21.688347,118,Florianópolis,Rafaela,Dell,Sue Simmons,O,Cartão de Crédito
+2025-07-12 18:07:26.634363,119,São Paulo,João,iPhone,Alissa Stgermain,O,Pix
+2025-07-12 19:47:21.898869,120,São Paulo,Pedro,iPhone,Brenda Abbott,F,Boleto
+2025-07-12 20:20:24.883715,121,São Paulo,Maria,Android,Morris Sumter,M,Pix
+2025-07-12 22:25:27.941188,122,Florianópolis,Paola,iPhone,Daniel Dasilva,O,Boleto
+2025-07-12 22:46:27.256379,123,São Paulo,João,Android,Barbara Said,F,Cartão de Crédito
+2025-07-13 00:01:25.246984,124,São Paulo,Pedro,iPhone,Diane Gooden,F,Dinheiro
+2025-07-13 02:49:21.615705,125,Rio de Janeiro,Juliana,Galaxy,Christy Quezad,F,Dinheiro
+2025-07-13 19:22:23.874310,126,Porto Alegre,Lucas,iPhone,Wendell Ivey,M,Pix
+2025-07-13 20:36:24.039528,127,Florianópolis,Paola,iPhone,Donald Dunnam,O,Boleto
+2025-07-13 21:52:25.492495,128,Belo Horizonte,Stephanie,iPad,Traci Boyd,F,Cartão de Crédito
+2025-07-14 00:00:26.499090,129,Porto Alegre,Tiago,iPad,Korey Lewis,O,Boleto
+2025-07-14 19:16:24.506137,130,Florianópolis,Eduardo,iPhone,Glenda Leja,O,Cartão de Crédito
+2025-07-14 21:40:23.994571,131,Belo Horizonte,Stephanie,iPad,Emma Collins,F,Boleto
+2025-07-14 22:36:22.471275,132,São Paulo,Maria,Dell,Nathan Manor,O,Dinheiro
+2025-07-15 00:47:22.286841,133,Porto Alegre,Marta,Galaxy,Louis Cunningham,M,Pix
+2025-07-15 00:48:27.455824,134,Florianópolis,Paola,Dell,Pedro Vidrine,O,Pix
+2025-07-15 01:54:25.614057,135,Belo Horizonte,Carleto,Android,Charles Butler,M,Dinheiro
+2025-07-15 16:31:21.906513,136,Florianópolis,Paola,Galaxy,William Nathaniel,M,Boleto
+2025-07-15 16:39:22.621133,137,Florianópolis,Paola,iPhone,Patricia Theriot,O,Pix
+2025-07-15 16:51:22.887986,138,Belo Horizonte,Carlos,Android,Amanda Waddington,F,Cartão de Crédito
+2025-07-15 17:37:26.655576,139,Rio de Janeiro,Paulo,iPad,Ruth Howard,F,Dinheiro
+2025-07-15 17:44:26.031062,140,Porto Alegre,Marta,Galaxy,Victor Serrano,M,Pix
+2025-07-15 21:17:23.042196,141,São Paulo,João,Galaxy,Gary Buford,M,Boleto
+2025-07-16 00:46:21.646577,142,Rio de Janeiro,Paulo,iPhone,Lisa Boggio,O,Boleto
+2025-07-16 01:42:24.801550,143,Rio de Janeiro,Antônio,Dell,Dina Hollar,F,Dinheiro
+2025-07-16 17:00:22.987743,144,Rio de Janeiro,Juliana,iPad,Agnes Moore,F,Boleto
+2025-07-16 17:51:26.445788,145,Florianópolis,Rafaela,Android,John Hill,O,Boleto
+2025-07-16 19:59:22.325738,146,Florianópolis,Paola,Galaxy,Ruben West,O,Cartão de Crédito
+2025-07-16 21:59:24.990218,147,Porto Alegre,Tiago,Galaxy,Dana Flecha,M,Pix
+2025-07-17 03:18:24.958577,148,São Paulo,Maria,iPad,Jessica Campbell,F,Boleto
+2025-07-17 19:59:21.721339,149,Rio de Janeiro,Antônio,Android,Bessie Vinck,F,Boleto
+2025-07-17 20:18:22.368108,150,Belo Horizonte,Carleto,Android,Thomas Cuomo,M,Dinheiro
+2025-07-17 22:49:24.202267,151,Porto Alegre,Marta,iPad,David Miyasato,M,Boleto
+2025-07-18 01:44:26.474561,152,Porto Alegre,Tiago,Galaxy,Andrew Sanders,O,Dinheiro
+2025-07-18 17:47:21.688020,153,Porto Alegre,Marta,iPad,Earnest Smith,O,Cartão de Crédito
+2025-07-18 18:17:22.415728,154,Porto Alegre,Lucas,Android,Helen Fahie,F,Pix
+2025-07-18 19:08:24.471092,155,Belo Horizonte,Carlos,Android,Susan Seymour,F,Pix
+2025-07-18 21:40:26.637422,156,São Paulo,Maria,iPad,Rosa Wade,F,Dinheiro
+2025-07-18 23:06:24.218911,157,Florianópolis,Paola,iPhone,Bennie Kimbrough,M,Cartão de Crédito
+2025-07-19 16:57:25.899430,158,Belo Horizonte,Stephanie,iPad,Amy Kessel,F,Dinheiro
+2025-07-19 18:33:23.339451,159,Belo Horizonte,Carleto,iPad,Irving Nunez,M,Pix
+2025-07-19 19:13:24.536707,160,Porto Alegre,Marta,Galaxy,Ericka Sahe,F,Cartão de Crédito
+2025-07-19 20:27:23.126728,161,Porto Alegre,Tiago,iPhone,Carrie Garrison,O,Cartão de Crédito
+2025-07-19 21:45:25.768204,162,Belo Horizonte,Carlos,Galaxy,Orville Bagnoli,M,Pix
+2025-07-20 00:02:25.840112,163,Porto Alegre,Tiago,iPhone,Helen Schmidt,F,Boleto
+2025-07-20 01:07:23.999029,164,Rio de Janeiro,Paulo,iPhone,Edna Zuckerman,F,Boleto
+2025-07-20 17:47:25.133201,165,Porto Alegre,Tiago,iPad,Bethany Walker,F,Cartão de Crédito
+2025-07-20 19:48:25.785945,166,Belo Horizonte,Carleto,Android,Todd Walker,O,Boleto
+2025-07-20 23:42:23.455751,167,Belo Horizonte,Stephanie,Galaxy,John Dively,M,Cartão de Crédito
+2025-07-21 03:05:27.196132,168,Florianópolis,Paola,iPad,Monica Lund,F,Pix
+2025-07-21 17:02:22.296875,169,Florianópolis,Paola,iPhone,Nona Fernandez,F,Cartão de Crédito
+2025-07-21 21:44:22.713298,170,Florianópolis,Rafaela,iPhone,Edna Barkett,O,Cartão de Crédito
+2025-07-22 01:06:21.901225,171,Porto Alegre,Tiago,Galaxy,Dianne Ashby,F,Pix
+2025-07-22 02:59:24.138850,172,Florianópolis,Eduardo,Galaxy,Joyce Taylor,F,Dinheiro
+2025-07-22 17:43:26.090741,173,São Paulo,João,iPhone,Mary Navejas,O,Cartão de Crédito
+2025-07-22 18:32:25.715904,174,Rio de Janeiro,Paulo,Dell,Juan Delk,M,Pix
+2025-07-22 18:43:27.128377,175,Florianópolis,Rafaela,iPhone,Christopher Ramsey,M,Cartão de Crédito
+2025-07-22 20:12:24.868359,176,Rio de Janeiro,Juliana,iPad,Elsie Mariano,O,Pix
+2025-07-23 02:08:21.534291,177,Rio de Janeiro,Antônio,Dell,Laura Swindle,F,Cartão de Crédito
+2025-07-23 17:08:24.491422,178,Porto Alegre,Tiago,iPad,Emma Hammond,O,Dinheiro
+2025-07-23 17:28:23.276470,179,São Paulo,Pedro,Galaxy,Kathy Mccleave,F,Pix
+2025-07-23 18:41:21.864134,180,Porto Alegre,Marta,iPhone,Tiffany Pershall,F,Pix
+2025-07-23 19:31:25.573611,181,Florianópolis,Eduardo,Android,Damon Snedegar,M,Cartão de Crédito
+2025-07-23 22:49:24.804452,182,Florianópolis,Eduardo,Android,Holly Morin,F,Boleto
+2025-07-24 02:26:24.422815,183,São Paulo,João,Galaxy,Angelo Koch,M,Dinheiro
+2025-07-24 17:38:25.950943,184,Porto Alegre,Tiago,Android,Laurie Ruano,F,Boleto
+2025-07-24 18:07:23.489342,185,Belo Horizonte,Stephanie,Galaxy,Ronald Ball,O,Boleto
+2025-07-24 18:30:24.622254,186,São Paulo,Pedro,iPad,Kelley Turkin,F,Pix
+2025-07-24 18:31:22.722504,187,Porto Alegre,Marta,iPhone,Guy Bauman,O,Pix
+2025-07-25 01:51:24.259891,188,Belo Horizonte,Stephanie,iPad,Edward Ramirez,M,Pix
+2025-07-25 16:54:25.536853,189,São Paulo,Pedro,iPad,Michael Crum,M,Cartão de Crédito
+2025-07-25 21:14:24.200051,190,Belo Horizonte,Carlos,Dell,Marjorie Coker,O,Pix
+2025-07-25 23:52:23.601351,191,São Paulo,Pedro,Galaxy,Michael Hill,O,Dinheiro
+2025-07-26 02:37:26.336334,192,Florianópolis,Paola,Android,Robert Lowe,M,Pix
+2025-07-26 17:50:23.426101,193,Belo Horizonte,Carleto,iPad,Andrew Talbott,M,Dinheiro
+2025-07-26 19:24:21.756225,194,Belo Horizonte,Stephanie,Android,Linda Pena,O,Boleto
+2025-07-26 20:00:22.557507,195,Porto Alegre,Lucas,iPhone,Winifred Wrye,F,Cartão de Crédito
+2025-07-26 20:56:26.915386,196,Porto Alegre,Marta,iPad,William Komara,M,Pix
+2025-07-27 01:43:23.788808,197,Rio de Janeiro,Paulo,iPad,Suzanne Sales,F,Pix
+2025-07-27 02:26:24.737733,198,Belo Horizonte,Stephanie,iPad,Samantha Canida,O,Cartão de Crédito
+2025-07-27 19:32:21.957399,199,São Paulo,Pedro,iPad,Edith Baranoski,F,Cartão de Crédito
+2025-07-27 21:57:24.348811,200,Belo Horizonte,Carlos,Galaxy,Brian Frost,M,Dinheiro
+2025-07-28 02:59:25.610378,201,Porto Alegre,Marta,Android,Doris Donelson,F,Dinheiro
+2025-07-28 18:26:27.615026,202,Belo Horizonte,Stephanie,Dell,Nicholas Minard,M,Pix
+2025-07-28 19:37:23.193020,203,Porto Alegre,Tiago,iPhone,Roy Adriance,M,Cartão de Crédito
+2025-07-28 23:45:27.052836,204,Porto Alegre,Marta,Galaxy,Carol Wilkerson,O,Dinheiro
+2025-07-29 01:36:26.482919,205,Florianópolis,Rafaela,iPhone,Annette Jones,F,Boleto
+2025-07-29 02:09:22.426850,206,Porto Alegre,Tiago,Dell,Mable Bolton,F,Dinheiro
+2025-07-29 03:03:23.245945,207,Porto Alegre,Tiago,iPad,Percy Moore,M,Boleto
+2025-07-29 19:20:24.386885,208,Rio de Janeiro,Antônio,Android,Nga Williams,F,Pix
+2025-07-29 20:18:22.320181,209,Belo Horizonte,Carlos,Android,Carroll Whitney,M,Cartão de Crédito
+2025-07-29 22:55:25.220194,210,Porto Alegre,Tiago,Android,Bernice Elston,F,Boleto
+2025-07-29 23:04:21.524225,211,Belo Horizonte,Stephanie,Dell,Mary Rudisill,F,Dinheiro
+2025-07-30 17:34:25.645133,212,Rio de Janeiro,Juliana,Android,Scott Gann,O,Boleto
+2025-07-30 21:34:23.814521,213,Florianópolis,Paola,Dell,Mary Voss,F,Pix
+2025-07-30 22:19:26.935044,214,Belo Horizonte,Carlos,Android,Harold Townsend,M,Cartão de Crédito
+2025-07-30 22:34:23.649041,215,São Paulo,Pedro,Galaxy,Anne Anderson,O,Boleto
+2025-07-31 01:44:21.902201,216,São Paulo,Pedro,iPad,Jerry Brown,O,Boleto
+2025-07-31 17:30:24.567147,217,São Paulo,João,iPhone,Sarah Mucciolo,F,Boleto
+2025-07-31 22:04:23.295066,218,Porto Alegre,Lucas,Galaxy,Stuart Toth,O,Cartão de Crédito
+2025-08-01 01:17:23.057366,219,São Paulo,Maria,Dell,Marie Przybyla,O,Boleto
+2025-08-01 02:11:26.977360,220,Rio de Janeiro,Antônio,Android,Heather Fritzler,F,Dinheiro
+2025-08-01 02:38:24.236027,221,Porto Alegre,Lucas,iPad,Lori Vella,O,Dinheiro
+2025-08-01 02:59:27.294678,222,Rio de Janeiro,Antônio,Android,Charles Gasaway,O,Cartão de Crédito
+2025-08-01 18:18:23.891265,223,Porto Alegre,Marta,Android,Carolyn Simmons,F,Boleto
+2025-08-01 19:25:24.125811,224,Belo Horizonte,Carlos,Android,Elena Fuselier,F,Pix
+2025-08-01 20:00:23.055547,225,Belo Horizonte,Carleto,Android,David Criswell,M,Pix
+2025-08-01 20:42:27.962393,226,Rio de Janeiro,Antônio,Android,Jaime Jefferson,M,Cartão de Crédito
+2025-08-02 00:52:25.363755,227,Rio de Janeiro,Antônio,Dell,Alice Huston,O,Boleto
+2025-08-02 02:21:21.523418,228,Florianópolis,Eduardo,iPhone,Gary Landers,M,Pix
+2025-08-02 02:28:23.289604,229,São Paulo,João,iPhone,Cristina Walker,F,Dinheiro
+2025-08-02 17:03:24.733071,230,Florianópolis,Eduardo,Android,Matthew Ayotte,M,Pix
+2025-08-02 18:31:21.568964,231,Porto Alegre,Lucas,iPad,Amber Batie,O,Dinheiro
+2025-08-02 19:20:23.162781,232,São Paulo,João,iPad,Elizabeth Marks,F,Cartão de Crédito
+2025-08-02 19:37:26.501402,233,Florianópolis,Paola,Android,Denise Zappulla,F,Dinheiro
+2025-08-03 00:20:23.842901,234,Porto Alegre,Lucas,Dell,Peter Mcintyre,O,Boleto
+2025-08-03 17:08:27.396185,235,Belo Horizonte,Stephanie,Galaxy,Chong Ho,O,Boleto
+2025-08-03 19:16:26.769893,236,Belo Horizonte,Stephanie,Galaxy,James Seaman,M,Pix
+2025-08-03 20:46:21.574799,237,Belo Horizonte,Carleto,Galaxy,Robyn Buchanan,F,Cartão de Crédito
+2025-08-03 21:21:21.957071,238,São Paulo,João,iPhone,Joann Terry,O,Dinheiro
+2025-08-04 00:15:25.995357,239,Belo Horizonte,Stephanie,Dell,Derek Vasquez,M,Cartão de Crédito
+2025-08-04 16:42:27.053230,240,São Paulo,João,iPhone,Sara Downs,O,Pix
+2025-08-04 19:23:26.490725,241,Rio de Janeiro,Antônio,Galaxy,Thomas Voorhies,M,Pix
+2025-08-04 23:05:26.710445,242,Florianópolis,Eduardo,Android,Roberta Reed,F,Pix
+2025-08-05 01:48:21.874477,243,São Paulo,João,Galaxy,Sharon Naquin,F,Cartão de Crédito
+2025-08-05 21:03:25.534672,244,Belo Horizonte,Stephanie,Android,John Cardenas,O,Dinheiro
+2025-08-05 21:53:27.482379,245,São Paulo,Maria,iPhone,Norman Ruffner,M,Dinheiro
+2025-08-06 00:00:24.117446,246,Porto Alegre,Tiago,iPad,Shauna Steil,F,Boleto
+2025-08-06 01:32:25.197585,247,São Paulo,João,Android,Jeff Haigh,O,Dinheiro
+2025-08-06 16:50:23.821959,248,Rio de Janeiro,Paulo,Galaxy,Edmond Eguia,M,Pix
+2025-08-06 18:09:23.701640,249,Rio de Janeiro,Paulo,Dell,David Gossett,M,Pix
+2025-08-06 23:08:23.025565,250,Florianópolis,Paola,iPad,Beverly Gonzalez,O,Cartão de Crédito
+2025-08-06 23:18:21.849978,251,Belo Horizonte,Carlos,Android,Freda Turco,F,Cartão de Crédito
+2025-08-07 00:50:27.307832,252,Florianópolis,Paola,Dell,Gwendolyn Bowers,F,Pix
+2025-08-07 18:11:24.191888,253,Belo Horizonte,Stephanie,iPhone,Willie Perry,O,Dinheiro
+2025-08-07 22:39:25.469318,254,Florianópolis,Rafaela,iPad,Rosaura Biss,F,Pix
+2025-08-08 00:57:25.980070,255,Rio de Janeiro,Antônio,Dell,Mary Aliaga,O,Dinheiro
+2025-08-08 20:52:22.988254,256,Florianópolis,Paola,iPhone,Juanita Beu,O,Dinheiro
+2025-08-09 00:10:25.157711,257,Florianópolis,Paola,iPad,Maggie Barron,O,Dinheiro
+2025-08-09 00:48:26.714916,258,Florianópolis,Eduardo,Android,Reba Peacemaker,O,Boleto
+2025-08-09 17:04:27.048290,259,São Paulo,Maria,Dell,Ricky Christofferso,M,Dinheiro
+2025-08-09 17:55:27.822545,260,Florianópolis,Eduardo,Galaxy,Albert Howerton,M,Boleto
+2025-08-09 19:37:25.216916,261,Rio de Janeiro,Paulo,iPad,Seth Malone,M,Pix
+2025-08-09 20:08:27.942937,262,Florianópolis,Paola,Dell,Jackie Paviolitis,M,Boleto
+2025-08-09 21:35:26.655775,263,São Paulo,João,Dell,Helen Quackenbush,F,Boleto
+2025-08-09 21:47:24.317208,264,Belo Horizonte,Stephanie,Android,Karen Marquez,F,Pix
+2025-08-09 22:35:24.798569,265,Belo Horizonte,Stephanie,Galaxy,Victoria Marable,F,Pix
+2025-08-09 22:51:27.892316,266,Belo Horizonte,Carleto,Galaxy,Kevin Switzer,M,Pix
+2025-08-10 00:25:25.321465,267,São Paulo,João,Android,Ronald Price,M,Dinheiro
+2025-08-10 02:10:24.161493,268,Porto Alegre,Tiago,Android,Mark Bellamy,M,Boleto
+2025-08-10 16:39:25.275627,269,Florianópolis,Rafaela,iPhone,William Seigel,M,Pix
+2025-08-10 17:43:26.623672,270,Porto Alegre,Marta,Android,Zachary Shockley,M,Boleto
+2025-08-10 17:57:22.016306,271,Porto Alegre,Tiago,Dell,April Griffin,O,Pix
+2025-08-10 22:36:24.959378,272,Rio de Janeiro,Paulo,iPad,Daniel Decoteau,M,Dinheiro
+2025-08-10 23:17:24.957388,273,Belo Horizonte,Carlos,iPhone,Barbra Massey,F,Pix
+2025-08-10 23:41:23.235558,274,São Paulo,João,iPhone,Carrie Cagle,F,Pix
+2025-08-11 00:39:24.037408,275,Belo Horizonte,Carlos,Dell,Peter Andersen,M,Cartão de Crédito
+2025-08-11 16:54:26.944631,276,São Paulo,João,Dell,Christopher Cambron,O,Boleto
+2025-08-11 23:51:22.402856,277,Belo Horizonte,Stephanie,iPhone,Ronda Miller,O,Dinheiro
+2025-08-12 00:40:21.874038,278,Florianópolis,Rafaela,Galaxy,Peter Reeves,M,Cartão de Crédito
+2025-08-12 00:52:26.827970,279,Florianópolis,Rafaela,Galaxy,Denise Dennis,O,Pix
+2025-08-12 01:30:22.298917,280,Porto Alegre,Lucas,iPhone,Nellie Lamb,F,Boleto
+2025-08-12 01:49:27.830273,281,São Paulo,Pedro,Galaxy,Richard Vescio,M,Dinheiro
+2025-08-12 02:23:24.218677,282,Florianópolis,Paola,Dell,Maria Robinson,O,Cartão de Crédito
+2025-08-12 16:35:25.480217,283,Belo Horizonte,Carlos,iPhone,Louis Rochford,M,Cartão de Crédito
+2025-08-12 17:42:26.646711,284,São Paulo,João,iPhone,William Aquino,M,Boleto
+2025-08-12 20:16:26.300595,285,Rio de Janeiro,Juliana,Galaxy,Patrick Anaya,M,Dinheiro
+2025-08-12 22:37:23.024793,286,São Paulo,João,Android,Mary Hatcher,O,Dinheiro
+2025-08-13 18:56:26.893182,287,Porto Alegre,Tiago,Dell,Jennifer Reiss,F,Cartão de Crédito
+2025-08-13 21:53:27.064874,288,Porto Alegre,Marta,iPhone,William Hirschfeld,O,Boleto
+2025-08-13 23:11:24.862893,289,Belo Horizonte,Stephanie,Galaxy,Sidney Janke,O,Cartão de Crédito
+2025-08-14 00:51:24.018452,290,São Paulo,Maria,iPad,Mark Pritchett,O,Pix
+2025-08-14 01:51:23.582079,291,Rio de Janeiro,Paulo,iPhone,Daren Calvert,M,Cartão de Crédito
+2025-08-14 19:04:22.576228,292,Florianópolis,Eduardo,iPad,Ethel Crouse,F,Cartão de Crédito
+2025-08-14 20:00:27.308484,293,Porto Alegre,Marta,Dell,Frank Halverson,M,Boleto
+2025-08-14 20:06:22.323585,294,Rio de Janeiro,Antônio,Dell,Thomas Allen,O,Boleto
+2025-08-15 02:57:26.407143,295,Porto Alegre,Marta,iPhone,Kyong Tedesco,F,Dinheiro
+2025-08-15 17:53:23.649675,296,Porto Alegre,Tiago,iPhone,Margret Jackson,F,Pix
+2025-08-15 18:19:24.860732,297,São Paulo,Maria,Galaxy,Charlotte Pedigo,F,Boleto
+2025-08-15 19:04:22.607320,298,Florianópolis,Paola,iPad,Bradley Yerkovich,O,Boleto
+2025-08-15 19:13:23.633069,299,Belo Horizonte,Stephanie,Android,Joseph Montague,M,Pix
+2025-08-15 19:28:27.799017,300,Belo Horizonte,Carleto,Dell,Matt Wyman,M,Boleto
+2025-08-16 17:06:25.321229,301,Rio de Janeiro,Juliana,Galaxy,Robert Carroll,M,Boleto
+2025-08-16 17:08:26.422119,302,São Paulo,Maria,Galaxy,Michael Barile,M,Cartão de Crédito
+2025-08-16 17:42:21.875441,303,São Paulo,João,iPhone,Christina Kubota,F,Cartão de Crédito
+2025-08-16 17:54:22.092653,304,Rio de Janeiro,Paulo,iPad,Mary Dan,F,Pix
+2025-08-16 21:18:25.614271,305,Rio de Janeiro,Paulo,iPad,Willie Reneau,M,Boleto
+2025-08-16 23:17:27.078008,306,Porto Alegre,Tiago,Dell,Rosa Schlindwein,F,Boleto
+2025-08-17 17:10:23.481240,307,Florianópolis,Paola,iPad,Frieda Hancock,F,Cartão de Crédito
+2025-08-17 17:30:23.760492,308,Florianópolis,Eduardo,Android,Mary Mellerson,O,Dinheiro
+2025-08-17 18:59:25.855465,309,Belo Horizonte,Stephanie,Galaxy,John Cox,O,Pix
+2025-08-17 19:24:26.766367,310,Belo Horizonte,Carleto,Android,Clair Pedraza,M,Dinheiro
+2025-08-17 22:31:26.030609,311,Florianópolis,Eduardo,iPad,Michael Rivera,O,Dinheiro
+2025-08-18 00:44:26.031687,312,Porto Alegre,Tiago,Galaxy,Yvette Dugger,F,Boleto
+2025-08-18 01:51:22.484070,313,Belo Horizonte,Carlos,Dell,David Ahlman,M,Boleto
+2025-08-18 02:34:25.795083,314,Belo Horizonte,Carlos,iPhone,Martin Oktavec,M,Cartão de Crédito
+2025-08-18 17:20:22.343189,315,Belo Horizonte,Carleto,Android,Jacqueline Ares,F,Boleto
+2025-08-18 18:21:24.201177,316,Rio de Janeiro,Paulo,iPad,Micheal Burdick,M,Cartão de Crédito
+2025-08-18 19:57:26.309565,317,Belo Horizonte,Carleto,Android,Doris Womack,O,Boleto
+2025-08-18 20:47:24.377756,318,São Paulo,João,iPad,Joseph Cash,O,Boleto
+2025-08-18 21:17:25.906033,319,São Paulo,João,iPad,Ruth Brecht,F,Boleto
+2025-08-18 22:42:23.703703,320,São Paulo,João,Galaxy,Ingrid Macdowell,O,Dinheiro
+2025-08-18 23:25:25.350287,321,São Paulo,Pedro,iPad,Tammy Delmont,F,Boleto
+2025-08-19 00:06:24.892881,322,Florianópolis,Paola,Galaxy,Lee Bernstein,M,Pix
+2025-08-19 00:45:24.178162,323,Porto Alegre,Lucas,Galaxy,Eugenia Bartholf,O,Boleto
+2025-08-19 01:28:24.426433,324,Porto Alegre,Tiago,Android,James Reyes,M,Pix
+2025-08-19 20:51:25.321671,325,São Paulo,João,Galaxy,Jeannette Lowrance,F,Dinheiro
+2025-08-19 21:00:27.505074,326,Belo Horizonte,Stephanie,Android,Oren Holladay,O,Pix
+2025-08-19 23:00:24.343754,327,Florianópolis,Rafaela,Galaxy,Judith Mcmullen,F,Boleto
+2025-08-19 23:31:24.150939,328,Rio de Janeiro,Juliana,iPhone,Christen Hankey,F,Pix
+2025-08-20 16:30:22.434291,329,São Paulo,João,iPad,Theodore Hanna,O,Cartão de Crédito
+2025-08-20 16:46:26.885941,330,Belo Horizonte,Carleto,Android,Janie Yowell,F,Dinheiro
+2025-08-20 17:54:23.815669,331,São Paulo,Pedro,Galaxy,Eula Provencher,O,Cartão de Crédito
+2025-08-20 18:54:24.409390,332,Florianópolis,Eduardo,iPhone,Virgil Durate,M,Dinheiro
+2025-08-20 19:56:25.860742,333,Belo Horizonte,Carleto,iPhone,Patricia Bell,F,Dinheiro
+2025-08-20 23:23:26.499703,334,Rio de Janeiro,Antônio,iPad,Joyce Hubbard,F,Pix
+2025-08-21 17:11:27.640377,335,Belo Horizonte,Carleto,Dell,Georgia Hoffman,O,Cartão de Crédito
+2025-08-21 17:34:24.142049,336,São Paulo,Maria,iPhone,Kenya Griffith,F,Cartão de Crédito
+2025-08-21 18:45:26.321184,337,São Paulo,Maria,Galaxy,Donald Maser,M,Dinheiro
+2025-08-21 18:59:26.146091,338,Porto Alegre,Marta,iPhone,Juan Winston,O,Cartão de Crédito
+2025-08-21 20:09:23.054462,339,Florianópolis,Paola,iPhone,Barbara Hopkins,F,Boleto
+2025-08-21 20:18:23.296520,340,Rio de Janeiro,Antônio,iPhone,Amy Huether,F,Dinheiro
+2025-08-21 23:32:22.672170,341,Florianópolis,Eduardo,iPad,Elizabeth Mcsherry,F,Dinheiro
+2025-08-21 23:41:24.491782,342,Florianópolis,Eduardo,Android,Debbie Burnette,F,Dinheiro
+2025-08-22 16:26:23.442129,343,São Paulo,João,Dell,Roger Jenkins,O,Cartão de Crédito
+2025-08-22 19:18:25.178581,344,Rio de Janeiro,Paulo,Galaxy,Leslie Derouen,O,Cartão de Crédito
+2025-08-22 21:17:24.590796,345,Porto Alegre,Marta,Android,Diana Doan,F,Pix
+2025-08-23 01:56:22.299360,346,Rio de Janeiro,Antônio,Android,Christopher Bartoletti,M,Dinheiro
+2025-08-23 03:13:24.003118,347,Florianópolis,Rafaela,Galaxy,Lois Nelson,F,Boleto
+2025-08-23 17:03:21.791567,348,Porto Alegre,Tiago,Dell,Paul Baker,O,Pix
+2025-08-23 20:03:23.325968,349,Rio de Janeiro,Antônio,iPhone,Deborah Robinson,F,Boleto
+2025-08-23 20:48:24.261095,350,Florianópolis,Paola,Dell,John Bolden,O,Cartão de Crédito
+2025-08-23 20:58:25.834926,351,Porto Alegre,Marta,iPhone,Shannon Schutte,F,Dinheiro
+2025-08-23 23:04:23.050496,352,Belo Horizonte,Carleto,Galaxy,Crystal King,F,Boleto
+2025-08-24 02:34:21.506294,353,Porto Alegre,Tiago,Android,William Bryan,M,Pix
+2025-08-24 03:08:21.690698,354,São Paulo,Maria,iPad,Joy Ehlers,O,Dinheiro
+2025-08-24 20:31:25.897460,355,Porto Alegre,Marta,Android,Joanne Gable,F,Dinheiro
+2025-08-24 23:12:23.636233,356,São Paulo,Pedro,Galaxy,Arturo Quach,M,Pix
+2025-08-25 00:30:22.137227,357,Porto Alegre,Marta,iPad,Diane Congrove,O,Pix
+2025-08-25 17:25:23.463556,358,Porto Alegre,Tiago,Dell,Joe Barnes,M,Cartão de Crédito
+2025-08-25 17:46:21.505130,359,Belo Horizonte,Carlos,Galaxy,Monty Mcclellan,M,Cartão de Crédito
+2025-08-25 18:33:23.992955,360,Rio de Janeiro,Juliana,Galaxy,Matthew Benjamin,M,Cartão de Crédito
+2025-08-25 19:32:22.677519,361,Rio de Janeiro,Paulo,Galaxy,Rosa Zappa,F,Boleto
+2025-08-25 19:58:26.350698,362,Rio de Janeiro,Juliana,iPad,Patricia Gulke,F,Cartão de Crédito
+2025-08-25 20:08:23.489636,363,Florianópolis,Rafaela,iPhone,Joan Reed,O,Dinheiro
+2025-08-25 20:21:25.855656,364,Porto Alegre,Lucas,Android,Ralph Bunch,O,Cartão de Crédito
+2025-08-26 17:09:23.382049,365,Rio de Janeiro,Juliana,Dell,Constance Maldonado,F,Cartão de Crédito
+2025-08-26 20:45:26.851605,366,Porto Alegre,Marta,Android,Charles Chaisson,M,Pix
+2025-08-26 21:18:27.670222,367,Belo Horizonte,Stephanie,Dell,Donald Langholz,O,Pix
+2025-08-26 22:17:22.333454,368,Belo Horizonte,Carlos,Android,Amber Harris,F,Boleto
+2025-08-26 23:49:21.555415,369,Florianópolis,Rafaela,Android,Mary Hatcher,O,Boleto
+2025-08-27 00:36:22.106468,370,Florianópolis,Eduardo,iPhone,Billy Kinney,M,Pix
+2025-08-27 20:18:26.653274,371,Belo Horizonte,Stephanie,iPad,Ronald Esposito,M,Cartão de Crédito
+2025-08-27 21:51:22.374623,372,Belo Horizonte,Carleto,Galaxy,Anna Baldwin,F,Cartão de Crédito
+2025-08-27 21:53:22.429471,373,Florianópolis,Eduardo,iPhone,Wesley Rhodes,M,Pix
+2025-08-27 22:37:25.232101,374,Belo Horizonte,Carlos,Android,Troy Hendricks,M,Dinheiro
+2025-08-28 01:11:26.966257,375,Rio de Janeiro,Juliana,iPhone,Amanda Archie,F,Dinheiro
+2025-08-28 01:23:28.028412,376,Florianópolis,Rafaela,Galaxy,Janice Disque,O,Cartão de Crédito
+2025-08-29 00:34:26.410270,377,São Paulo,Maria,Android,Cedric Salls,M,Pix
+2025-08-29 00:45:27.003464,378,São Paulo,Maria,iPad,James Cloud,M,Boleto
+2025-08-29 01:25:25.857507,379,Belo Horizonte,Carleto,iPhone,Ryan Felipe,M,Dinheiro
+2025-08-29 01:38:21.478791,380,Belo Horizonte,Stephanie,iPhone,Jerry Porter,O,Cartão de Crédito
+2025-08-29 16:33:27.454842,381,Florianópolis,Rafaela,Dell,Dawn Stratton,F,Boleto
+2025-08-29 18:03:26.284156,382,Belo Horizonte,Stephanie,Dell,Roland Holt,O,Boleto
+2025-08-29 18:26:24.471949,383,Rio de Janeiro,Paulo,iPad,Conrad Bertozzi,M,Cartão de Crédito
+2025-08-29 23:04:22.319793,384,São Paulo,Pedro,Dell,Jared Ortega,O,Boleto
+2025-08-30 00:27:24.470026,385,São Paulo,Pedro,Android,Erna King,F,Pix
+2025-08-30 00:48:21.938252,386,São Paulo,Maria,Galaxy,Pamela Patel,O,Cartão de Crédito
+2025-08-30 00:51:21.598486,387,Florianópolis,Eduardo,Dell,Rosalie Daniel,F,Dinheiro
+2025-08-30 17:29:23.127157,388,São Paulo,Maria,iPhone,James Simmons,M,Dinheiro
+2025-08-30 21:51:25.466085,389,Rio de Janeiro,Paulo,Android,Wade Masters,M,Cartão de Crédito
+2025-08-30 23:12:24.807448,390,Rio de Janeiro,Juliana,Galaxy,Jennifer Doucet,O,Pix
+2025-08-30 23:20:23.983595,391,Florianópolis,Rafaela,Galaxy,Oscar Newberry,M,Dinheiro
+2025-08-31 16:33:24.946521,392,Florianópolis,Rafaela,iPhone,Marquis Banks,M,Dinheiro
+2025-08-31 17:35:25.696985,393,São Paulo,Maria,iPad,Joyce Sadan,F,Cartão de Crédito
+2025-08-31 19:44:27.821550,394,Florianópolis,Eduardo,Galaxy,Betty Mcintyre,F,Cartão de Crédito
+2025-08-31 20:53:23.910274,395,Florianópolis,Rafaela,Galaxy,Wanda Moncrief,O,Dinheiro
+2025-08-31 23:22:23.756566,396,Porto Alegre,Tiago,Dell,Heike James,F,Dinheiro
+2025-09-01 01:03:24.589796,397,Florianópolis,Eduardo,Galaxy,James Blount,O,Boleto
+2025-09-01 02:28:24.964039,398,São Paulo,Pedro,Galaxy,Hubert Snyder,O,Cartão de Crédito
+2025-09-01 18:50:23.346397,399,Porto Alegre,Lucas,Android,Jessica Hazelip,O,Dinheiro
+2025-09-01 19:01:21.798660,400,São Paulo,João,iPad,Jeffrey Harmon,M,Dinheiro
+2025-09-01 19:29:22.098938,401,Porto Alegre,Marta,Dell,Ruby Reed,F,Dinheiro
+2025-09-01 22:11:23.164939,402,Belo Horizonte,Carlos,Galaxy,Sandra Laperle,F,Dinheiro
+2025-09-02 00:19:23.026907,403,Porto Alegre,Tiago,Galaxy,Joshua Norwood,O,Pix
+2025-09-02 02:10:24.143485,404,Belo Horizonte,Carlos,Galaxy,Sara Lavoie,F,Cartão de Crédito
+2025-09-02 03:18:24.233581,405,São Paulo,Pedro,iPad,Curtis Dever,M,Cartão de Crédito
+2025-09-02 18:00:22.801061,406,Florianópolis,Rafaela,Dell,Teodora King,O,Dinheiro
+2025-09-03 00:44:23.477413,407,Belo Horizonte,Carlos,Android,Bessie Daugherty,F,Cartão de Crédito
+2025-09-03 01:56:27.062577,408,São Paulo,Maria,Galaxy,Consuelo Crowe,O,Dinheiro
+2025-09-03 17:47:25.403714,409,Florianópolis,Rafaela,Galaxy,Charleen Cummins,F,Boleto
+2025-09-03 17:48:24.257055,410,Belo Horizonte,Carlos,Galaxy,Geraldine Simmons,F,Dinheiro
+2025-09-03 17:57:23.983381,411,Porto Alegre,Tiago,Android,Sarah Webb,F,Cartão de Crédito
+2025-09-03 20:32:25.250459,412,São Paulo,Maria,Android,Gordon Buonocore,M,Dinheiro
+2025-09-03 22:24:25.720002,413,Belo Horizonte,Carleto,Dell,Charles Schupbach,O,Cartão de Crédito
+2025-09-03 23:44:26.790576,414,Porto Alegre,Marta,iPad,Carol Coker,O,Boleto
+2025-09-04 02:04:25.227005,415,Florianópolis,Eduardo,iPad,Eva Batson,F,Pix
+2025-09-04 02:57:27.458661,416,São Paulo,Pedro,Android,Joseph Mcguyer,M,Cartão de Crédito
+2025-09-05 16:34:27.446229,417,São Paulo,Pedro,iPad,Norma Miles,F,Pix
+2025-09-05 20:39:27.961908,418,Florianópolis,Paola,Dell,Pearlie Baker,F,Boleto
+2025-09-05 21:59:23.315282,419,Florianópolis,Rafaela,iPhone,Miguel Hunt,M,Boleto
+2025-09-05 22:55:22.428511,420,Belo Horizonte,Carleto,iPad,Dario Phelps,M,Boleto
+2025-09-05 23:09:23.324298,421,Porto Alegre,Tiago,iPhone,Tracy Nunez,M,Dinheiro
+2025-09-06 00:44:24.379976,422,Rio de Janeiro,Paulo,iPhone,Ricardo Hughes,M,Dinheiro
+2025-09-06 01:26:24.047202,423,São Paulo,João,Android,Jason Robinson,M,Pix
+2025-09-06 01:47:25.781971,424,Rio de Janeiro,Paulo,Dell,Donald Wheeler,O,Cartão de Crédito
+2025-09-06 02:12:26.617374,425,São Paulo,Maria,Dell,Isaiah Crowe,M,Dinheiro
+2025-09-06 19:12:21.835184,426,São Paulo,Pedro,Android,Marcus Bradley,M,Dinheiro
+2025-09-06 19:15:21.701691,427,Rio de Janeiro,Antônio,Dell,Leo Roderick,M,Boleto
+2025-09-06 22:33:26.301426,428,Porto Alegre,Marta,iPhone,Nancy Abbott,O,Dinheiro
+2025-09-07 00:12:26.416960,429,Florianópolis,Eduardo,iPad,Faye Turner,O,Boleto
+2025-09-07 00:55:22.688043,430,Rio de Janeiro,Paulo,Galaxy,Donny Andrews,M,Boleto
+2025-09-07 02:45:24.193092,431,São Paulo,Maria,Dell,James Chenier,M,Cartão de Crédito
+2025-09-07 18:03:26.500542,432,Porto Alegre,Lucas,Galaxy,Lisa Anderson,F,Cartão de Crédito
+2025-09-07 20:30:27.054604,433,São Paulo,Pedro,Galaxy,Gary Gartland,M,Cartão de Crédito
+2025-09-07 20:50:24.795122,434,São Paulo,Pedro,Dell,Brad Jimenez,M,Boleto
+2025-09-07 22:00:22.786468,435,Porto Alegre,Marta,iPhone,Joan Hayworth,F,Cartão de Crédito
+2025-09-07 22:13:26.832470,436,São Paulo,João,Dell,Quinton Vandenberg,O,Cartão de Crédito
+2025-09-07 22:24:23.328107,437,Porto Alegre,Lucas,iPhone,Diane Jones,F,Pix
+2025-09-08 02:55:26.829133,438,Florianópolis,Rafaela,iPhone,Pamela Toombs,F,Dinheiro
+2025-09-08 19:00:22.893299,439,Florianópolis,Rafaela,Dell,Antonia Bettendorf,F,Cartão de Crédito
+2025-09-08 22:29:22.080981,440,São Paulo,Pedro,Dell,Calvin Osborn,M,Boleto
+2025-09-09 00:59:24.200760,441,Rio de Janeiro,Antônio,Android,Bonnie Horn,F,Dinheiro
+2025-09-09 01:09:24.240005,442,Porto Alegre,Lucas,Galaxy,Jason Murdock,M,Dinheiro
+2025-09-09 01:16:27.373475,443,Florianópolis,Paola,Galaxy,Ricky Lim,M,Dinheiro
+2025-09-09 02:06:24.137736,444,Belo Horizonte,Carlos,Galaxy,Tracy Griffith,F,Dinheiro
+2025-09-09 02:25:25.996907,445,Belo Horizonte,Stephanie,Galaxy,James Williamson,M,Pix
+2025-09-09 03:20:22.435708,446,Florianópolis,Eduardo,Dell,Corey Davis,O,Cartão de Crédito
+2025-09-09 18:06:23.229146,447,Florianópolis,Rafaela,iPad,James Magee,O,Dinheiro
+2025-09-09 20:30:26.526370,448,São Paulo,João,Android,Victor Bembry,M,Cartão de Crédito
+2025-09-09 21:59:24.161070,449,Belo Horizonte,Stephanie,Galaxy,Steve Beard,M,Dinheiro
+2025-09-09 22:36:23.489841,450,Florianópolis,Rafaela,Android,Debora Clark,F,Cartão de Crédito
+2025-09-09 23:24:22.505918,451,Florianópolis,Eduardo,Android,Myra Mattera,F,Pix
+2025-09-10 01:03:27.298680,452,Belo Horizonte,Stephanie,iPad,Scott Wahl,M,Boleto
+2025-09-10 03:07:25.638003,453,São Paulo,Maria,Dell,Gary Jones,M,Dinheiro
+2025-09-10 18:03:21.827414,454,Porto Alegre,Tiago,Android,Melissa Smith,O,Cartão de Crédito
+2025-09-10 20:35:23.625485,455,Rio de Janeiro,Paulo,Dell,Kevin Dewitt,M,Cartão de Crédito
+2025-09-11 00:47:26.157929,456,Belo Horizonte,Carlos,iPad,Julia Warney,F,Cartão de Crédito
+2025-09-11 00:54:24.165264,457,São Paulo,João,Galaxy,Laura Hilker,O,Boleto
+2025-09-11 01:45:26.876423,458,Belo Horizonte,Carleto,Android,Aaron Boeke,M,Pix
+2025-09-11 19:48:23.830536,459,Florianópolis,Rafaela,Galaxy,Donald Merkl,O,Pix
+2025-09-11 20:14:27.694292,460,Belo Horizonte,Carleto,Android,Alfred Lekan,M,Dinheiro
+2025-09-11 21:25:26.931966,461,Rio de Janeiro,Juliana,Dell,Robert Davenport,M,Boleto
+2025-09-11 21:55:22.107001,462,São Paulo,Pedro,iPhone,Philip Burbank,M,Pix
+2025-09-11 22:40:27.303312,463,Florianópolis,Paola,Android,Robert John,M,Cartão de Crédito
+2025-09-12 21:53:26.036862,464,Belo Horizonte,Carleto,iPad,Jamie Jimenez,F,Boleto
+2025-09-12 22:13:23.319498,465,Florianópolis,Paola,iPhone,Darnell Hensley,O,Pix
+2025-09-13 01:41:26.849667,466,Florianópolis,Rafaela,Android,Devin Carter,M,Pix
+2025-09-13 16:43:26.500717,467,São Paulo,João,Galaxy,Joyce Byrne,F,Cartão de Crédito
+2025-09-13 17:17:25.782219,468,Belo Horizonte,Stephanie,Galaxy,Gail Candler,F,Cartão de Crédito
+2025-09-13 17:51:23.845458,469,Florianópolis,Paola,iPad,Ruby Caraballo,F,Cartão de Crédito
+2025-09-13 20:47:22.375157,470,Rio de Janeiro,Paulo,Android,David Turnage,M,Dinheiro
+2025-09-13 23:04:26.320418,471,Rio de Janeiro,Antônio,iPhone,Fay Lopez,O,Dinheiro
+2025-09-13 23:10:22.321124,472,Belo Horizonte,Carlos,Android,Kevin Gomez,O,Boleto
+2025-09-13 23:35:25.170093,473,Belo Horizonte,Carleto,Android,Amie Garcia,F,Dinheiro
+2025-09-14 00:17:23.411915,474,Belo Horizonte,Carleto,Galaxy,Roy Osborn,M,Cartão de Crédito
+2025-09-14 01:59:23.382427,475,São Paulo,Pedro,iPad,Susan Slate,F,Boleto
+2025-09-14 02:04:24.928737,476,Florianópolis,Rafaela,Android,Clayton Bruce,O,Boleto
+2025-09-14 03:20:27.017457,477,Porto Alegre,Tiago,Android,Benjamin Propheter,M,Pix
+2025-09-14 03:22:21.927870,478,Porto Alegre,Marta,Dell,Gladys Murdock,F,Cartão de Crédito
+2025-09-14 17:08:23.226477,479,Florianópolis,Eduardo,Android,Elsie Patterson,F,Dinheiro
+2025-09-14 18:20:21.506649,480,Porto Alegre,Tiago,Galaxy,Ralph Evans,M,Boleto
+2025-09-14 20:49:26.498122,481,Florianópolis,Rafaela,iPhone,Maria Howard,O,Boleto
+2025-09-14 23:20:26.649144,482,Belo Horizonte,Carlos,iPhone,Michael Parsons,M,Pix
+2025-09-15 01:28:22.002535,483,Rio de Janeiro,Antônio,iPhone,Carla Chavez,F,Cartão de Crédito
+2025-09-15 17:42:23.891480,484,São Paulo,João,Dell,Patricia Rivas,F,Pix
+2025-09-15 20:14:23.314636,485,Porto Alegre,Marta,Dell,David Leslie,M,Cartão de Crédito
+2025-09-15 20:22:22.109115,486,Florianópolis,Eduardo,iPad,Robin Fernandez,F,Boleto
+2025-09-15 21:24:26.436253,487,Rio de Janeiro,Paulo,iPad,Mary Suther,O,Boleto
+2025-09-16 00:53:25.644363,488,Porto Alegre,Marta,Dell,Irene Fox,F,Boleto
+2025-09-16 00:58:22.513722,489,Florianópolis,Rafaela,iPhone,Casey Neihart,F,Dinheiro
+2025-09-16 01:19:22.200873,490,Porto Alegre,Tiago,Galaxy,Rebecca Nichols,F,Pix
+2025-09-16 02:00:22.081544,491,Belo Horizonte,Stephanie,iPad,Carlos Scott,M,Dinheiro
+2025-09-16 16:39:25.963501,492,Florianópolis,Paola,iPad,Kelly Haley,F,Dinheiro
+2025-09-16 18:31:22.800479,493,Rio de Janeiro,Juliana,iPad,Wilbert Patrick,O,Boleto
+2025-09-16 18:34:27.077346,494,Florianópolis,Rafaela,iPad,Scott Dunn,O,Pix
+2025-09-16 21:32:26.259704,495,Belo Horizonte,Stephanie,Galaxy,Tina Bryant,F,Cartão de Crédito
+2025-09-16 23:22:26.047907,496,Porto Alegre,Marta,Android,Mark Hardcastle,M,Dinheiro
+2025-09-17 16:25:24.491188,497,Belo Horizonte,Carlos,Android,Jeffrey Watson,M,Pix
+2025-09-17 19:34:24.019265,498,Rio de Janeiro,Paulo,Galaxy,Warren Pruett,M,Cartão de Crédito
+2025-09-17 21:14:27.170215,499,São Paulo,João,iPad,Betty Martin,O,Pix
+2025-09-17 23:09:23.112362,500,São Paulo,Maria,Dell,Richard Hricko,M,Dinheiro
+2025-09-17 23:45:26.828296,501,Porto Alegre,Marta,Galaxy,Kathleen Clark,F,Boleto
+2025-09-18 18:36:24.039343,502,Rio de Janeiro,Juliana,Android,Andrew Anderson,M,Boleto
+2025-09-19 02:36:26.772024,503,Rio de Janeiro,Paulo,iPhone,Heather Heck,F,Pix
+2025-09-19 17:17:26.654945,504,Belo Horizonte,Stephanie,Galaxy,Alberto Burris,O,Pix
+2025-09-19 21:21:23.615211,505,Florianópolis,Paola,iPhone,Jason Williams,M,Pix
+2025-09-20 00:05:24.755121,506,Porto Alegre,Tiago,Galaxy,Sandra Coyle,F,Boleto
+2025-09-20 00:41:23.485248,507,São Paulo,Maria,Dell,Kimberley Mullins,F,Pix
+2025-09-20 01:05:25.793556,508,São Paulo,João,Galaxy,Lori Boling,O,Cartão de Crédito
+2025-09-20 17:34:24.349269,509,Belo Horizonte,Carleto,Android,Bryan Jackson,M,Boleto
+2025-09-20 18:53:26.029918,510,Porto Alegre,Tiago,Dell,Allan Butts,O,Cartão de Crédito
+2025-09-20 19:50:24.594687,511,Porto Alegre,Marta,Android,Richard Collins,M,Pix
+2025-09-20 19:52:26.990832,512,Rio de Janeiro,Paulo,iPhone,Moises Bayne,M,Cartão de Crédito
+2025-09-20 20:39:21.756510,513,Belo Horizonte,Carlos,Android,Francisco Scheffler,M,Pix
+2025-09-20 20:49:25.178123,514,Rio de Janeiro,Antônio,Android,Lee Velasquez,M,Dinheiro
+2025-09-20 23:25:22.127377,515,São Paulo,Maria,iPhone,Daniel Boll,O,Pix
+2025-09-21 00:25:25.177742,516,São Paulo,Maria,Galaxy,Lucille Norton,F,Dinheiro
+2025-09-21 01:42:26.664022,517,Rio de Janeiro,Paulo,Dell,Mary Tanner,F,Boleto
+2025-09-21 16:33:26.521697,518,Belo Horizonte,Carleto,iPhone,Amanda Lemley,F,Boleto
+2025-09-21 17:30:23.998270,519,Rio de Janeiro,Paulo,iPad,Ernest Givens,O,Dinheiro
+2025-09-21 20:40:27.400003,520,Rio de Janeiro,Juliana,Android,Corinne Snell,O,Dinheiro
+2025-09-21 22:46:24.212985,521,São Paulo,Maria,Galaxy,Donna Walker,F,Boleto
+2025-09-22 16:40:24.231943,522,Porto Alegre,Marta,iPad,Jorge Ridgeway,M,Cartão de Crédito
+2025-09-22 18:25:23.220019,523,Rio de Janeiro,Antônio,iPhone,William Mcgill,M,Dinheiro
+2025-09-22 18:34:23.425819,524,Florianópolis,Rafaela,iPad,Mary Norris,F,Cartão de Crédito
+2025-09-22 22:02:24.350032,525,São Paulo,Maria,iPad,Sydney Lee,M,Dinheiro
+2025-09-22 23:22:25.333714,526,São Paulo,Maria,iPad,Amy Peoples,F,Dinheiro
+2025-09-22 23:23:21.796900,527,Florianópolis,Eduardo,Dell,Timothy Wilson,O,Pix
+2025-09-22 23:51:26.949669,528,Porto Alegre,Marta,iPhone,Gregory Mentz,M,Dinheiro
+2025-09-23 00:05:23.318578,529,Rio de Janeiro,Juliana,iPhone,Jose Parr,M,Boleto
+2025-09-23 23:49:23.525777,530,Belo Horizonte,Carleto,Android,Stephanie Miller,O,Boleto
+2025-09-24 00:23:24.796468,531,Rio de Janeiro,Antônio,Dell,Maria Harris,F,Cartão de Crédito
+2025-09-24 16:41:24.756070,532,São Paulo,Maria,Android,Felix Ezell,M,Pix
+2025-09-24 18:40:25.275317,533,Rio de Janeiro,Paulo,iPad,Brian Robinson,O,Dinheiro
+2025-09-24 18:52:27.480245,534,São Paulo,Maria,Dell,James Smith,M,Boleto
+2025-09-24 19:24:25.852230,535,Belo Horizonte,Carlos,Galaxy,Leah Huntsman,F,Boleto
+2025-09-24 21:47:22.406069,536,Florianópolis,Eduardo,iPhone,Analisa Jones,F,Pix
+2025-09-25 01:10:26.218804,537,São Paulo,Maria,Galaxy,Katherine Saez,O,Cartão de Crédito
+2025-09-25 01:45:22.159190,538,Rio de Janeiro,Antônio,Android,Barbara Lett,F,Pix
+2025-09-25 01:58:24.764425,539,Belo Horizonte,Stephanie,Dell,Frederick Viggiano,O,Dinheiro
+2025-09-25 16:57:25.314395,540,Florianópolis,Rafaela,Dell,Mabel Hernandez,F,Pix
+2025-09-25 17:06:27.691642,541,São Paulo,Pedro,Galaxy,Charlie Miles,M,Cartão de Crédito
+2025-09-25 19:30:24.809747,542,São Paulo,Maria,Galaxy,Tami Turner,F,Dinheiro
+2025-09-26 00:24:23.843420,543,Florianópolis,Rafaela,Dell,Kenneth Pearson,M,Boleto
+2025-09-26 00:42:23.642015,544,São Paulo,Pedro,Galaxy,Wesley Mcmahan,M,Boleto
+2025-09-26 01:09:22.952772,545,São Paulo,Maria,iPad,Daryl Mona,M,Dinheiro
+2025-09-26 17:15:26.774128,546,Belo Horizonte,Stephanie,iPad,Mildred Ng,F,Dinheiro
+2025-09-26 18:17:24.909350,547,Belo Horizonte,Stephanie,Dell,Spring Croker,F,Cartão de Crédito
+2025-09-26 18:26:26.985483,548,Florianópolis,Paola,iPhone,Norma Bryce,F,Cartão de Crédito
+2025-09-26 19:11:27.922933,549,São Paulo,João,Android,Sandra Webster,F,Pix
+2025-09-26 23:20:26.588296,550,Florianópolis,Paola,Dell,Beverly Storey,O,Boleto
+2025-09-26 23:35:22.570847,551,Florianópolis,Rafaela,iPad,Bryan Skelton,O,Cartão de Crédito
+2025-09-27 00:29:26.448791,552,Rio de Janeiro,Paulo,Galaxy,Joshua Stpeter,M,Boleto
+2025-09-27 00:37:21.798985,553,São Paulo,Pedro,iPhone,Barbara Angelovich,F,Boleto
+2025-09-27 01:04:27.300614,554,Belo Horizonte,Stephanie,Galaxy,Andrew Lockhart,M,Dinheiro
+2025-09-27 16:56:24.363087,555,Porto Alegre,Tiago,iPhone,Melissa Lynch,F,Pix
+2025-09-27 17:46:24.922766,556,São Paulo,Maria,Android,Dennis Mejorado,M,Pix
+2025-09-27 23:17:22.858978,557,Florianópolis,Rafaela,Galaxy,Jeffrey Dehetre,M,Cartão de Crédito
+2025-09-27 23:47:24.668511,558,Porto Alegre,Lucas,iPhone,Viola Files,O,Pix
+2025-09-28 01:37:23.790651,559,Rio de Janeiro,Paulo,Dell,Deborah Perez,O,Pix
+2025-09-28 16:32:27.640743,560,São Paulo,Maria,Dell,Margaret Byers,F,Dinheiro
+2025-09-28 22:30:23.450341,561,Porto Alegre,Marta,Android,Morris Nichols,M,Dinheiro
+2025-09-28 23:54:24.037979,562,Florianópolis,Paola,Android,Rosa Proffitt,F,Boleto
+2025-09-29 00:41:23.463777,563,Rio de Janeiro,Antônio,Android,Rebecca Johnson,O,Dinheiro
+2025-09-29 16:57:26.589360,564,Porto Alegre,Lucas,iPad,George Jordan,M,Dinheiro
+2025-09-29 17:29:24.732798,565,Rio de Janeiro,Juliana,Dell,Peggy Williamson,O,Pix
+2025-09-29 19:49:26.474849,566,Belo Horizonte,Carlos,Android,Julio Nash,O,Dinheiro
+2025-09-29 21:16:27.917870,567,Belo Horizonte,Carlos,Android,Alvin Mccollough,O,Cartão de Crédito
+2025-09-30 16:53:25.839302,568,São Paulo,Pedro,iPhone,Shad Bryant,M,Pix
+2025-09-30 22:11:22.002888,569,Porto Alegre,Marta,Android,Anthony Koonce,M,Cartão de Crédito
+2025-09-30 23:28:24.230386,570,Florianópolis,Eduardo,iPad,Emma Foster,O,Cartão de Crédito
+2025-09-30 23:57:23.698241,571,São Paulo,Pedro,iPhone,Larry Doucette,M,Boleto
+2025-10-01 01:21:22.962239,572,Porto Alegre,Lucas,Galaxy,Peter Ekstrom,M,Dinheiro
+2025-10-01 02:23:25.228811,573,Porto Alegre,Tiago,iPad,Ralph Nilsson,M,Cartão de Crédito
+2025-10-01 20:19:23.820086,574,Rio de Janeiro,Antônio,iPad,Vivian Tam,F,Boleto
+2025-10-01 20:22:23.384922,575,Porto Alegre,Tiago,Android,Stephen Gonzalez,M,Pix
+2025-10-02 02:19:24.409122,576,São Paulo,João,iPad,Kathleen Miller,F,Pix
+2025-10-02 17:36:26.525350,577,São Paulo,Maria,iPad,Andrew Blalock,M,Dinheiro
+2025-10-02 18:07:24.666371,578,Porto Alegre,Marta,Dell,Carolyn Canter,F,Boleto
+2025-10-02 18:51:23.320079,579,Rio de Janeiro,Paulo,Galaxy,Virginia Browne,F,Boleto
+2025-10-02 19:03:24.370777,580,São Paulo,Maria,Galaxy,Jeffery Bob,M,Pix
+2025-10-02 19:24:27.062367,581,Florianópolis,Paola,Galaxy,Dawn Brown,F,Cartão de Crédito
+2025-10-02 19:55:23.994797,582,Porto Alegre,Tiago,Dell,Elaine Lynn,F,Cartão de Crédito
+2025-10-02 21:21:27.155615,583,Rio de Janeiro,Juliana,Android,Julia Burnley,O,Cartão de Crédito
+2025-10-03 01:14:23.047291,584,São Paulo,João,iPhone,Jeri Leyva,F,Pix
+2025-10-03 01:18:23.974320,585,Florianópolis,Paola,iPhone,Geraldine Girton,O,Boleto
+2025-10-03 16:46:27.509784,586,São Paulo,Maria,iPhone,Sofia Walls,F,Pix
+2025-10-03 23:56:26.848484,587,Belo Horizonte,Stephanie,Dell,Austin Wagoner,M,Pix
+2025-10-04 00:06:26.964400,588,Belo Horizonte,Stephanie,iPad,Colleen Thornton,F,Boleto
+2025-10-04 18:05:26.029747,589,São Paulo,João,iPhone,Susan Johnson,F,Cartão de Crédito
+2025-10-05 16:32:23.309618,590,São Paulo,Maria,iPhone,Joseph Soucy,O,Pix
+2025-10-05 17:03:24.691705,591,Belo Horizonte,Carleto,iPad,Isabel Allen,O,Dinheiro
+2025-10-05 17:18:27.922150,592,Belo Horizonte,Stephanie,Galaxy,John Porter,M,Dinheiro
+2025-10-05 19:53:26.192232,593,Belo Horizonte,Carlos,Dell,Samuel Small,O,Pix
+2025-10-05 19:58:24.811515,594,São Paulo,Maria,Android,Alvina Kirkland,O,Dinheiro
+2025-10-05 22:40:26.563184,595,Florianópolis,Paola,Dell,Sheryl Fox,F,Pix
+2025-10-05 23:18:22.578052,596,Belo Horizonte,Stephanie,Android,Jamie Burns,F,Boleto
+2025-10-06 00:04:25.263300,597,Belo Horizonte,Stephanie,iPhone,Lamar Signorile,O,Pix
+2025-10-06 00:48:25.719002,598,Florianópolis,Eduardo,Dell,Beau Brown,O,Cartão de Crédito
+2025-10-06 00:56:26.221747,599,Porto Alegre,Marta,Dell,James Ellis,M,Dinheiro
+2025-10-06 01:58:23.829794,600,Rio de Janeiro,Juliana,iPhone,James Capps,O,Cartão de Crédito
+2025-10-06 18:47:22.648873,601,Belo Horizonte,Carleto,Android,Karen Alegre,F,Cartão de Crédito
+2025-10-06 19:50:21.705249,602,Belo Horizonte,Stephanie,Galaxy,Tina Gaynor,O,Dinheiro
+2025-10-06 21:16:24.753713,603,Rio de Janeiro,Juliana,Galaxy,Virginia Cade,F,Cartão de Crédito
+2025-10-07 00:33:21.956062,604,Porto Alegre,Marta,Galaxy,Annie Parker,F,Pix
+2025-10-07 00:58:27.798546,605,Rio de Janeiro,Juliana,Android,Genaro Smith,O,Boleto
+2025-10-07 02:01:25.860930,606,Belo Horizonte,Stephanie,iPad,Rex Becher,M,Boleto
+2025-10-07 16:47:24.440905,607,Rio de Janeiro,Juliana,iPad,Paul Wilson,M,Pix
+2025-10-07 17:52:24.505130,608,Florianópolis,Eduardo,Galaxy,Brenda Edwards,F,Boleto
+2025-10-07 18:43:24.388337,609,Belo Horizonte,Stephanie,Dell,Charles Morgan,O,Pix
+2025-10-07 19:52:22.676979,610,Rio de Janeiro,Antônio,iPad,Andrew Gregory,O,Pix
+2025-10-07 21:03:21.478588,611,Belo Horizonte,Carleto,Android,Justin White,M,Boleto
+2025-10-07 21:44:24.149692,612,Florianópolis,Rafaela,Android,Gregory Mcalister,O,Dinheiro
+2025-10-08 00:58:21.540252,613,Porto Alegre,Marta,Galaxy,Jessica Hossain,O,Cartão de Crédito
+2025-10-08 01:40:27.368366,614,Porto Alegre,Lucas,Galaxy,Zaida Freeman,O,Dinheiro
+2025-10-08 16:41:26.302502,615,São Paulo,Maria,iPad,Angela Bonelli,F,Cartão de Crédito
+2025-10-09 00:06:24.792862,616,Florianópolis,Rafaela,iPhone,Kathy Mcwilliams,O,Dinheiro
+2025-10-09 01:27:23.523053,617,Belo Horizonte,Carlos,Dell,Mary Taggart,F,Dinheiro
+2025-10-09 01:30:22.161617,618,Florianópolis,Rafaela,Dell,Joseph Grillo,O,Cartão de Crédito
+2025-10-09 16:24:26.776047,619,Porto Alegre,Tiago,Android,David Guadian,M,Pix
+2025-10-09 18:24:24.876194,620,Rio de Janeiro,Juliana,Dell,Angela Mitchell,F,Cartão de Crédito
+2025-10-09 23:01:27.730227,621,Rio de Janeiro,Paulo,Android,Sonya Saucier,O,Pix
+2025-10-10 01:21:25.305825,622,Rio de Janeiro,Paulo,iPhone,Jennifer Fox,O,Dinheiro
+2025-10-10 03:22:23.726266,623,Florianópolis,Eduardo,iPhone,Karly Graham,F,Boleto
+2025-10-10 16:26:24.162361,624,Porto Alegre,Marta,Android,Eric Perez,M,Dinheiro
+2025-10-10 16:42:23.634562,625,Florianópolis,Rafaela,iPhone,Christopher Boyer,M,Boleto
+2025-10-10 17:25:22.405518,626,Belo Horizonte,Carlos,iPhone,Donald Smith,M,Boleto
+2025-10-10 19:46:24.694444,627,São Paulo,João,Galaxy,Agnes Stella,O,Boleto
+2025-10-10 19:58:26.283319,628,Porto Alegre,Lucas,Android,Charles Hubbard,M,Cartão de Crédito
+2025-10-10 22:09:27.195183,629,Florianópolis,Paola,Dell,Joseph Odom,M,Dinheiro
+2025-10-11 02:38:26.190453,630,Porto Alegre,Lucas,Galaxy,Stephen Coffman,M,Pix
+2025-10-11 17:29:27.758557,631,Belo Horizonte,Carlos,Android,Jose Austin,M,Boleto
+2025-10-11 19:48:27.780443,632,Florianópolis,Rafaela,Android,Melissa Brannan,F,Cartão de Crédito
+2025-10-11 21:36:22.578314,633,Porto Alegre,Tiago,iPad,Robin Daking,F,Dinheiro
+2025-10-11 21:43:26.965204,634,Porto Alegre,Marta,Galaxy,Debra Hopson,O,Boleto
+2025-10-12 01:45:26.417991,635,Florianópolis,Eduardo,Android,Fred Green,M,Pix
+2025-10-12 21:30:26.140979,636,Rio de Janeiro,Antônio,iPad,Lee Sidwell,M,Dinheiro
+2025-10-12 22:46:23.478000,637,Rio de Janeiro,Paulo,Galaxy,Ronnie Guyton,M,Pix
+2025-10-13 00:59:22.858341,638,Belo Horizonte,Carlos,Dell,Paul Miles,M,Boleto
+2025-10-13 01:23:22.100592,639,Porto Alegre,Tiago,iPad,Jose Wilbert,M,Pix
+2025-10-13 03:09:26.646427,640,Belo Horizonte,Stephanie,Galaxy,James Fletcher,M,Boleto
+2025-10-13 16:25:22.438407,641,Florianópolis,Paola,Galaxy,Robert Kapitula,M,Pix
+2025-10-13 19:31:26.563573,642,Florianópolis,Eduardo,Galaxy,Daryl Jinkens,F,Boleto
+2025-10-13 19:44:24.469619,643,São Paulo,Maria,iPad,Kenneth Shaffer,M,Cartão de Crédito
+2025-10-13 20:54:27.300006,644,Rio de Janeiro,Paulo,iPhone,Jeffrey Cooper,M,Cartão de Crédito
+2025-10-14 00:55:22.435944,645,Rio de Janeiro,Paulo,iPhone,Joan Norton,O,Pix
+2025-10-14 16:57:22.688578,646,Belo Horizonte,Stephanie,iPad,Michael Lozano,M,Boleto
+2025-10-14 19:34:23.296205,647,São Paulo,Pedro,Dell,Angelo Price,M,Pix
+2025-10-14 23:22:27.387119,648,Porto Alegre,Marta,Android,Florencio Wood,O,Cartão de Crédito
+2025-10-15 02:30:24.352488,649,Belo Horizonte,Carlos,Dell,Robin Davenport,F,Pix
+2025-10-15 19:56:23.325316,650,São Paulo,Pedro,Dell,Anna Brown,F,Cartão de Crédito
+2025-10-15 21:31:24.125609,651,São Paulo,Maria,iPhone,David Gonzalez,M,Dinheiro
+2025-10-15 23:35:26.858685,652,Porto Alegre,Lucas,iPhone,Abigail Tosh,F,Boleto
+2025-10-16 00:19:21.506019,653,Florianópolis,Paola,iPad,Vivian Dixon,F,Cartão de Crédito
+2025-10-16 01:36:23.451347,654,Belo Horizonte,Stephanie,Dell,Earl Whitney,M,Cartão de Crédito
+2025-10-16 03:10:24.906827,655,São Paulo,João,iPad,Carlos Swisher,M,Dinheiro
+2025-10-16 16:45:21.540031,656,Rio de Janeiro,Juliana,Galaxy,Barry White,M,Boleto
+2025-10-16 22:12:25.719826,657,São Paulo,João,Galaxy,Maria Johnson,O,Pix
+2025-10-16 22:33:22.767945,658,São Paulo,Maria,iPad,Paul Campo,O,Boleto
+2025-10-17 00:19:24.674770,659,Porto Alegre,Tiago,Dell,Karla Maples,F,Boleto
+2025-10-17 01:06:22.229445,660,São Paulo,João,Dell,Jose Maher,M,Boleto
+2025-10-17 20:32:24.736131,661,Florianópolis,Rafaela,Galaxy,Rosie Banks,F,Boleto
+2025-10-17 23:32:23.650939,662,Belo Horizonte,Carleto,Dell,Francis Vastardis,F,Boleto
+2025-10-18 00:00:24.441710,663,Porto Alegre,Marta,Android,Phillip Boesiger,M,Pix
+2025-10-18 19:52:24.308145,664,Rio de Janeiro,Paulo,iPad,Frank Ash,M,Boleto
+2025-10-18 20:50:24.159851,665,São Paulo,João,Android,Ronald Harris,M,Cartão de Crédito
+2025-10-18 21:10:22.690641,666,Porto Alegre,Lucas,Galaxy,Norma Newcomb,O,Dinheiro
+2025-10-18 21:24:26.310942,667,Belo Horizonte,Carlos,iPhone,David Arthurs,O,Dinheiro
+2025-10-18 22:46:23.601650,668,Belo Horizonte,Carleto,iPhone,Marvin Spice,M,Pix
+2025-10-19 00:04:24.437241,669,Porto Alegre,Lucas,Galaxy,Ashley Martinez,F,Dinheiro
+2025-10-19 16:41:27.395716,670,Belo Horizonte,Carlos,iPad,Raymond Crosby,M,Pix
+2025-10-19 17:22:26.030799,671,Rio de Janeiro,Paulo,Android,Elizabeth Fuller,O,Boleto
+2025-10-19 18:02:27.360099,672,São Paulo,João,Dell,Harold Wilson,M,Boleto
+2025-10-19 22:18:23.451844,673,Porto Alegre,Lucas,iPad,Lawrence Natal,O,Dinheiro
+2025-10-20 00:28:26.996212,674,Belo Horizonte,Carleto,Dell,Randi Warkentin,F,Boleto
+2025-10-20 02:11:26.740845,675,São Paulo,João,Android,Thomas Hoffman,O,Dinheiro
+2025-10-20 02:58:26.803486,676,Belo Horizonte,Carlos,iPhone,Dolores Sparacio,O,Cartão de Crédito
+2025-10-20 16:42:26.051175,677,São Paulo,João,Galaxy,Kevin Pryor,M,Dinheiro
+2025-10-20 19:24:25.189900,678,São Paulo,Maria,Galaxy,Andreas Kong,M,Dinheiro
+2025-10-21 01:11:21.498648,679,Porto Alegre,Lucas,Galaxy,Miguel May,O,Boleto
+2025-10-21 01:52:25.996259,680,Rio de Janeiro,Juliana,iPad,Lisa Foley,F,Pix
+2025-10-21 02:28:27.923247,681,Florianópolis,Paola,Galaxy,Christian Dayton,O,Boleto
+2025-10-21 21:19:22.689147,682,Florianópolis,Eduardo,Galaxy,Shauna Parker,O,Pix
+2025-10-21 22:24:23.442360,683,Porto Alegre,Tiago,Galaxy,Vincent Vasta,O,Cartão de Crédito
+2025-10-21 22:50:27.981960,684,Rio de Janeiro,Antônio,Galaxy,Alice Gomez,O,Cartão de Crédito
+2025-10-22 00:24:21.504647,685,Rio de Janeiro,Juliana,iPhone,Jamie Ellison,F,Cartão de Crédito
+2025-10-22 01:21:24.646378,686,Belo Horizonte,Carleto,iPad,Kristi Will,O,Boleto
+2025-10-22 01:49:25.649490,687,São Paulo,João,Galaxy,Dennis Lindsey,M,Pix
+2025-10-22 02:16:23.788511,688,Florianópolis,Paola,Galaxy,Cory Palmer,M,Dinheiro
+2025-10-22 16:56:23.378701,689,Rio de Janeiro,Juliana,Android,Lillian Friedman,O,Boleto
+2025-10-22 18:34:24.423415,690,Florianópolis,Paola,iPad,Eric Kasten,M,Dinheiro
+2025-10-22 22:11:21.904722,691,Florianópolis,Rafaela,Galaxy,Walter Williams,O,Boleto
+2025-10-23 02:54:23.727709,692,Rio de Janeiro,Antônio,iPad,Christopher Bath,O,Dinheiro
+2025-10-23 03:23:25.138696,693,Rio de Janeiro,Juliana,iPad,Derrick Burton,M,Cartão de Crédito
+2025-10-23 16:42:24.829243,694,Porto Alegre,Marta,iPad,Travis Ortiz,M,Dinheiro
+2025-10-23 16:42:25.537449,695,Florianópolis,Paola,iPad,Nancy Frazier,O,Cartão de Crédito
+2025-10-23 17:40:23.750820,696,Florianópolis,Rafaela,Android,Billy Swain,M,Boleto
+2025-10-23 19:16:26.498314,697,Belo Horizonte,Carlos,Dell,Faith Meyer,O,Cartão de Crédito
+2025-10-23 19:36:26.192853,698,Rio de Janeiro,Paulo,Android,Dennis Comfort,M,Cartão de Crédito
+2025-10-23 21:14:26.223991,699,Rio de Janeiro,Antônio,Galaxy,Loren Tran,M,Dinheiro
+2025-10-23 21:43:25.994792,700,São Paulo,Maria,Dell,John Brown,M,Dinheiro
+2025-10-24 16:57:25.963980,701,Belo Horizonte,Stephanie,iPad,Emily Beauchemin,F,Dinheiro
+2025-10-24 20:21:25.156979,702,São Paulo,Pedro,iPad,Maureen Johnson,F,Dinheiro
+2025-10-25 00:08:24.829893,703,Belo Horizonte,Stephanie,iPad,Tad Ohara,M,Boleto
+2025-10-25 17:04:24.523079,704,Belo Horizonte,Stephanie,iPhone,Joyce Reyes,O,Dinheiro
+2025-10-25 18:18:27.791109,705,Belo Horizonte,Carleto,Galaxy,Carri Boggan,O,Boleto
+2025-10-25 18:26:26.704489,706,São Paulo,Maria,Android,William Smither,O,Dinheiro
+2025-10-25 22:28:25.819636,707,Belo Horizonte,Carleto,Galaxy,Keith Harrison,M,Boleto
+2025-10-25 23:13:24.795468,708,Rio de Janeiro,Paulo,Dell,Jasmine Longoria,O,Boleto
+2025-10-26 01:07:21.703409,709,Rio de Janeiro,Juliana,Android,Linda Carswell,F,Dinheiro
+2025-10-26 16:31:24.753205,710,São Paulo,Maria,Galaxy,Chuck Gregory,M,Pix
+2025-10-26 18:31:25.842972,711,Porto Alegre,Lucas,Galaxy,Allen Martinez,M,Pix
+2025-10-26 22:33:26.283877,712,Belo Horizonte,Stephanie,Dell,Melvin Elliott,M,Boleto
+2025-10-27 02:55:25.970880,713,Belo Horizonte,Carlos,iPhone,Emma Duncan,F,Pix
+2025-10-27 20:00:27.916683,714,São Paulo,João,Dell,Matthew Shanks,O,Pix
+2025-10-27 22:12:21.475976,715,Belo Horizonte,Stephanie,Dell,Jerry Ferguson,M,Cartão de Crédito
+2025-10-27 22:34:25.325643,716,Florianópolis,Eduardo,Android,Pearl Meggs,O,Dinheiro
+2025-10-28 18:17:22.201121,717,Rio de Janeiro,Juliana,Galaxy,Brandon Costley,O,Dinheiro
+2025-10-28 21:04:25.789442,718,Rio de Janeiro,Antônio,iPhone,Dorothy Priestley,F,Dinheiro
+2025-10-29 00:40:23.892185,719,Florianópolis,Paola,iPad,Claudia Wyndham,O,Dinheiro
+2025-10-29 16:40:24.137344,720,Porto Alegre,Tiago,Dell,George Petersen,O,Cartão de Crédito
+2025-10-29 19:02:25.995641,721,Belo Horizonte,Carlos,iPhone,Maria Atkinson,F,Boleto
+2025-10-29 23:48:26.379988,722,São Paulo,Pedro,Galaxy,James House,O,Pix
+2025-10-30 00:26:21.973616,723,Porto Alegre,Tiago,Android,Sara Mayhew,F,Dinheiro
+2025-10-30 17:17:23.940629,724,Porto Alegre,Marta,Android,Thomas Mcintosh,M,Pix
+2025-10-30 17:59:22.790883,725,Belo Horizonte,Stephanie,iPad,Brenda Levitan,F,Boleto
+2025-10-30 19:36:22.276118,726,Rio de Janeiro,Paulo,Dell,Aurelio Makris,M,Boleto
+2025-10-31 03:02:22.070733,727,Florianópolis,Rafaela,Android,Mary Gabriele,O,Dinheiro
+2025-10-31 19:08:27.910301,728,Florianópolis,Rafaela,Dell,David Arnold,O,Pix
+2025-10-31 23:25:22.004437,729,Florianópolis,Paola,Galaxy,Thomas Jenkins,M,Dinheiro
+2025-11-01 02:22:23.643198,730,São Paulo,Pedro,Galaxy,Peggy Apple,F,Pix
+2025-11-01 02:38:27.962827,731,São Paulo,Pedro,Dell,Tracy Jacocks,O,Pix
+2025-11-01 16:50:24.700433,732,Belo Horizonte,Carleto,iPad,Andrea Butler,F,Pix
+2025-11-01 20:23:21.496070,733,Rio de Janeiro,Paulo,Dell,Rosalie Carter,F,Boleto
+2025-11-01 21:34:27.900920,734,Belo Horizonte,Stephanie,Android,Ann Correa,F,Boleto
+2025-11-02 00:54:24.813036,735,Porto Alegre,Lucas,Android,Ana Benedetto,F,Pix
+2025-11-02 01:46:26.532276,736,Porto Alegre,Lucas,Android,Roger Ramaudar,M,Dinheiro
+2025-11-02 01:51:26.027978,737,São Paulo,João,Galaxy,Scott Ly,M,Boleto
+2025-11-02 17:57:27.171175,738,Belo Horizonte,Stephanie,Galaxy,Serina Williams,O,Dinheiro
+2025-11-02 19:54:26.895798,739,Rio de Janeiro,Juliana,iPhone,Barbara Turner,O,Pix
+2025-11-02 21:52:24.563751,740,Florianópolis,Eduardo,Dell,Lee Funk,M,Cartão de Crédito
+2025-11-03 03:16:21.496418,741,Florianópolis,Rafaela,Android,Ellen Hixon,F,Dinheiro
+2025-11-03 18:04:26.417584,742,São Paulo,Maria,Galaxy,Stacy Brown,F,Cartão de Crédito
+2025-11-03 18:05:22.979819,743,Belo Horizonte,Carlos,Android,John Scott,M,Cartão de Crédito
+2025-11-03 21:48:21.707628,744,São Paulo,Pedro,Android,Patrick Harrison,O,Pix
+2025-11-03 23:04:26.330928,745,São Paulo,Pedro,Galaxy,Bernadette Minarik,F,Boleto
+2025-11-04 01:27:26.299513,746,Porto Alegre,Lucas,Galaxy,Daniel Newberry,M,Boleto
+2025-11-04 02:58:25.644823,747,São Paulo,Pedro,Dell,Katrina Thomas,F,Cartão de Crédito
+2025-11-04 20:00:24.737335,748,Florianópolis,Paola,Dell,Raymond Carter,M,Pix
+2025-11-04 21:21:27.605214,749,Florianópolis,Rafaela,Android,Robert Banks,M,Cartão de Crédito
+2025-11-05 02:05:22.109391,750,São Paulo,Pedro,iPad,Andrew Smith,M,Pix
+2025-11-05 02:24:27.900565,751,Porto Alegre,Marta,Dell,John Goodwin,M,Pix
+2025-11-05 17:08:24.191545,752,Belo Horizonte,Stephanie,Android,Frankie Davis,M,Boleto
+2025-11-05 19:41:27.450012,753,São Paulo,João,Android,Debra Cleary,F,Pix
+2025-11-05 19:50:26.790223,754,Belo Horizonte,Stephanie,iPhone,Margarita Lawson,F,Cartão de Crédito
+2025-11-05 20:03:27.077583,755,Rio de Janeiro,Antônio,Galaxy,Justin Meyer,M,Cartão de Crédito
+2025-11-06 00:56:22.005210,756,Florianópolis,Paola,Android,Marian Alam,F,Cartão de Crédito
+2025-11-06 02:06:26.340720,757,Porto Alegre,Lucas,Galaxy,Mary Peltz,F,Pix
+2025-11-06 03:16:21.759567,758,Belo Horizonte,Carlos,iPhone,Catherine Irby,O,Pix
+2025-11-06 19:35:23.048719,759,Florianópolis,Eduardo,iPhone,Ada Gonzalez,F,Cartão de Crédito
+2025-11-06 19:56:21.559103,760,Florianópolis,Rafaela,Galaxy,Merrie Murray,F,Cartão de Crédito
+2025-11-06 21:39:24.148660,761,Belo Horizonte,Stephanie,iPad,Fernando Williams,O,Pix
+2025-11-06 22:11:23.626530,762,Belo Horizonte,Stephanie,iPad,Arturo Tipler,M,Dinheiro
+2025-11-06 22:16:26.851209,763,Belo Horizonte,Carleto,Android,Reynaldo Marshall,O,Pix
+2025-11-07 01:09:21.883360,764,São Paulo,Pedro,iPad,Mark Strubbe,M,Boleto
+2025-11-07 01:31:24.566480,765,Rio de Janeiro,Antônio,Galaxy,Richard Mcclure,M,Cartão de Crédito
+2025-11-07 03:10:23.982638,766,São Paulo,Pedro,iPad,Daniel Hayes,M,Pix
+2025-11-07 17:20:27.809670,767,Rio de Janeiro,Juliana,iPad,Evelyn Holm,F,Pix
+2025-11-07 19:17:25.197158,768,São Paulo,Pedro,iPhone,Jacob Salazar,M,Cartão de Crédito
+2025-11-07 20:36:27.902084,769,Rio de Janeiro,Juliana,iPad,Kristie Duhe,O,Pix
+2025-11-07 23:31:22.195114,770,Florianópolis,Paola,Galaxy,Maryann Cassidy,F,Boleto
+2025-11-08 00:30:27.846225,771,São Paulo,João,Dell,Michael Stommes,O,Pix
+2025-11-08 00:37:24.149363,772,Belo Horizonte,Stephanie,iPad,Vivian Douglas,F,Cartão de Crédito
+2025-11-08 02:50:26.608072,773,Florianópolis,Rafaela,Galaxy,Josephine Martinez,F,Pix
+2025-11-08 02:55:26.775192,774,São Paulo,Maria,iPad,Ines Bernard,O,Pix
+2025-11-08 18:29:26.713158,775,Belo Horizonte,Carlos,Android,Martha Held,F,Cartão de Crédito
+2025-11-08 22:41:25.588187,776,Florianópolis,Rafaela,Galaxy,Joey Wolfman,M,Cartão de Crédito
+2025-11-09 20:37:22.848640,777,Porto Alegre,Marta,Dell,Nicole Macdowell,O,Boleto
+2025-11-09 21:28:26.336609,778,Florianópolis,Rafaela,Galaxy,Ngan Zahn,F,Cartão de Crédito
+2025-11-09 21:30:24.690218,779,São Paulo,Pedro,iPhone,Lee Bock,M,Cartão de Crédito
+2025-11-09 22:39:26.221958,780,Rio de Janeiro,Antônio,iPad,Michael Corbin,O,Cartão de Crédito
+2025-11-09 22:41:22.483874,781,Florianópolis,Rafaela,Android,Anna Stewart,O,Boleto
+2025-11-09 22:45:23.043417,782,Belo Horizonte,Carleto,Galaxy,Dawn Duffey,F,Cartão de Crédito
+2025-11-09 23:53:24.354024,783,Rio de Janeiro,Juliana,Dell,Kelly Mckenney,M,Dinheiro
+2025-11-10 02:05:25.000453,784,São Paulo,Maria,Dell,Michael Behne,M,Cartão de Crédito
+2025-11-10 02:28:21.555985,785,Florianópolis,Paola,iPad,Kenneth Severance,O,Cartão de Crédito
+2025-11-10 03:00:23.821690,786,São Paulo,João,Galaxy,Stacy Stevens,F,Pix
+2025-11-10 18:09:25.831177,787,Florianópolis,Eduardo,Android,Roberta Schroeder,F,Dinheiro
+2025-11-10 18:25:24.867936,788,São Paulo,Maria,iPhone,Jason Gonzalez,M,Dinheiro
+2025-11-10 19:06:26.525092,789,Rio de Janeiro,Paulo,Galaxy,Evelyn Montgomery,F,Boleto
+2025-11-10 20:57:21.530393,790,Rio de Janeiro,Paulo,Dell,Allen Eidson,O,Dinheiro
+2025-11-10 21:33:27.480426,791,Porto Alegre,Tiago,Galaxy,Peter Jordan,M,Dinheiro
+2025-11-10 23:59:23.887308,792,Belo Horizonte,Carlos,Android,Christina Murphy,F,Pix
+2025-11-11 00:34:21.976427,793,Belo Horizonte,Carlos,iPad,Gloria Balowski,F,Pix
+2025-11-11 02:59:24.049328,794,São Paulo,João,Android,Jared Whittenbeck,M,Boleto
+2025-11-11 03:15:27.726320,795,Belo Horizonte,Carlos,Android,Lidia Lockwood,F,Dinheiro
+2025-11-11 03:21:22.405695,796,São Paulo,Maria,Galaxy,Manuel Smith,M,Cartão de Crédito
+2025-11-11 17:50:23.701455,797,São Paulo,Pedro,Android,Willie Smith,M,Pix
+2025-11-11 18:01:21.479030,798,Belo Horizonte,Carleto,Dell,Geoffrey Loguidice,O,Pix
+2025-11-11 18:53:27.845964,799,Belo Horizonte,Carlos,iPad,Harold Kim,O,Cartão de Crédito
+2025-11-11 20:28:25.284011,800,São Paulo,Maria,Android,Trena Stathopoulos,F,Dinheiro
+2025-11-12 01:13:27.373229,801,Porto Alegre,Marta,iPad,Craig Robertson,M,Cartão de Crédito
+2025-11-12 17:09:26.301762,802,Florianópolis,Paola,iPhone,Frank Blackmon,M,Boleto
+2025-11-12 19:20:22.127093,803,Rio de Janeiro,Paulo,iPhone,Javier Murphy,O,Boleto
+2025-11-12 19:21:25.734628,804,Belo Horizonte,Carleto,Galaxy,Lucy Koffler,F,Boleto
+2025-11-13 00:16:26.346974,805,Florianópolis,Rafaela,iPhone,Jesse Mayne,M,Pix
+2025-11-13 00:24:24.700257,806,Florianópolis,Eduardo,Galaxy,Michael Allen,M,Cartão de Crédito
+2025-11-13 01:03:22.004641,807,São Paulo,Maria,Android,Martha Larson,F,Cartão de Crédito
+2025-11-13 02:13:24.351214,808,Florianópolis,Eduardo,Dell,Rico Anderson,M,Pix
+2025-11-13 02:21:26.984906,809,Rio de Janeiro,Antônio,iPad,Ron Lewis,M,Pix
+2025-11-13 02:22:23.004591,810,Rio de Janeiro,Juliana,Android,Harry Lansdell,O,Cartão de Crédito
+2025-11-13 17:01:25.961289,811,Belo Horizonte,Carlos,iPhone,Rosalinda Townsend,F,Cartão de Crédito
+2025-11-13 18:04:27.981555,812,Florianópolis,Rafaela,iPhone,Maria Campos,F,Cartão de Crédito
+2025-11-13 23:53:23.969394,813,Florianópolis,Paola,iPhone,Amanda Trask,F,Pix
+2025-11-14 00:05:27.691979,814,Porto Alegre,Tiago,Galaxy,Jayne Salmon,F,Boleto
+2025-11-14 02:04:23.069637,815,Porto Alegre,Marta,iPhone,Selena Henry,F,Pix
+2025-11-14 17:27:24.833883,816,Porto Alegre,Marta,Dell,Kenneth Robinson,M,Dinheiro
+2025-11-14 18:45:25.177534,817,São Paulo,Maria,Dell,Dorothy Diaz,O,Boleto
+2025-11-14 22:42:22.373950,818,Belo Horizonte,Carleto,Dell,Jose Martin,O,Pix
+2025-11-14 23:06:24.929212,819,Florianópolis,Rafaela,Galaxy,Estella Heeren,O,Pix
+2025-11-14 23:41:22.076201,820,Rio de Janeiro,Antônio,Dell,Michael Powers,O,Cartão de Crédito
+2025-11-15 17:10:27.263463,821,São Paulo,Maria,Android,Anita Stamey,F,Boleto
+2025-11-16 02:31:27.510503,822,Belo Horizonte,Carlos,Android,Stephanie Legault,F,Dinheiro
+2025-11-16 16:41:22.164649,823,Porto Alegre,Tiago,Android,John Wehausen,M,Dinheiro
+2025-11-16 17:10:23.420367,824,São Paulo,João,iPhone,Ismael Caballero,M,Cartão de Crédito
+2025-11-16 18:20:26.514233,825,Porto Alegre,Lucas,iPhone,Rosanne Clem,F,Cartão de Crédito
+2025-11-16 19:01:23.421526,826,Rio de Janeiro,Juliana,Galaxy,Michael Jones,O,Pix
+2025-11-16 20:27:26.224479,827,Rio de Janeiro,Antônio,Galaxy,Virginia Todd,F,Pix
+2025-11-16 21:04:23.618066,828,Florianópolis,Eduardo,Dell,Jeanette Valdez,F,Boleto
+2025-11-16 21:37:24.199784,829,Belo Horizonte,Stephanie,iPad,Josephine Riley,F,Cartão de Crédito
+2025-11-16 23:11:25.893560,830,Rio de Janeiro,Paulo,Galaxy,Eric Runyan,M,Dinheiro
+2025-11-16 23:43:26.382148,831,Belo Horizonte,Stephanie,iPhone,Chantal Meriwether,F,Cartão de Crédito
+2025-11-17 00:28:21.894740,832,São Paulo,Pedro,Galaxy,Max Graves,M,Boleto
+2025-11-17 00:36:26.589576,833,Rio de Janeiro,Juliana,iPad,Rhea Solarzano,F,Pix
+2025-11-17 01:58:21.834537,834,São Paulo,Maria,Dell,Ofelia Owens,O,Cartão de Crédito
+2025-11-17 02:01:27.004809,835,Belo Horizonte,Stephanie,Android,Hee Morales,F,Pix
+2025-11-17 17:59:22.333669,836,Belo Horizonte,Carleto,iPhone,Francesca Johnson,O,Dinheiro
+2025-11-17 19:20:22.114474,837,Rio de Janeiro,Juliana,Android,Margaret Cobian,F,Boleto
+2025-11-17 21:09:24.867553,838,São Paulo,João,iPad,William Wolf,M,Cartão de Crédito
+2025-11-17 23:57:22.538199,839,Porto Alegre,Tiago,Dell,Michael Costa,M,Cartão de Crédito
+2025-11-18 00:48:24.370192,840,Florianópolis,Paola,Android,Beau Francis,M,Dinheiro
+2025-11-18 16:41:22.076565,841,São Paulo,João,iPad,Rene Warner,M,Boleto
+2025-11-18 17:52:27.394849,842,Belo Horizonte,Carlos,Dell,Rickey Oconnor,O,Dinheiro
+2025-11-18 18:23:24.380230,843,São Paulo,Pedro,iPhone,Richard Hall,M,Pix
+2025-11-18 18:46:23.995326,844,Florianópolis,Paola,iPhone,Lourdes Endicott,O,Dinheiro
+2025-11-18 21:00:22.404251,845,Porto Alegre,Lucas,iPhone,Tammy Burton,O,Boleto
+2025-11-18 23:58:24.470547,846,São Paulo,João,iPad,Irving Howard,M,Boleto
+2025-11-19 00:11:27.901603,847,Florianópolis,Rafaela,Galaxy,Janet Crosby,O,Pix
+2025-11-19 00:36:21.956677,848,Porto Alegre,Tiago,iPad,Michelle Thompson,O,Boleto
+2025-11-19 02:20:26.934853,849,São Paulo,Pedro,iPad,Charles Kelly,M,Cartão de Crédito
+2025-11-19 02:51:26.500025,850,Rio de Janeiro,Paulo,Android,Lisa Burks,O,Boleto
+2025-11-19 17:28:23.127354,851,Florianópolis,Rafaela,Galaxy,Mary Price,F,Boleto
+2025-11-19 17:33:21.593750,852,São Paulo,João,iPad,Martin Kost,M,Pix
+2025-11-19 18:08:27.398263,853,Porto Alegre,Tiago,iPad,Amy Cohen,O,Pix
+2025-11-19 20:38:23.843698,854,Florianópolis,Paola,Android,Sarah Jackson,O,Boleto
+2025-11-19 20:52:24.441485,855,Porto Alegre,Lucas,Android,Rebecca Gordon,F,Boleto
+2025-11-19 21:21:27.618415,856,São Paulo,Maria,Galaxy,Roosevelt Prather,M,Pix
+2025-11-19 21:47:23.170880,857,São Paulo,João,Dell,Albert Chevez,M,Cartão de Crédito
+2025-11-20 03:22:22.098109,858,Rio de Janeiro,Juliana,iPhone,Eric Person,O,Boleto
+2025-11-20 16:44:25.718813,859,Rio de Janeiro,Juliana,Android,Steven Clark,O,Boleto
+2025-11-20 17:47:27.129485,860,Porto Alegre,Lucas,iPhone,Billy Curry,M,Dinheiro
+2025-11-20 18:48:23.031243,861,São Paulo,Pedro,Dell,Robert Lumsden,M,Pix
+2025-11-20 19:16:27.641292,862,Florianópolis,Paola,Android,James Bull,O,Cartão de Crédito
+2025-11-20 21:11:27.666759,863,Rio de Janeiro,Antônio,iPad,Crystal Viola,F,Dinheiro
+2025-11-21 01:03:23.626219,864,Belo Horizonte,Carleto,iPhone,Lillian Beck,F,Pix
+2025-11-21 02:13:22.741635,865,Belo Horizonte,Carleto,iPad,Viola Barnes,O,Pix
+2025-11-21 19:55:23.734674,866,Rio de Janeiro,Juliana,Android,Robert Douglas,O,Pix
+2025-11-21 21:14:24.757140,867,Porto Alegre,Marta,Dell,Helen Lipsky,F,Boleto
+2025-11-21 21:20:26.416718,868,Belo Horizonte,Carlos,iPad,Sally Adams,F,Cartão de Crédito
+2025-11-21 22:19:26.153378,869,Rio de Janeiro,Paulo,iPhone,Everette Thompson,M,Boleto
+2025-11-21 22:52:24.938275,870,Florianópolis,Paola,Galaxy,Clark Bordner,O,Pix
+2025-11-22 00:29:24.379436,871,Porto Alegre,Lucas,iPad,James Knowles,O,Dinheiro
+2025-11-22 20:50:24.240692,872,Belo Horizonte,Carleto,iPhone,Enoch Ertz,M,Dinheiro
+2025-11-22 21:55:27.360286,873,Florianópolis,Eduardo,iPad,Brenna Korando,F,Dinheiro
+2025-11-22 22:55:26.259951,874,Porto Alegre,Tiago,Dell,Christopher Gajate,O,Boleto
+2025-11-23 00:39:26.710920,875,São Paulo,João,Android,Lori Kersey,O,Dinheiro
+2025-11-23 01:04:22.228633,876,Florianópolis,Paola,Galaxy,Tad Hernandez,M,Dinheiro
+2025-11-23 18:54:22.425923,877,Belo Horizonte,Stephanie,Android,Kathleen Rhoades,F,Dinheiro
+2025-11-23 21:33:23.982896,878,Belo Horizonte,Carlos,Android,Craig Sweeney,O,Pix
+2025-11-24 02:56:23.425310,879,São Paulo,Pedro,Android,James Davis,O,Cartão de Crédito
+2025-11-24 17:29:24.230630,880,Rio de Janeiro,Antônio,Android,Vincent Bowers,O,Cartão de Crédito
+2025-11-24 21:46:26.866030,881,São Paulo,Maria,Android,George Inks,O,Cartão de Crédito
+2025-11-24 22:37:26.037183,882,Belo Horizonte,Stephanie,Galaxy,Scott Hines,O,Dinheiro
+2025-11-25 01:42:22.367927,883,Belo Horizonte,Carleto,Android,David Rodriguez,O,Pix
+2025-11-25 02:14:27.200485,884,Porto Alegre,Marta,Android,Susan Ratcliffe,F,Boleto
+2025-11-25 03:16:22.158468,885,Porto Alegre,Lucas,iPhone,Margaret Chapman,F,Boleto
+2025-11-25 20:20:24.505363,886,Porto Alegre,Lucas,iPhone,Richard Akins,M,Boleto
+2025-11-25 21:58:25.848750,887,Belo Horizonte,Carleto,Galaxy,Carolyne Mcreynolds,F,Dinheiro
+2025-11-25 22:11:26.624729,888,Porto Alegre,Marta,iPhone,Chris Pickens,O,Boleto
+2025-11-25 23:06:26.763403,889,Belo Horizonte,Carleto,Dell,Douglas Holzer,O,Pix
+2025-11-25 23:24:27.605486,890,São Paulo,Pedro,Android,Leo Mascia,M,Cartão de Crédito
+2025-11-26 01:17:23.379294,891,Belo Horizonte,Stephanie,Galaxy,Valerie Quiroz,O,Pix
+2025-11-26 01:33:26.929274,892,São Paulo,João,iPhone,So Romero,F,Boleto
+2025-11-26 01:44:22.212401,893,Porto Alegre,Lucas,iPad,Javier Mallari,O,Dinheiro
+2025-11-26 18:14:24.047599,894,Belo Horizonte,Stephanie,iPad,Pamela Martinez,F,Dinheiro
+2025-11-27 16:39:28.020900,895,Rio de Janeiro,Paulo,iPhone,Alexander Palomares,M,Cartão de Crédito
+2025-11-27 18:15:26.934653,896,São Paulo,Pedro,iPhone,Edward Ross,M,Cartão de Crédito
+2025-11-28 16:58:27.290949,897,Rio de Janeiro,Paulo,iPhone,Charles Cullum,M,Pix
+2025-11-28 18:04:25.956358,898,Belo Horizonte,Carleto,iPad,Elizabeth Severance,F,Boleto
+2025-11-28 19:20:26.648279,899,Rio de Janeiro,Paulo,Galaxy,Joseph Bain,O,Cartão de Crédito
+2025-11-29 18:13:26.928434,900,Porto Alegre,Tiago,iPhone,Vita Lee,F,Dinheiro
+2025-11-29 18:58:25.959508,901,Florianópolis,Rafaela,Dell,Beverly Dotson,F,Pix
+2025-11-29 19:08:26.318349,902,Porto Alegre,Tiago,iPhone,Richard Cazares,M,Boleto
+2025-11-29 22:35:27.197693,903,Belo Horizonte,Carlos,Galaxy,Barbara Lebrun,F,Dinheiro
+2025-11-29 23:59:24.492659,904,São Paulo,João,Android,Jim Athan,M,Boleto
+2025-11-30 00:52:26.297864,905,Florianópolis,Eduardo,Dell,Roger Parks,O,Cartão de Crédito
+2025-11-30 00:53:24.676141,906,Florianópolis,Paola,iPhone,Matthew Botta,M,Cartão de Crédito
+2025-11-30 01:02:27.668952,907,Porto Alegre,Lucas,iPhone,Brain Wilson,M,Cartão de Crédito
+2025-11-30 01:18:26.926724,908,Florianópolis,Eduardo,Galaxy,Martha Evers,F,Pix
+2025-11-30 01:32:25.817168,909,Florianópolis,Rafaela,Dell,Christopher Gillette,M,Boleto
+2025-11-30 01:55:24.804999,910,Belo Horizonte,Stephanie,iPhone,Anna Ross,F,Pix
+2025-11-30 22:01:27.470790,911,Florianópolis,Paola,Galaxy,Ann Hausner,F,Boleto
+2025-11-30 22:50:23.440362,912,Belo Horizonte,Stephanie,Dell,Alma Chilton,O,Pix
+2025-12-01 00:42:23.579772,913,Rio de Janeiro,Paulo,Dell,Doris Morgan,O,Boleto
+2025-12-01 01:17:26.224794,914,Florianópolis,Eduardo,Dell,Cindy Mario,O,Dinheiro
+2025-12-01 01:30:28.020083,915,Rio de Janeiro,Paulo,Dell,Barbara Bateman,O,Boleto
+2025-12-01 18:02:24.868128,916,Belo Horizonte,Stephanie,iPhone,Albert Hayes,O,Cartão de Crédito
+2025-12-01 18:41:23.217804,917,Rio de Janeiro,Juliana,iPad,William Felts,M,Pix
+2025-12-01 18:56:25.403068,918,Rio de Janeiro,Juliana,iPhone,Arlene Smart,O,Cartão de Crédito
+2025-12-01 20:09:23.645687,919,Porto Alegre,Tiago,Galaxy,Dennis Higley,O,Pix
+2025-12-01 20:13:23.291161,920,Porto Alegre,Lucas,Android,Mickey Eason,M,Pix
+2025-12-01 23:01:25.390349,921,Belo Horizonte,Carlos,Dell,Aubrey Stark,M,Cartão de Crédito
+2025-12-02 00:29:23.159660,922,Florianópolis,Rafaela,Galaxy,Nicholas Hendry,O,Boleto
+2025-12-02 00:54:26.410018,923,Rio de Janeiro,Paulo,Galaxy,Karl Anderson,M,Dinheiro
+2025-12-02 19:25:24.380406,924,Porto Alegre,Marta,iPhone,Danyelle Martinez,F,Cartão de Crédito
+2025-12-02 19:46:26.532066,925,Rio de Janeiro,Antônio,Galaxy,Jason Sanchez,M,Dinheiro
+2025-12-02 20:45:25.088529,926,Rio de Janeiro,Juliana,Galaxy,Frank Rudd,M,Cartão de Crédito
+2025-12-02 23:24:25.742362,927,Florianópolis,Rafaela,Android,Amanda Dimiceli,O,Boleto
+2025-12-03 00:24:21.797126,928,Belo Horizonte,Carlos,Galaxy,Travis Strand,M,Cartão de Crédito
+2025-12-03 17:05:26.192642,929,Rio de Janeiro,Paulo,iPad,Patrick Ross,M,Boleto
+2025-12-03 17:24:27.383161,930,Belo Horizonte,Carleto,Galaxy,William Witham,M,Pix
+2025-12-03 20:06:25.462220,931,Rio de Janeiro,Paulo,iPad,Eula Williams,O,Dinheiro
+2025-12-03 23:04:22.467846,932,Florianópolis,Paola,Galaxy,Carl Yon,M,Cartão de Crédito
+2025-12-04 01:21:27.482000,933,Rio de Janeiro,Antônio,Dell,Kimberly Barnes,F,Pix
+2025-12-04 02:53:26.298166,934,Florianópolis,Eduardo,Dell,Mitchell Lawson,O,Boleto
+2025-12-04 18:15:22.297447,935,Rio de Janeiro,Paulo,Android,James Bostic,M,Boleto
+2025-12-04 21:35:24.030699,936,Belo Horizonte,Carleto,Galaxy,Danny Pothier,O,Boleto
+2025-12-05 20:39:27.129832,937,Belo Horizonte,Carlos,iPhone,Phyllis Logan,F,Pix
+2025-12-05 21:25:26.031491,938,Porto Alegre,Marta,iPhone,Jessica Cox,F,Dinheiro
+2025-12-05 23:06:24.958954,939,Porto Alegre,Tiago,Android,Tanya Tyler,O,Boleto
+2025-12-05 23:14:23.096374,940,São Paulo,João,Galaxy,Robert Puma,M,Boleto
+2025-12-05 23:31:26.496784,941,Florianópolis,Paola,Android,Chelsea Ford,F,Boleto
+2025-12-06 01:46:27.481617,942,Belo Horizonte,Carlos,Android,Eleanor Wong,F,Dinheiro
+2025-12-06 02:16:23.617293,943,Florianópolis,Eduardo,Dell,Angela Crowder,O,Cartão de Crédito
+2025-12-06 16:54:23.981746,944,Rio de Janeiro,Juliana,Galaxy,Donna Braun,O,Cartão de Crédito
+2025-12-06 18:34:27.270279,945,São Paulo,Maria,Galaxy,Terese Pockrus,F,Pix
+2025-12-07 00:40:27.470352,946,Rio de Janeiro,Juliana,iPad,Margarita Powers,F,Dinheiro
+2025-12-07 00:47:23.702899,947,Florianópolis,Paola,Galaxy,Arthur Cameron,M,Boleto
+2025-12-07 01:01:27.233909,948,São Paulo,Maria,Galaxy,Antonia Everett,F,Dinheiro
+2025-12-07 16:30:27.690012,949,Florianópolis,Paola,Galaxy,Fred Mcneill,M,Boleto
+2025-12-07 16:54:27.367489,950,Florianópolis,Eduardo,iPhone,Melissa Davis,F,Pix
+2025-12-07 16:56:21.897398,951,Rio de Janeiro,Antônio,iPhone,Cory Hill,M,Boleto
+2025-12-07 17:28:25.258880,952,Belo Horizonte,Carlos,Galaxy,Mohammed Wise,O,Cartão de Crédito
+2025-12-07 19:34:23.320858,953,Porto Alegre,Tiago,Dell,Patricia Colella,F,Boleto
+2025-12-07 23:07:26.645812,954,São Paulo,Pedro,iPhone,William Tanner,M,Pix
+2025-12-08 00:45:24.898338,955,Belo Horizonte,Carleto,iPad,Anna Steffensmeier,O,Boleto
+2025-12-08 16:40:27.076011,956,Belo Horizonte,Carlos,iPhone,Robert Klein,O,Pix
+2025-12-08 18:09:26.863109,957,Belo Horizonte,Carleto,iPad,Misty Pacheco,O,Pix
+2025-12-08 21:11:23.993451,958,Porto Alegre,Tiago,iPad,Delana Miller,F,Dinheiro
+2025-12-08 21:41:27.174783,959,São Paulo,Pedro,iPhone,Amanda Conway,O,Pix
+2025-12-08 23:06:21.564251,960,São Paulo,Maria,Android,Neil Musso,M,Cartão de Crédito
+2025-12-09 02:37:22.354723,961,Porto Alegre,Marta,iPad,Silvia Krois,F,Pix
+2025-12-09 20:15:27.778378,962,Rio de Janeiro,Juliana,Android,Barbra Fishman,F,Boleto
+2025-12-10 01:23:24.355916,963,Rio de Janeiro,Juliana,Dell,Mary Primeaux,O,Pix
+2025-12-10 02:01:26.236018,964,Florianópolis,Paola,Galaxy,Barbara Lessard,O,Dinheiro
+2025-12-10 21:01:25.954914,965,São Paulo,Maria,iPhone,Joanne Powell,F,Pix
+2025-12-10 23:51:24.586857,966,Porto Alegre,Lucas,Dell,Clement Thurber,O,Cartão de Crédito
+2025-12-11 00:10:21.896835,967,Florianópolis,Paola,iPad,Willie Monroe,O,Cartão de Crédito
+2025-12-11 02:10:25.170640,968,Rio de Janeiro,Antônio,iPad,Sherry Burcham,F,Pix
+2025-12-11 02:31:23.449913,969,Rio de Janeiro,Juliana,Android,Myrtle Henry,O,Boleto
+2025-12-11 17:17:22.156374,970,Porto Alegre,Lucas,Dell,Susan Oquendo,F,Dinheiro
+2025-12-11 17:24:25.410519,971,São Paulo,Pedro,Dell,Michelle Moldrem,F,Boleto
+2025-12-11 19:31:22.922065,972,Florianópolis,Paola,Dell,Joseph Senz,O,Cartão de Crédito
+2025-12-11 21:53:23.176460,973,São Paulo,João,Android,Leo Rhodd,O,Cartão de Crédito
+2025-12-12 00:31:26.298826,974,Rio de Janeiro,Antônio,Android,Robert Mckay,M,Boleto
+2025-12-12 01:35:23.639689,975,São Paulo,João,iPad,Judy Miller,O,Cartão de Crédito
+2025-12-12 17:30:24.593841,976,Rio de Janeiro,Paulo,Dell,Maria Hale,O,Dinheiro
+2025-12-13 01:44:27.110592,977,São Paulo,Maria,Android,Jason Smith,M,Dinheiro
+2025-12-13 03:23:27.810849,978,Belo Horizonte,Carleto,Galaxy,Maurice Pippins,M,Pix
+2025-12-13 18:38:23.583204,979,São Paulo,Maria,iPhone,Richard Wang,O,Cartão de Crédito
+2025-12-13 20:01:26.051770,980,Porto Alegre,Lucas,iPad,Andrea Eller,F,Cartão de Crédito
+2025-12-14 20:38:24.832805,981,Porto Alegre,Lucas,iPad,Kristina Gallardo,F,Pix
+2025-12-14 20:57:24.874769,982,Florianópolis,Rafaela,Galaxy,Jack Rodriguez,O,Pix
+2025-12-14 23:24:26.047584,983,Belo Horizonte,Carlos,iPhone,Peter Dean,M,Boleto
+2025-12-15 02:18:25.898962,984,Florianópolis,Eduardo,iPad,Callie Gordon,F,Cartão de Crédito
+2025-12-15 17:53:26.741126,985,Florianópolis,Eduardo,iPad,Tami Stinchfield,F,Cartão de Crédito
+2025-12-15 18:24:24.160895,986,Rio de Janeiro,Paulo,iPad,Christopher Williams,M,Pix
+2025-12-15 18:35:25.514562,987,Florianópolis,Eduardo,iPad,Donnie Nash,M,Dinheiro
+2025-12-15 21:11:21.598950,988,Belo Horizonte,Carlos,Android,Kathleen Toddy,F,Boleto
+2025-12-15 22:24:24.592399,989,Porto Alegre,Lucas,Dell,Juanita Albertson,O,Boleto
+2025-12-16 00:28:25.843182,990,Rio de Janeiro,Antônio,iPhone,Michael Truong,M,Pix
+2025-12-16 01:24:25.216535,991,Porto Alegre,Tiago,iPad,James Aguilar,O,Boleto
+2025-12-16 02:22:24.191292,992,São Paulo,Maria,Dell,Patrick Montgomery,M,Boleto
+2025-12-16 02:56:23.618418,993,Florianópolis,Eduardo,Android,William Franco,O,Pix
+2025-12-16 19:35:26.418193,994,Belo Horizonte,Carleto,Galaxy,Genevieve Vaughn,F,Cartão de Crédito
+2025-12-16 20:28:22.097735,995,Belo Horizonte,Carleto,Galaxy,Alma Swanson,F,Cartão de Crédito
+2025-12-16 23:32:24.533213,996,Belo Horizonte,Carlos,Galaxy,Dan Adrian,O,Dinheiro
+2025-12-16 23:59:26.481610,997,Florianópolis,Paola,Dell,Lorna Kaiser,F,Cartão de Crédito
+2025-12-17 00:50:26.892403,998,Belo Horizonte,Stephanie,iPad,Lucia Ramos,O,Boleto
+2025-12-17 00:57:25.643590,999,Rio de Janeiro,Juliana,Galaxy,Stacey Marrero,F,Pix
+2025-12-17 01:55:25.818359,1000,Florianópolis,Paola,Galaxy,Katherine Dewey,O,Pix
+2025-12-17 02:21:26.070876,1001,São Paulo,Pedro,Galaxy,Patricia Laur,O,Cartão de Crédito
+2025-12-17 18:15:25.586091,1002,Belo Horizonte,Carleto,iPhone,Cole Dell,M,Dinheiro
+2025-12-17 20:19:21.554797,1003,Florianópolis,Paola,Dell,Irene Elliott,F,Pix
+2025-12-18 01:53:26.994330,1004,São Paulo,Maria,Galaxy,William Enos,M,Pix
+2025-12-18 17:11:26.475651,1005,São Paulo,Pedro,Galaxy,Irene Counts,F,Pix
+2025-12-18 19:44:27.571088,1006,São Paulo,Maria,Dell,Linda Ramos,O,Pix
+2025-12-18 20:51:24.689660,1007,São Paulo,Maria,iPad,Jodie Floyd,F,Boleto
+2025-12-18 21:05:27.482203,1008,São Paulo,João,Galaxy,Ronald Brown,M,Pix
+2025-12-18 23:04:27.500780,1009,Belo Horizonte,Stephanie,iPad,John Taylor,M,Cartão de Crédito
+2025-12-19 00:27:21.701133,1010,São Paulo,Maria,Galaxy,James Arroyo,M,Boleto
+2025-12-19 03:07:25.401846,1011,São Paulo,Pedro,Galaxy,Earline Holland,F,Dinheiro
+2025-12-19 18:50:26.710690,1012,Belo Horizonte,Carleto,iPhone,Lucille Evans,F,Pix
+2025-12-20 19:24:27.313624,1013,Belo Horizonte,Carleto,Dell,Michael East,O,Dinheiro
+2025-12-20 20:41:23.649283,1014,Rio de Janeiro,Paulo,Android,Alton Burns,M,Cartão de Crédito
+2025-12-20 21:10:23.756293,1015,São Paulo,Pedro,iPhone,Mike Wheeler,M,Boleto
+2025-12-21 00:32:21.792138,1016,Rio de Janeiro,Juliana,iPad,Pearl Pedigo,F,Pix
+2025-12-21 01:23:25.996046,1017,São Paulo,Pedro,iPhone,William Gordon,M,Cartão de Crédito
+2025-12-21 03:24:27.054407,1018,São Paulo,João,Galaxy,Robert Martin,O,Boleto
+2025-12-21 19:29:25.089432,1019,Rio de Janeiro,Paulo,iPad,Lisa Prucha,F,Pix
+2025-12-21 20:24:25.687313,1020,Florianópolis,Eduardo,iPhone,Donna Baldon,F,Boleto
+2025-12-21 22:18:27.109305,1021,Florianópolis,Eduardo,Galaxy,James Barr,M,Dinheiro
+2025-12-21 22:33:23.024559,1022,Porto Alegre,Lucas,Dell,Bobby Owens,O,Dinheiro
+2025-12-21 22:58:24.898073,1023,Florianópolis,Paola,Android,Derek Mason,O,Dinheiro
+2025-12-21 23:15:22.106044,1024,Porto Alegre,Tiago,Galaxy,Patricia Landry,F,Boleto
+2025-12-21 23:31:22.016556,1025,São Paulo,Maria,iPad,Iesha Griglen,F,Boleto
+2025-12-22 02:02:24.958031,1026,Rio de Janeiro,Juliana,Dell,Greg Brown,O,Pix
+2025-12-22 18:24:26.625669,1027,São Paulo,João,Android,Tammy Rance,F,Boleto
+2025-12-22 19:46:22.404522,1028,São Paulo,Pedro,Android,John Couture,O,Boleto
+2025-12-22 22:04:25.259642,1029,Florianópolis,Eduardo,Android,Carol Matthews,F,Pix
+2025-12-22 23:13:26.995965,1030,Rio de Janeiro,Juliana,Android,Christopher Burton,M,Dinheiro
+2025-12-23 02:28:22.504937,1031,Rio de Janeiro,Antônio,iPhone,Erik Henderson,M,Boleto
+2025-12-23 17:58:21.549393,1032,Florianópolis,Eduardo,Android,Ronald Martinez,O,Pix
+2025-12-23 19:10:26.115328,1033,Florianópolis,Paola,Dell,Robert Martinez,M,Dinheiro
+2025-12-23 20:14:24.174121,1034,Porto Alegre,Lucas,Android,Shawn Tapper,M,Boleto
+2025-12-23 20:25:26.222916,1035,São Paulo,Maria,Galaxy,Charles Jackson,O,Cartão de Crédito
+2025-12-23 20:57:25.820073,1036,Florianópolis,Paola,iPhone,Elma Furbee,O,Dinheiro
+2025-12-23 21:20:26.405376,1037,Belo Horizonte,Stephanie,Dell,Derek Ahrens,M,Cartão de Crédito
+2025-12-23 21:32:24.233299,1038,Florianópolis,Paola,iPhone,Morris Walker,M,Pix
+2025-12-23 23:52:24.918881,1039,Florianópolis,Rafaela,Dell,Rhonda Hanner,F,Pix
+2025-12-24 01:33:23.220679,1040,Florianópolis,Paola,Galaxy,Timothy Mcfaddin,M,Dinheiro
+2025-12-24 20:00:24.908344,1041,Belo Horizonte,Stephanie,Android,Elizabeth Merchant,F,Dinheiro
+2025-12-24 20:48:25.462547,1042,Rio de Janeiro,Antônio,iPad,Martha Stamp,F,Boleto
+2025-12-24 21:53:25.248848,1043,Florianópolis,Paola,iPad,Terry Strange,M,Cartão de Crédito
+2025-12-24 22:45:26.223814,1044,Porto Alegre,Lucas,Android,Mary Garcia,F,Dinheiro
+2025-12-25 20:15:22.126614,1045,Porto Alegre,Marta,iPad,Robert Hinton,O,Cartão de Crédito
+2025-12-25 21:54:25.903345,1046,Florianópolis,Eduardo,iPhone,Mark Jarrell,O,Cartão de Crédito
+2025-12-26 01:29:24.793680,1047,Belo Horizonte,Carlos,iPad,Debra Demarco,O,Dinheiro
+2025-12-26 01:40:26.831921,1048,Belo Horizonte,Carlos,Android,Margo Moss,F,Cartão de Crédito
+2025-12-26 18:07:23.307550,1049,Florianópolis,Paola,Dell,Todd Bey,M,Pix
+2025-12-26 21:24:21.714751,1050,Porto Alegre,Marta,Galaxy,Martha Dixon,O,Dinheiro
+2025-12-26 22:03:24.523306,1051,Belo Horizonte,Carleto,Android,Steven Aldridge,M,Dinheiro
+2025-12-26 23:42:27.328863,1052,Rio de Janeiro,Juliana,iPad,Barbara Feenstra,O,Boleto
+2025-12-27 00:44:23.485758,1053,São Paulo,João,iPhone,Sharon Vassar,F,Pix
+2025-12-27 01:03:24.467241,1054,São Paulo,Maria,iPhone,Josephine Roberts,F,Boleto
+2025-12-27 01:18:22.374925,1055,Belo Horizonte,Carlos,iPhone,Valerie Scott,F,Cartão de Crédito
+2025-12-27 01:49:25.939884,1056,Belo Horizonte,Carlos,Dell,Jimmie Schamp,F,Cartão de Crédito
+2025-12-27 20:02:22.374315,1057,Porto Alegre,Marta,Android,Devin Brown,M,Boleto
+2025-12-28 00:08:22.467566,1058,Belo Horizonte,Carlos,iPad,Rhonda Carpenter,F,Dinheiro
+2025-12-28 00:13:21.897775,1059,Belo Horizonte,Carlos,Dell,Maxwell Biggs,O,Cartão de Crédito
+2025-12-28 19:37:24.832012,1060,São Paulo,João,iPhone,Jean Huber,O,Pix
+2025-12-28 20:07:23.579983,1061,Florianópolis,Rafaela,Galaxy,Stephanie Brown,F,Dinheiro
+2025-12-28 21:34:24.075752,1062,Porto Alegre,Tiago,iPad,Lyle Mejia,O,Cartão de Crédito
+2025-12-28 22:49:26.850347,1063,São Paulo,Pedro,iPad,Anne Pettit,O,Pix
+2025-12-28 23:51:22.373538,1064,Porto Alegre,Marta,Dell,Megan Whitaker,F,Cartão de Crédito
+2025-12-29 17:02:23.550810,1065,Rio de Janeiro,Juliana,Galaxy,Toby Leray,F,Dinheiro
+2025-12-30 00:06:26.854670,1066,Belo Horizonte,Carlos,Android,Miguel Foti,M,Cartão de Crédito
+2025-12-30 00:23:24.260114,1067,Belo Horizonte,Stephanie,iPad,Millie Felix,F,Cartão de Crédito
+2025-12-30 01:20:24.047397,1068,Florianópolis,Paola,Android,John Roberts,O,Dinheiro
+2025-12-30 17:25:22.571932,1069,São Paulo,João,Android,Linda Mcbeth,F,Dinheiro
+2025-12-30 23:38:24.719686,1070,São Paulo,Maria,Dell,Shawn Strickland,O,Cartão de Crédito
+2025-12-31 01:47:25.320989,1071,Belo Horizonte,Carleto,iPhone,Daniel Patterson,M,Pix
+2025-12-31 02:14:25.512688,1072,Florianópolis,Paola,Android,Granville Phillips,O,Boleto
+2025-12-31 17:46:27.409417,1073,Rio de Janeiro,Antônio,Android,Luis Montalto,M,Cartão de Crédito
+2025-12-31 18:56:24.162554,1074,Porto Alegre,Tiago,Android,Nancy Barrington,F,Dinheiro
+2025-12-31 21:27:22.623143,1075,Rio de Janeiro,Antônio,Dell,Jeffrey Moreland,M,Cartão de Crédito
+2025-12-31 21:32:26.513680,1076,Florianópolis,Rafaela,iPad,Charles Vang,M,Dinheiro
+2025-12-31 22:14:24.831828,1077,Rio de Janeiro,Paulo,iPad,Angela Anderson,F,Dinheiro
+2026-01-01 02:13:23.941094,1078,Belo Horizonte,Stephanie,Galaxy,Patrina Souvannavong,F,Dinheiro
+2026-01-01 02:34:27.898506,1079,Florianópolis,Paola,iPad,Jerry Marler,O,Dinheiro
+2026-01-01 18:00:24.220122,1080,Porto Alegre,Marta,Dell,Celia Kreitzer,F,Cartão de Crédito
+2026-01-01 20:22:24.046269,1081,Belo Horizonte,Carlos,Galaxy,Cecil Gray,M,Dinheiro
+2026-01-01 21:10:24.140805,1082,Florianópolis,Eduardo,Galaxy,Eleanor Benner,F,Boleto
+2026-01-02 21:44:22.014291,1083,Florianópolis,Eduardo,Galaxy,Alberta Wenger,O,Cartão de Crédito
+2026-01-02 22:08:25.461456,1084,Florianópolis,Eduardo,Dell,Billy Hamilton,M,Dinheiro
+2026-01-02 23:19:21.707382,1085,Belo Horizonte,Carleto,iPad,Jeff Murray,M,Pix
+2026-01-02 23:48:22.513325,1086,São Paulo,Maria,Galaxy,Rebecca Shaffer,F,Pix
+2026-01-03 16:34:25.361988,1087,São Paulo,Pedro,iPhone,Charles Peters,M,Cartão de Crédito
+2026-01-03 16:59:24.737527,1088,São Paulo,João,iPad,Lisa Jordan,F,Pix
+2026-01-03 17:26:23.325494,1089,São Paulo,João,Dell,Michael Cardenas,M,Boleto
+2026-01-03 18:56:26.524518,1090,São Paulo,Maria,iPhone,Mark Newell,M,Cartão de Crédito
+2026-01-04 00:09:24.408392,1091,Florianópolis,Eduardo,iPhone,Jodi Aguirre,O,Cartão de Crédito
+2026-01-04 01:01:22.045684,1092,São Paulo,João,Android,Tasha Iuliucci,F,Dinheiro
+2026-01-04 03:15:25.528418,1093,Florianópolis,Rafaela,Dell,Ashley Zacharias,O,Cartão de Crédito
+2026-01-04 16:57:24.076366,1094,Florianópolis,Paola,Galaxy,Maria Villanueva,F,Cartão de Crédito
+2026-01-04 21:55:25.047216,1095,Rio de Janeiro,Juliana,iPhone,Jason Brown,O,Cartão de Crédito
+2026-01-06 01:50:24.804118,1096,Porto Alegre,Marta,iPad,Gail Rodriquez,F,Boleto
+2026-01-06 02:52:27.845053,1097,Rio de Janeiro,Paulo,iPad,James Keenan,M,Boleto
+2026-01-06 03:09:27.314821,1098,Porto Alegre,Marta,Galaxy,Scott Kueny,O,Dinheiro
+2026-01-06 18:38:24.687051,1099,São Paulo,Maria,Dell,Alicia Edwards,O,Boleto
+2026-01-06 18:45:21.975547,1100,Belo Horizonte,Carleto,iPad,Keith Mccracken,M,Dinheiro
+2026-01-06 19:06:22.225702,1101,Florianópolis,Paola,iPhone,Edward Lohman,M,Boleto
+2026-01-06 19:53:26.417260,1102,São Paulo,Pedro,iPad,Robert Pratt,M,Cartão de Crédito
+2026-01-06 20:07:24.811328,1103,Belo Horizonte,Stephanie,iPhone,Walter Harris,M,Dinheiro
+2026-01-06 22:07:21.589384,1104,Rio de Janeiro,Paulo,Galaxy,Anthony Antone,M,Cartão de Crédito
+2026-01-07 01:16:22.483698,1105,São Paulo,Pedro,iPad,Linda Lee,F,Pix
+2026-01-07 02:58:27.921026,1106,São Paulo,Maria,iPhone,Raymond Lorenz,M,Pix
+2026-01-07 03:01:26.654182,1107,Rio de Janeiro,Juliana,Dell,Phillip Voss,M,Pix
+2026-01-07 20:03:21.536772,1108,Belo Horizonte,Carleto,Galaxy,Linda Esposito,F,Cartão de Crédito
+2026-01-07 20:13:23.219818,1109,Belo Horizonte,Stephanie,iPad,Matthew Smith,M,Boleto
+2026-01-07 20:43:27.546608,1110,Porto Alegre,Lucas,Dell,Ethel Terry,F,Dinheiro
+2026-01-07 22:02:24.362690,1111,Rio de Janeiro,Paulo,Android,Heather Schroeder,F,Boleto
+2026-01-07 22:06:22.374132,1112,Florianópolis,Paola,iPhone,Scott Garcia,O,Cartão de Crédito
+2026-01-07 22:27:26.052901,1113,Belo Horizonte,Carlos,Android,John Abu,M,Pix
+2026-01-07 23:54:22.326008,1114,Belo Horizonte,Stephanie,Galaxy,Patricia Brumit,O,Pix
+2026-01-08 18:56:27.819810,1115,Florianópolis,Rafaela,Android,Glenda Broderick,O,Cartão de Crédito
+2026-01-08 20:30:22.097009,1116,Belo Horizonte,Carleto,Galaxy,Jorge Pineda,M,Dinheiro
+2026-01-08 22:24:25.075880,1117,Belo Horizonte,Carleto,iPhone,Kimberly Swedlund,F,Dinheiro
+2026-01-08 22:24:27.308293,1118,Belo Horizonte,Stephanie,Dell,James Murphy,M,Pix
+2026-01-08 23:55:24.964391,1119,Porto Alegre,Tiago,Galaxy,Naomi Arnt,O,Boleto
+2026-01-09 00:01:23.618901,1120,São Paulo,Pedro,Galaxy,James Glenn,O,Cartão de Crédito
+2026-01-09 00:09:27.110775,1121,São Paulo,Pedro,Dell,Eric Matthias,M,Dinheiro
+2026-01-09 19:45:27.338382,1122,Florianópolis,Eduardo,iPhone,Hazel Yard,O,Dinheiro
+2026-01-10 00:39:24.692833,1123,Porto Alegre,Tiago,iPhone,Marie Irish,F,Boleto
+2026-01-10 00:55:23.617043,1124,Porto Alegre,Tiago,iPhone,Mark Hawkins,M,Cartão de Crédito
+2026-01-10 03:06:22.377288,1125,Florianópolis,Paola,Android,Susan Stellmacher,F,Dinheiro
+2026-01-10 03:09:26.481370,1126,Belo Horizonte,Carlos,Dell,Diane Dunn,F,Pix
+2026-01-10 16:46:25.839939,1127,Porto Alegre,Tiago,iPad,James Martinez,M,Dinheiro
+2026-01-10 16:57:23.346162,1128,Florianópolis,Eduardo,Dell,Thomas Vasquez,M,Boleto
+2026-01-10 19:49:22.334208,1129,Porto Alegre,Tiago,Dell,Darren Judkins,O,Pix
+2026-01-10 22:23:23.580170,1130,Porto Alegre,Marta,iPhone,John Popp,M,Pix
+2026-01-10 23:58:27.822018,1131,São Paulo,Maria,Android,Diana Witt,O,Dinheiro
+2026-01-11 00:47:24.829493,1132,Belo Horizonte,Carlos,Dell,Esperanza Perez,F,Boleto
+2026-01-11 02:20:24.736493,1133,Florianópolis,Rafaela,Dell,Fred Hamilton,M,Pix
+2026-01-11 18:36:25.402456,1134,Porto Alegre,Tiago,Dell,Joseph Herron,O,Cartão de Crédito
+2026-01-11 19:57:27.386939,1135,Florianópolis,Rafaela,Galaxy,James Martinez,M,Boleto
+2026-01-11 20:23:27.172238,1136,Belo Horizonte,Carlos,Dell,Shannon Murphey,F,Cartão de Crédito
+2026-01-11 22:36:26.066405,1137,Belo Horizonte,Carlos,Galaxy,Kathleen Griffith,O,Dinheiro
+2026-01-12 03:07:25.535372,1138,Belo Horizonte,Carleto,Dell,Joshua Ontiveros,M,Dinheiro
+2026-01-12 17:41:25.605980,1139,Florianópolis,Rafaela,iPhone,Willie Neufeld,M,Dinheiro
+2026-01-12 19:59:25.306172,1140,Rio de Janeiro,Antônio,iPhone,Bernita Hanson,F,Boleto
+2026-01-13 02:41:21.579195,1141,Rio de Janeiro,Juliana,Dell,Florence Walden,O,Dinheiro
+2026-01-13 03:12:25.185341,1142,Rio de Janeiro,Antônio,Android,Kristina Teed,F,Cartão de Crédito
+2026-01-13 18:30:26.931544,1143,Porto Alegre,Tiago,Galaxy,Flora Salazar,F,Pix
+2026-01-13 20:51:26.849992,1144,Belo Horizonte,Stephanie,Android,Lewis Higgins,O,Cartão de Crédito
+2026-01-13 21:46:26.191109,1145,Rio de Janeiro,Antônio,iPhone,Timmy York,O,Boleto
+2026-01-13 23:08:21.914543,1146,Rio de Janeiro,Paulo,Galaxy,Joseph Ballard,O,Cartão de Crédito
+2026-01-14 01:22:26.483634,1147,Florianópolis,Eduardo,iPhone,Ryan Barron,M,Dinheiro
+2026-01-14 01:58:26.026863,1148,Belo Horizonte,Carlos,Android,John Hammonds,M,Dinheiro
+2026-01-14 02:31:26.391628,1149,Porto Alegre,Marta,Android,Lee Neglia,O,Boleto
+2026-01-14 19:59:26.284508,1150,São Paulo,Pedro,Android,Robert Dumbleton,M,Cartão de Crédito
+2026-01-14 22:22:22.372142,1151,Belo Horizonte,Carleto,Galaxy,Moira Fountain,F,Dinheiro
+2026-01-14 22:25:26.970564,1152,Belo Horizonte,Stephanie,iPad,Susan Rebello,O,Pix
+2026-01-14 22:48:23.583761,1153,Porto Alegre,Marta,Dell,Theodore Yarboro,M,Boleto
+2026-01-15 00:11:26.611535,1154,Porto Alegre,Tiago,Dell,Sandra Tannenbaum,F,Boleto
+2026-01-15 00:15:27.130200,1155,Rio de Janeiro,Juliana,iPad,Pamela Booth,O,Pix
+2026-01-15 00:23:23.703513,1156,Belo Horizonte,Carlos,iPad,Frank Stewart,O,Dinheiro
+2026-01-15 02:41:24.699992,1157,Rio de Janeiro,Antônio,iPad,Frederick Dunn,M,Boleto
+2026-01-15 17:06:22.677281,1158,São Paulo,Pedro,iPhone,James Austin,M,Dinheiro
+2026-01-15 22:17:22.385871,1159,Florianópolis,Eduardo,Android,Sheila Jimeson,F,Boleto
+2026-01-16 02:28:24.262538,1160,São Paulo,Maria,iPhone,Timothy Fraiser,O,Cartão de Crédito
+2026-01-16 16:26:27.570364,1161,Florianópolis,Paola,Android,Gary Campbell,M,Pix
+2026-01-16 18:49:21.924108,1162,Porto Alegre,Tiago,iPad,Patrick Bordelon,O,Boleto
+2026-01-16 19:52:27.727431,1163,São Paulo,João,Galaxy,Susan Smith,F,Boleto
+2026-01-16 23:07:21.911037,1164,Florianópolis,Rafaela,iPhone,Debra Corbett,O,Dinheiro
+2026-01-17 01:21:21.498979,1165,São Paulo,João,iPhone,Bobby Bourget,M,Dinheiro
+2026-01-17 02:04:28.011591,1166,Rio de Janeiro,Paulo,iPad,John Rodriguez,M,Boleto
+2026-01-17 17:09:26.875371,1167,Belo Horizonte,Carlos,Galaxy,Susan Shipley,F,Cartão de Crédito
+2026-01-17 17:34:23.070163,1168,Florianópolis,Eduardo,Android,Thomas Miller,M,Dinheiro
+2026-01-17 18:11:23.877482,1169,Porto Alegre,Lucas,Android,Gloria Gard,F,Boleto
+2026-01-17 19:00:26.930883,1170,São Paulo,Pedro,iPad,Larry Thompson,O,Dinheiro
+2026-01-17 19:43:26.258599,1171,Florianópolis,Rafaela,Galaxy,Melissa Rogers,F,Dinheiro
+2026-01-17 23:23:25.535163,1172,São Paulo,João,Dell,Carol Gray,F,Cartão de Crédito
+2026-01-19 00:27:24.279783,1173,São Paulo,João,Android,Nicholas Walker,M,Boleto
+2026-01-19 16:25:21.529040,1174,Porto Alegre,Tiago,iPhone,Betty Branson,F,Pix
+2026-01-19 21:41:23.524691,1175,Belo Horizonte,Carleto,Android,Tonya Clark,O,Pix
+2026-01-19 21:44:23.036065,1176,São Paulo,Maria,iPhone,Jerry Flor,M,Cartão de Crédito
+2026-01-19 22:03:23.887521,1177,Florianópolis,Paola,Android,Cleveland Claytor,M,Cartão de Crédito
+2026-01-20 01:12:24.260922,1178,São Paulo,João,iPad,Thomas Miller,M,Boleto
+2026-01-20 17:49:26.139033,1179,Florianópolis,Paola,Dell,Warren Lott,M,Pix
+2026-01-20 18:34:24.407665,1180,Rio de Janeiro,Juliana,iPad,Robert Pelletier,M,Boleto
+2026-01-20 19:31:25.465632,1181,Porto Alegre,Tiago,iPad,Edith Savage,F,Boleto
+2026-01-20 20:23:26.157476,1182,Porto Alegre,Marta,Dell,Crystal Villarreal,F,Dinheiro
+2026-01-20 23:08:24.894108,1183,Florianópolis,Paola,Android,Kevin Gish,M,Cartão de Crédito
+2026-01-21 01:12:24.231025,1184,Florianópolis,Rafaela,Dell,Donald Cook,M,Dinheiro
+2026-01-21 18:12:23.244915,1185,Belo Horizonte,Stephanie,Android,Marlo Cain,O,Pix
+2026-01-21 18:57:26.990637,1186,São Paulo,Pedro,Galaxy,Sarah Bailey,O,Cartão de Crédito
+2026-01-21 22:10:27.167287,1187,Porto Alegre,Lucas,iPhone,Edward Cash,M,Cartão de Crédito
+2026-01-22 01:22:25.200980,1188,Rio de Janeiro,Juliana,Dell,Jose Torres,O,Boleto
+2026-01-22 02:40:24.441181,1189,Porto Alegre,Tiago,iPad,Heather Fowler,F,Dinheiro
+2026-01-22 03:13:27.343641,1190,Belo Horizonte,Carlos,iPhone,Janet Smith,O,Boleto
+2026-01-22 16:49:24.602126,1191,Florianópolis,Paola,Dell,Luis Liestman,M,Pix
+2026-01-22 17:43:24.173723,1192,Rio de Janeiro,Antônio,Android,Linda Cline,O,Cartão de Crédito
+2026-01-22 22:31:24.858982,1193,São Paulo,Pedro,Dell,Brittney Rhea,O,Dinheiro
+2026-01-23 17:08:24.730593,1194,Belo Horizonte,Carlos,Galaxy,Pura Sheldon,F,Pix
+2026-01-23 17:24:25.715670,1195,Rio de Janeiro,Antônio,iPhone,Christopher Woods,O,Cartão de Crédito
+2026-01-23 18:12:25.461690,1196,São Paulo,João,iPad,Celeste Moody,O,Pix
+2026-01-23 18:21:26.664446,1197,Florianópolis,Paola,Galaxy,Lakiesha Schmalz,O,Cartão de Crédito
+2026-01-23 20:20:25.427258,1198,Porto Alegre,Lucas,Galaxy,George Spurgeon,O,Dinheiro
+2026-01-23 20:29:21.828536,1199,Florianópolis,Rafaela,iPhone,John Herrin,M,Boleto
+2026-01-23 21:52:27.347032,1200,Florianópolis,Rafaela,Galaxy,George Garcia,M,Cartão de Crédito
+2026-01-23 23:41:21.491064,1201,Florianópolis,Eduardo,Android,Amanda Richardson,F,Dinheiro
+2026-01-24 00:46:27.115408,1202,Belo Horizonte,Carlos,iPad,James Rimbey,M,Boleto
+2026-01-24 01:32:24.148383,1203,São Paulo,Maria,iPad,Robert Walters,O,Pix
+2026-01-24 17:24:23.345752,1204,Porto Alegre,Lucas,Dell,Amy Montoya,F,Cartão de Crédito
+2026-01-24 17:54:25.183625,1205,Belo Horizonte,Stephanie,Android,Heather Heath,F,Boleto
+2026-01-24 21:15:22.212166,1206,Porto Alegre,Lucas,iPhone,Suzanne Mitchell,F,Dinheiro
+2026-01-24 21:16:23.353080,1207,Rio de Janeiro,Antônio,Dell,Herma Keller,O,Pix
+2026-01-24 22:24:23.880780,1208,Florianópolis,Eduardo,Android,Austin Durgan,O,Boleto
+2026-01-25 01:51:22.689592,1209,São Paulo,Pedro,iPad,David Hadley,O,Dinheiro
+2026-01-25 02:54:27.006045,1210,Rio de Janeiro,Paulo,Android,Fanny Diaz,F,Dinheiro
+2026-01-25 16:45:23.700215,1211,Florianópolis,Paola,Galaxy,Dave Tompkins,O,Boleto
+2026-01-25 21:09:25.201354,1212,Belo Horizonte,Carlos,Android,Nancy Leisenring,F,Boleto
+2026-01-25 21:15:21.476698,1213,Rio de Janeiro,Antônio,Galaxy,Charles Pomeroy,M,Cartão de Crédito
+2026-01-26 02:22:24.698276,1214,São Paulo,Pedro,iPad,Elizabeth Byars,F,Cartão de Crédito
+2026-01-26 16:43:24.077026,1215,Florianópolis,Paola,iPhone,Henrietta Shones,F,Boleto
+2026-01-27 01:18:22.292536,1216,Rio de Janeiro,Antônio,iPad,Suzanne Dull,F,Cartão de Crédito
+2026-01-27 19:59:24.816220,1217,Florianópolis,Rafaela,Dell,Cynthia Benoit,F,Cartão de Crédito
+2026-01-27 21:36:25.141612,1218,Belo Horizonte,Carleto,iPhone,Tiffany Dodd,F,Boleto
+2026-01-27 22:36:22.315674,1219,Belo Horizonte,Stephanie,iPad,Francis Ellis,F,Boleto
+2026-01-28 16:41:27.175210,1220,Belo Horizonte,Carleto,Galaxy,Boyd Kealy,M,Dinheiro
+2026-01-28 17:35:24.225709,1221,Porto Alegre,Lucas,Dell,Herbert Boyden,M,Boleto
+2026-01-28 17:45:24.433763,1222,Florianópolis,Eduardo,Galaxy,John Gonzalez,M,Boleto
+2026-01-28 17:45:26.484956,1223,Florianópolis,Rafaela,iPhone,Maria Hudkins,F,Pix
+2026-01-28 20:02:23.365021,1224,São Paulo,Maria,iPhone,Monica Landfried,O,Cartão de Crédito
+2026-01-29 03:12:25.052144,1225,São Paulo,João,Galaxy,Kendra Levinthal,O,Boleto
+2026-01-29 19:31:24.003344,1226,São Paulo,Pedro,Android,Mike Stokes,M,Pix
+2026-01-29 23:09:22.407698,1227,Florianópolis,Eduardo,Galaxy,Marilyn Wehner,F,Pix
+2026-01-29 23:26:23.846846,1228,Belo Horizonte,Stephanie,Android,Jacqueline Moradian,O,Pix
+2026-01-30 17:40:23.070333,1229,Florianópolis,Eduardo,Galaxy,Michael Breazeale,M,Cartão de Crédito
+2026-01-30 23:58:27.170023,1230,Belo Horizonte,Carlos,iPhone,Carol Moore,F,Pix
+2026-01-31 01:10:25.646179,1231,Florianópolis,Rafaela,iPad,Andrew Melchor,O,Pix
+2026-01-31 01:11:21.560489,1232,Rio de Janeiro,Antônio,Android,Matilda Kiser,F,Cartão de Crédito
+2026-01-31 16:25:23.362315,1233,São Paulo,João,iPad,Lindsay Peppers,F,Pix
+2026-01-31 19:33:22.967433,1234,Belo Horizonte,Carleto,Dell,Troy Sliwa,M,Cartão de Crédito
+2026-01-31 22:08:25.142223,1235,Belo Horizonte,Stephanie,iPhone,John Vanlue,O,Pix
+2026-01-31 23:11:27.501199,1236,Porto Alegre,Lucas,iPad,Donald Hetrick,M,Cartão de Crédito
+2026-02-01 01:08:23.163211,1237,Porto Alegre,Tiago,Dell,Angela Healy,F,Dinheiro
+2026-02-02 00:04:23.787987,1238,Belo Horizonte,Carlos,Galaxy,Thad Anderson,M,Cartão de Crédito
+2026-02-02 18:14:24.261691,1239,Florianópolis,Paola,Android,Tommy Rogers,M,Pix
+2026-02-02 18:45:27.893440,1240,Rio de Janeiro,Paulo,iPhone,Domonique Cluff,F,Cartão de Crédito
+2026-02-02 22:55:27.196858,1241,Florianópolis,Rafaela,Android,Karen Morrow,F,Cartão de Crédito
+2026-02-02 23:38:25.492855,1242,São Paulo,João,Galaxy,Felix Jahns,M,Boleto
+2026-02-02 23:40:27.190444,1243,Belo Horizonte,Carlos,Dell,Cody Ackerman,O,Dinheiro
+2026-02-03 01:56:27.890274,1244,Porto Alegre,Marta,Galaxy,Dorothy Chisholm,F,Dinheiro
+2026-02-03 20:38:28.011263,1245,Rio de Janeiro,Paulo,Dell,Marilyn Garza,O,Boleto
+2026-02-03 21:37:23.645143,1246,São Paulo,João,Android,Patricia Dejesus,F,Cartão de Crédito
+2026-02-04 00:50:23.307140,1247,Rio de Janeiro,Antônio,Android,Adolfo Jones,M,Boleto
+2026-02-04 01:12:27.562308,1248,São Paulo,Maria,iPad,Antonio Auton,M,Dinheiro
+2026-02-04 02:43:21.834295,1249,Porto Alegre,Tiago,Galaxy,Dawn Johnson,F,Boleto
+2026-02-04 16:51:22.288116,1250,Rio de Janeiro,Antônio,Android,Karen Tyler,F,Dinheiro
+2026-02-05 00:23:27.642493,1251,São Paulo,João,Dell,Patricia Steffel,F,Boleto
+2026-02-05 18:07:25.259908,1252,Florianópolis,Eduardo,Dell,Janice Schwartz,F,Pix
+2026-02-05 18:44:24.514190,1253,Belo Horizonte,Carlos,iPhone,Patricia Burbridge,F,Cartão de Crédito
+2026-02-05 20:05:27.499720,1254,Rio de Janeiro,Paulo,iPad,Cindy Beavers,O,Boleto
+2026-02-05 20:34:27.004595,1255,Rio de Janeiro,Antônio,Galaxy,Elizabeth Reynolds,F,Cartão de Crédito
+2026-02-05 22:08:21.690177,1256,Florianópolis,Rafaela,Dell,Curtis Dillon,M,Pix
+2026-02-05 23:13:25.341824,1257,Belo Horizonte,Carleto,Dell,Jennifer Schell,F,Cartão de Crédito
+2026-02-06 00:30:21.832421,1258,São Paulo,Maria,Galaxy,Jeremy Gallegos,M,Cartão de Crédito
+2026-02-06 00:48:27.639859,1259,Belo Horizonte,Carleto,iPhone,Evelyn Frost,O,Dinheiro
+2026-02-06 02:20:21.895942,1260,Rio de Janeiro,Juliana,iPhone,Rachel Mcfadden,F,Pix
+2026-02-06 02:24:27.910580,1261,Rio de Janeiro,Antônio,Galaxy,William Wiegand,O,Boleto
+2026-02-06 18:14:24.700654,1262,Florianópolis,Paola,Dell,Rachel Beltran,F,Dinheiro
+2026-02-06 18:55:27.929383,1263,Porto Alegre,Lucas,Dell,Charles Hodgkins,M,Cartão de Crédito
+2026-02-06 21:00:27.366643,1264,Belo Horizonte,Carlos,Dell,Mark Staton,M,Dinheiro
+2026-02-06 21:37:24.100517,1265,Porto Alegre,Lucas,iPad,Katharine Parks,O,Dinheiro
+2026-02-06 22:38:22.133733,1266,Porto Alegre,Tiago,Galaxy,Clayton Bradley,M,Dinheiro
+2026-02-07 22:20:26.818144,1267,Belo Horizonte,Stephanie,iPhone,Carol Short,O,Dinheiro
+2026-02-07 22:37:26.915084,1268,Rio de Janeiro,Antônio,iPad,Anna Schultz,F,Dinheiro
+2026-02-07 23:34:25.182636,1269,Rio de Janeiro,Antônio,iPhone,Leon Grier,O,Pix
+2026-02-08 01:11:21.914875,1270,Rio de Janeiro,Juliana,Android,Frank Jacome,M,Dinheiro
+2026-02-08 19:56:23.616691,1271,Belo Horizonte,Carlos,iPhone,Wanda Moran,F,Dinheiro
+2026-02-08 20:53:23.913061,1272,Porto Alegre,Tiago,Android,Christopher Alvarado,M,Cartão de Crédito
+2026-02-08 20:57:24.566284,1273,Porto Alegre,Marta,iPhone,Angela Richardson,F,Cartão de Crédito
+2026-02-08 22:25:25.960019,1274,Porto Alegre,Lucas,Galaxy,Gussie Ragland,F,Dinheiro
+2026-02-09 00:23:22.505232,1275,Florianópolis,Paola,Galaxy,Justin Gunn,M,Pix
+2026-02-09 02:47:23.073835,1276,Porto Alegre,Tiago,iPhone,Jeffrey Markee,M,Cartão de Crédito
+2026-02-09 18:09:22.313764,1277,Belo Horizonte,Carlos,iPhone,Jose Saenz,M,Dinheiro
+2026-02-09 19:02:26.694607,1278,Florianópolis,Rafaela,Galaxy,David Mitchell,O,Pix
+2026-02-09 22:49:22.223418,1279,Belo Horizonte,Carlos,Android,Effie Stout,F,Pix
+2026-02-10 00:54:26.223397,1280,Florianópolis,Eduardo,iPad,Ramona Goodwin,F,Cartão de Crédito
+2026-02-10 03:23:26.484735,1281,São Paulo,Maria,iPhone,Helen Myers,F,Cartão de Crédito
+2026-02-10 17:18:22.431563,1282,São Paulo,João,Dell,Glen Portillo,M,Pix
+2026-02-10 17:53:22.984168,1283,Porto Alegre,Marta,Galaxy,Christopher Scroggins,O,Dinheiro
+2026-02-10 18:58:25.573400,1284,Rio de Janeiro,Paulo,Galaxy,Robert Thomas,M,Pix
+2026-02-10 23:19:24.683928,1285,Belo Horizonte,Carleto,iPhone,Thelma Dudek,F,Dinheiro
+2026-02-11 17:37:24.889051,1286,Belo Horizonte,Stephanie,Galaxy,George Semple,O,Boleto
+2026-02-11 18:12:25.028902,1287,Porto Alegre,Marta,iPhone,Julie Curtis,O,Cartão de Crédito
+2026-02-11 18:42:25.362257,1288,São Paulo,Maria,iPad,Ruby Meek,F,Dinheiro
+2026-02-11 20:37:21.751843,1289,Belo Horizonte,Carlos,iPhone,Donald Karcher,M,Dinheiro
+2026-02-11 22:13:23.685388,1290,Florianópolis,Rafaela,iPad,Eugene Strohm,M,Boleto
+2026-02-11 22:19:26.477089,1291,Belo Horizonte,Stephanie,Galaxy,Tamar Hairston,F,Boleto
+2026-02-11 23:32:26.702110,1292,Porto Alegre,Lucas,iPad,Tonia Borders,F,Pix
+2026-02-12 00:53:26.516172,1293,Porto Alegre,Tiago,Android,Robert Livingston,O,Pix
+2026-02-12 02:31:24.344548,1294,Belo Horizonte,Carlos,Galaxy,Scott Bass,M,Dinheiro
+2026-02-12 02:33:25.050728,1295,Florianópolis,Eduardo,iPad,Willie Mcafee,F,Boleto
+2026-02-12 18:21:25.781291,1296,Porto Alegre,Tiago,Android,Adrian Kirkland,O,Cartão de Crédito
+2026-02-12 19:19:27.430470,1297,São Paulo,Maria,Android,Glenna Weichel,F,Pix
+2026-02-12 19:20:25.222736,1298,São Paulo,Pedro,Galaxy,Guadalupe Falkner,M,Cartão de Crédito
+2026-02-12 20:16:21.902389,1299,Belo Horizonte,Carlos,iPad,Rosalie Shriver,F,Dinheiro
+2026-02-12 23:00:27.395359,1300,Florianópolis,Eduardo,Galaxy,Doris Drake,F,Pix
+2026-02-13 23:58:22.430427,1301,Rio de Janeiro,Antônio,iPhone,Kathryn Obrien,O,Cartão de Crédito
+2026-02-14 17:10:27.417565,1302,Rio de Janeiro,Paulo,Android,Travis Airington,M,Dinheiro
+2026-02-14 19:10:27.666426,1303,Florianópolis,Paola,Dell,Joe Knight,M,Boleto
+2026-02-14 20:44:24.139039,1304,São Paulo,João,iPad,Deanna Miller,O,Cartão de Crédito
+2026-02-14 21:46:21.913685,1305,São Paulo,João,Dell,Jesus Roland,O,Dinheiro
+2026-02-14 22:14:22.158709,1306,Florianópolis,Rafaela,iPhone,Paula Solomon,O,Boleto
+2026-02-14 22:38:23.790844,1307,São Paulo,João,Android,Jeffrey Smith,O,Boleto
+2026-02-15 01:03:24.407043,1308,Florianópolis,Paola,Android,Sal Bradley,O,Boleto
+2026-02-15 17:27:23.380401,1309,Rio de Janeiro,Antônio,Galaxy,Richard Darling,M,Boleto
+2026-02-15 19:02:25.262482,1310,Porto Alegre,Lucas,Galaxy,Sara Hutchins,F,Boleto
+2026-02-16 00:28:22.466331,1311,São Paulo,Pedro,iPhone,Ivan Oldham,O,Boleto
+2026-02-16 00:42:25.246487,1312,Florianópolis,Eduardo,Galaxy,Angie Warner,O,Boleto
+2026-02-16 16:34:24.720644,1313,Porto Alegre,Marta,Android,Phyllis Carrier,F,Cartão de Crédito
+2026-02-16 16:59:25.786157,1314,Belo Horizonte,Carleto,Galaxy,Alicia Clark,O,Pix
+2026-02-16 20:40:25.311585,1315,Porto Alegre,Tiago,iPhone,Allen Guthrie,M,Cartão de Crédito
+2026-02-16 21:48:27.109813,1316,Florianópolis,Rafaela,Android,Chanel Washington,F,Boleto
+2026-02-17 00:55:27.758274,1317,Porto Alegre,Lucas,Dell,Kenneth Holt,M,Dinheiro
+2026-02-17 02:24:27.821268,1318,São Paulo,Maria,Galaxy,Rene Williams,M,Dinheiro
+2026-02-17 02:53:26.066740,1319,Belo Horizonte,Stephanie,Dell,Jessie Packard,O,Cartão de Crédito
+2026-02-17 18:47:27.377778,1320,Belo Horizonte,Carlos,Dell,David Meighan,M,Cartão de Crédito
+2026-02-17 18:47:27.925104,1321,Florianópolis,Paola,Dell,Cara Benner,O,Pix
+2026-02-17 21:51:27.401064,1322,Porto Alegre,Marta,Dell,Cynthia Mcguinness,O,Boleto
+2026-02-17 22:19:21.833640,1323,Florianópolis,Paola,iPhone,Thurman Wise,M,Boleto
+2026-02-18 18:40:26.298473,1324,Belo Horizonte,Carlos,iPhone,Kyle Swanson,O,Boleto
+2026-02-18 19:12:27.455638,1325,Rio de Janeiro,Paulo,Android,Paul Mitchell,M,Cartão de Crédito
+2026-02-18 20:25:24.191052,1326,Porto Alegre,Tiago,Galaxy,Charles Spencer,O,Boleto
+2026-02-18 22:08:24.075345,1327,Porto Alegre,Lucas,Android,Brent Hammond,M,Dinheiro
+2026-02-18 22:43:26.756196,1328,Porto Alegre,Tiago,iPad,Catherine Busch,F,Pix
+2026-02-19 00:20:24.261931,1329,São Paulo,João,Android,Charles Cole,M,Boleto
+2026-02-19 01:02:27.752510,1330,São Paulo,Pedro,Android,Paul Mellinger,O,Boleto
+2026-02-19 17:26:25.391037,1331,Porto Alegre,Tiago,iPhone,Robert Handelman,M,Cartão de Crédito
+2026-02-19 19:41:21.509377,1332,Rio de Janeiro,Juliana,iPhone,Jeremy Aslanian,M,Boleto
+2026-02-19 19:54:22.225513,1333,Rio de Janeiro,Paulo,Android,Joseph Edwards,O,Dinheiro
+2026-02-20 02:14:24.437726,1334,São Paulo,Maria,iPad,Matthew Kilburn,O,Cartão de Crédito
+2026-02-21 00:14:26.789522,1335,Rio de Janeiro,Juliana,iPhone,Eric Mayer,M,Pix
+2026-02-21 01:55:27.445390,1336,Rio de Janeiro,Juliana,Android,Rhonda Santos,F,Pix
+2026-02-21 02:18:23.479949,1337,Porto Alegre,Tiago,iPhone,Jonathan Haas,O,Pix
+2026-02-21 16:30:26.475323,1338,São Paulo,João,iPad,Carmen Watts,O,Dinheiro
+2026-02-21 18:46:27.397247,1339,Rio de Janeiro,Paulo,Galaxy,John Zimmer,O,Cartão de Crédito
+2026-02-21 19:41:25.962641,1340,Belo Horizonte,Carleto,Dell,John Galloway,M,Dinheiro
+2026-02-21 19:56:22.224453,1341,Porto Alegre,Lucas,Android,Debra Cagle,F,Cartão de Crédito
+2026-02-21 20:24:25.307032,1342,Rio de Janeiro,Juliana,iPad,Pauline Veasey,F,Dinheiro
+2026-02-21 21:19:26.853834,1343,Rio de Janeiro,Paulo,Dell,Cierra Green,O,Cartão de Crédito
+2026-02-21 21:23:27.160647,1344,Florianópolis,Rafaela,Galaxy,Linda Scherrer,F,Dinheiro
+2026-02-21 21:28:24.810122,1345,Florianópolis,Paola,Android,Robert Havens,M,Dinheiro
+2026-02-21 22:19:23.324727,1346,Rio de Janeiro,Paulo,Dell,Bryant Estes,O,Dinheiro
+2026-02-21 23:59:24.648242,1347,Rio de Janeiro,Paulo,iPad,Cara Diaz,F,Pix
+2026-02-22 00:04:23.049020,1348,Belo Horizonte,Carlos,Galaxy,Kathleen Knowlton,F,Dinheiro
+2026-02-22 01:41:23.227796,1349,São Paulo,Pedro,iPhone,Clay Hidalgo,M,Boleto
+2026-02-22 03:01:26.931085,1350,São Paulo,Maria,iPad,Alberto Mcguire,O,Boleto
+2026-02-22 16:45:23.289960,1351,São Paulo,João,iPhone,Jack Yanez,M,Pix
+2026-02-22 20:21:26.874146,1352,Rio de Janeiro,Antônio,iPad,Thomas Nolen,M,Boleto
+2026-02-22 21:17:26.964844,1353,São Paulo,Pedro,iPad,Thomas Hernandez,M,Cartão de Crédito
+2026-02-22 22:23:25.405781,1354,São Paulo,Maria,iPad,Brian Riggleman,O,Cartão de Crédito
+2026-02-22 22:49:24.101043,1355,Florianópolis,Paola,Galaxy,Larry Tretheway,M,Pix
+2026-02-22 22:55:22.271801,1356,Rio de Janeiro,Juliana,Dell,Kathi Dorton,F,Dinheiro
+2026-02-22 23:15:23.875510,1357,Rio de Janeiro,Paulo,iPhone,Gregory Mickens,M,Cartão de Crédito
+2026-02-23 00:14:25.537721,1358,São Paulo,Maria,iPad,James Thomas,M,Boleto
+2026-02-23 00:48:26.858485,1359,Rio de Janeiro,Juliana,iPhone,Amy Jackson,F,Pix
+2026-02-23 21:30:25.110611,1360,Florianópolis,Rafaela,Android,Monique Brandt,F,Cartão de Crédito
+2026-02-23 21:33:21.554477,1361,Belo Horizonte,Carleto,Galaxy,Stanley Castro,M,Dinheiro
+2026-02-24 00:32:24.257311,1362,Rio de Janeiro,Paulo,iPhone,Eric Caton,O,Cartão de Crédito
+2026-02-24 00:56:27.758817,1363,Rio de Janeiro,Antônio,Galaxy,Sharon Pettrey,O,Pix
+2026-02-24 17:00:24.440172,1364,Rio de Janeiro,Paulo,iPhone,Bessie Malone,F,Cartão de Crédito
+2026-02-24 17:28:24.386608,1365,Rio de Janeiro,Antônio,iPad,Gwendolyn Johnson,O,Cartão de Crédito
+2026-02-24 21:23:26.516615,1366,Florianópolis,Eduardo,Android,James Maner,M,Cartão de Crédito
+2026-02-24 21:46:24.692010,1367,São Paulo,Maria,iPhone,Linda Crowell,F,Pix
+2026-02-24 22:45:27.077839,1368,Porto Alegre,Lucas,Dell,Linda Smith,O,Pix
+2026-02-24 22:53:27.367729,1369,Rio de Janeiro,Antônio,iPhone,Margaret Sinclair,F,Dinheiro
+2026-02-25 02:51:23.323755,1370,Florianópolis,Paola,Dell,Chang King,M,Pix
+2026-02-25 16:35:24.432516,1371,São Paulo,Pedro,Android,Lesa Delarosa,F,Cartão de Crédito
+2026-02-25 17:11:27.480649,1372,Porto Alegre,Lucas,Galaxy,Chris Bourgeois,M,Pix
+2026-02-25 17:45:21.506855,1373,Belo Horizonte,Carlos,Galaxy,Tonya Dorr,F,Pix
+2026-02-25 20:48:27.197235,1374,Rio de Janeiro,Paulo,iPhone,Sean Bartlett,O,Dinheiro
+2026-02-25 22:35:27.170398,1375,Porto Alegre,Lucas,iPhone,Jennie Sutherland,F,Boleto
+2026-02-25 23:21:23.614718,1376,Florianópolis,Paola,iPhone,Charles Coffey,M,Cartão de Crédito
+2026-02-26 02:46:26.754925,1377,Belo Horizonte,Stephanie,Android,Robert Palmer,M,Dinheiro
+2026-02-26 02:56:26.115509,1378,São Paulo,Pedro,iPhone,Ann Strieker,F,Cartão de Crédito
+2026-02-26 17:55:23.423026,1379,Porto Alegre,Lucas,iPad,Elizabeth Henshaw,F,Pix
+2026-02-26 20:38:21.692988,1380,Porto Alegre,Marta,iPhone,Herman Hinesley,M,Pix
+2026-02-26 21:44:26.897305,1381,Rio de Janeiro,Juliana,Android,Jasmine Hansen,F,Pix
+2026-02-26 22:20:26.047159,1382,Rio de Janeiro,Juliana,iPhone,Miguel Townsend,M,Dinheiro
+2026-02-26 23:40:22.134058,1383,São Paulo,João,iPad,Jerry Schoonmaker,O,Cartão de Crédito
+2026-02-27 01:24:22.099157,1384,São Paulo,Maria,Galaxy,Justin Devlin,M,Cartão de Crédito
+2026-02-27 02:06:23.247442,1385,Porto Alegre,Marta,Android,Claude Dupes,M,Pix
+2026-02-27 22:25:27.503311,1386,Florianópolis,Rafaela,Android,Mary Strunk,F,Cartão de Crédito
+2026-02-28 02:15:22.474120,1387,Rio de Janeiro,Paulo,Galaxy,Virginia Hust,F,Boleto
+2026-02-28 02:30:21.925868,1388,São Paulo,Maria,Dell,Sau Proctor,F,Pix
+2026-02-28 02:41:26.646229,1389,Florianópolis,Rafaela,Android,Rebecca Hall,F,Dinheiro
+2026-02-28 17:48:26.326976,1390,Belo Horizonte,Carleto,Galaxy,Vincent Woolridge,M,Pix
+2026-02-28 18:46:23.635876,1391,Florianópolis,Paola,iPad,Norman Padilla,M,Dinheiro
+2026-02-28 21:39:23.546926,1392,Belo Horizonte,Carlos,Galaxy,Gary Arneson,O,Pix
+2026-03-01 20:21:24.149149,1393,Belo Horizonte,Carleto,iPad,George Ortiz,O,Pix
+2026-03-02 00:41:25.889000,1394,Rio de Janeiro,Antônio,iPad,Muriel Columbus,F,Pix
+2026-03-02 01:03:27.191320,1395,Rio de Janeiro,Juliana,iPhone,Susie Delia,O,Dinheiro
+2026-03-02 16:38:24.467488,1396,Porto Alegre,Marta,Android,Victoria Long,F,Pix
+2026-03-02 17:38:24.917185,1397,Belo Horizonte,Carlos,Dell,Roberta Hutchings,F,Pix
+2026-03-03 00:16:25.969375,1398,Florianópolis,Eduardo,Dell,James Adams,O,Cartão de Crédito
+2026-03-03 00:18:26.478535,1399,Belo Horizonte,Carleto,iPhone,Kenneth Evans,M,Dinheiro
+2026-03-03 01:46:25.500904,1400,Rio de Janeiro,Paulo,iPhone,Lorena Wayman,O,Dinheiro
+2026-03-03 02:21:27.819339,1401,Rio de Janeiro,Juliana,Android,Rogelio Haynes,O,Pix
+2026-03-03 17:02:23.615385,1402,São Paulo,Maria,iPhone,Carrie Varner,F,Boleto
+2026-03-03 17:21:24.216739,1403,Porto Alegre,Lucas,Dell,Mitsue Houston,F,Pix
+2026-03-03 20:52:25.867651,1404,Rio de Janeiro,Antônio,iPad,Emil Harris,O,Dinheiro
+2026-03-04 17:38:24.736718,1405,Florianópolis,Paola,iPad,Candace Wilder,O,Pix
+2026-03-04 20:24:22.295878,1406,São Paulo,João,Dell,Luis Elliott,M,Dinheiro
+2026-03-04 21:49:25.467021,1407,São Paulo,Maria,Android,Daniel Bissonnette,O,Boleto
+2026-03-05 01:16:23.984717,1408,Belo Horizonte,Stephanie,Dell,Tina Roy,F,Pix
+2026-03-05 16:55:27.310555,1409,São Paulo,João,Galaxy,Steven Woosley,O,Dinheiro
+2026-03-05 19:17:22.577682,1410,Porto Alegre,Marta,iPhone,Elizabeth Acosta,F,Cartão de Crédito
+2026-03-05 19:21:23.326147,1411,São Paulo,Pedro,iPhone,Garrett Carbajal,M,Cartão de Crédito
+2026-03-05 23:16:25.248154,1412,Porto Alegre,Lucas,Galaxy,Richard Riley,M,Dinheiro
+2026-03-06 00:55:22.114017,1413,São Paulo,João,Dell,Nora Gross,O,Cartão de Crédito
+2026-03-06 02:20:23.354800,1414,Rio de Janeiro,Antônio,iPhone,Frederic Hambleton,M,Dinheiro
+2026-03-06 02:50:25.231871,1415,Florianópolis,Rafaela,Android,Matthew Wilson,M,Boleto
+2026-03-06 02:54:25.994963,1416,Porto Alegre,Tiago,Galaxy,Robert York,O,Pix
+2026-03-06 03:01:26.156512,1417,Porto Alegre,Tiago,Galaxy,Trudy Tompkins,F,Dinheiro
+2026-03-06 18:04:26.498737,1418,Belo Horizonte,Stephanie,iPad,Eunice Weaver,F,Dinheiro
+2026-03-06 20:22:24.131160,1419,Florianópolis,Rafaela,iPhone,Lori Trapani,F,Pix
+2026-03-06 23:33:22.723701,1420,São Paulo,Maria,Galaxy,Marilynn Vinroe,O,Pix
+2026-03-06 23:33:23.027573,1421,Rio de Janeiro,Antônio,iPhone,Earl Elswick,M,Dinheiro
+2026-03-07 00:33:24.321147,1422,São Paulo,João,iPad,Mary Stimpert,O,Dinheiro
+2026-03-07 00:54:22.222028,1423,Belo Horizonte,Carleto,Galaxy,Dalila Russo,F,Pix
+2026-03-07 01:24:24.947140,1424,São Paulo,Pedro,Galaxy,Daniel Herrara,M,Boleto
+2026-03-07 02:43:23.701041,1425,Rio de Janeiro,Juliana,Galaxy,Sarah English,F,Boleto
+2026-03-07 19:30:24.521957,1426,São Paulo,João,Galaxy,Karen Cox,F,Cartão de Crédito
+2026-03-07 20:07:27.304205,1427,São Paulo,João,Dell,Dustin Featherston,M,Boleto
+2026-03-07 20:12:24.697579,1428,Belo Horizonte,Stephanie,Galaxy,Ronnie Snell,M,Cartão de Crédito
+2026-03-07 20:29:25.719457,1429,Rio de Janeiro,Antônio,Android,Elisa Wilson,O,Dinheiro
+2026-03-07 22:39:23.639883,1430,Rio de Janeiro,Antônio,iPhone,Shirleen Mcclelland,F,Dinheiro
+2026-03-08 01:01:27.547031,1431,Rio de Janeiro,Juliana,Dell,Randy Dyas,O,Dinheiro
+2026-03-08 01:23:22.429973,1432,Porto Alegre,Tiago,iPad,Sam Beard,M,Cartão de Crédito
+2026-03-08 16:32:25.334479,1433,Belo Horizonte,Stephanie,Galaxy,Mildred Traverso,F,Pix
+2026-03-08 20:43:25.312180,1434,Belo Horizonte,Carleto,Galaxy,Timothy Becnel,O,Boleto
+2026-03-08 23:12:26.647893,1435,Florianópolis,Paola,Android,Alan Mathis,M,Boleto
+2026-03-10 00:13:22.985348,1436,São Paulo,Maria,iPad,Teressa Lopez,F,Dinheiro
+2026-03-10 01:32:24.876384,1437,Belo Horizonte,Carlos,Dell,Angela Henrich,F,Boleto
+2026-03-10 16:44:27.451180,1438,Florianópolis,Rafaela,Android,Eva Hernandez,F,Pix
+2026-03-11 01:26:22.336246,1439,Florianópolis,Eduardo,Android,Stephanie Mcgowen,F,Boleto
+2026-03-11 02:49:24.363350,1440,Belo Horizonte,Carleto,iPad,Candice Blandon,F,Dinheiro
+2026-03-11 20:31:25.815180,1441,São Paulo,João,Dell,Stacy Bass,F,Pix
+2026-03-11 21:01:21.975344,1442,Belo Horizonte,Stephanie,Android,Thomas Jones,O,Boleto
+2026-03-11 22:58:27.369350,1443,São Paulo,Pedro,Android,Kathleen Pichardo,O,Pix
+2026-03-12 00:29:26.484353,1444,Rio de Janeiro,Paulo,Android,Richard Bennett,M,Cartão de Crédito
+2026-03-12 18:49:24.958771,1445,Porto Alegre,Lucas,Android,Mary Collins,O,Boleto
+2026-03-12 19:06:22.156142,1446,São Paulo,João,Android,Loretta Taylor,F,Pix
+2026-03-12 22:55:24.871516,1447,Belo Horizonte,Carleto,Galaxy,Randolph Lafontaine,M,Boleto
+2026-03-13 00:59:24.672742,1448,Porto Alegre,Lucas,iPad,Jessica Vance,F,Dinheiro
+2026-03-13 02:52:25.359763,1449,Belo Horizonte,Stephanie,Android,Rachel Porter,O,Cartão de Crédito
+2026-03-14 01:05:21.855741,1450,Belo Horizonte,Stephanie,iPhone,Charles Ruppert,M,Cartão de Crédito
+2026-03-14 16:49:24.279591,1451,Rio de Janeiro,Juliana,Galaxy,Richard Thomas,O,Pix
+2026-03-14 19:18:27.469993,1452,São Paulo,Maria,iPad,Matthew Ball,M,Boleto
+2026-03-14 19:27:22.154986,1453,Belo Horizonte,Stephanie,Android,Jim Mercer,M,Dinheiro
+2026-03-14 20:35:27.690815,1454,Porto Alegre,Marta,Android,Gloria Metz,O,Cartão de Crédito
+2026-03-14 21:28:27.009541,1455,Porto Alegre,Lucas,Dell,Raphael Rawlinson,O,Boleto
+2026-03-14 21:57:25.232625,1456,Rio de Janeiro,Antônio,Android,Walter Penson,M,Boleto
+2026-03-14 23:23:25.961892,1457,São Paulo,Pedro,iPad,Jeffrey Vela,M,Dinheiro
+2026-03-15 00:56:25.043710,1458,Belo Horizonte,Carlos,Galaxy,James Sinclair,O,Dinheiro
+2026-03-15 01:07:22.004916,1459,São Paulo,Pedro,Galaxy,Gwendolyn Smith,O,Boleto
+2026-03-15 18:34:25.954406,1460,Rio de Janeiro,Antônio,Android,Leroy Haley,M,Cartão de Crédito
+2026-03-15 18:41:23.083398,1461,São Paulo,Pedro,iPhone,Mary Nast,F,Dinheiro
+2026-03-15 21:56:26.652780,1462,Belo Horizonte,Stephanie,Galaxy,Julie Hopper,F,Dinheiro
+2026-03-15 22:28:24.138070,1463,Rio de Janeiro,Juliana,Dell,Shirley Mansfield,O,Boleto
+2026-03-15 23:19:27.451404,1464,Rio de Janeiro,Juliana,iPhone,Kelly Davisson,F,Dinheiro
+2026-03-15 23:38:26.757167,1465,São Paulo,Maria,iPad,Dustin Taul,O,Boleto
+2026-03-16 02:47:26.370207,1466,Porto Alegre,Marta,Galaxy,Zane Rasmussen,M,Pix
+2026-03-16 17:24:21.537663,1467,Belo Horizonte,Carlos,Galaxy,Heather Rossi,O,Pix
+2026-03-16 19:39:27.839448,1468,Porto Alegre,Marta,Android,Joel Johnson,O,Dinheiro
+2026-03-16 20:20:24.467722,1469,Belo Horizonte,Carlos,Android,Delcie Wall,O,Cartão de Crédito
+2026-03-16 22:45:23.230238,1470,Belo Horizonte,Stephanie,Android,Michael Casto,M,Pix
+2026-03-17 00:36:24.317599,1471,Florianópolis,Rafaela,Android,Diane Lefler,O,Dinheiro
+2026-03-17 02:48:25.381938,1472,Rio de Janeiro,Paulo,Android,Vertie Cantin,F,Dinheiro
+2026-03-17 18:45:22.979998,1473,Rio de Janeiro,Paulo,iPhone,Ursula Gourley,F,Pix
+2026-03-17 19:04:23.614486,1474,Florianópolis,Rafaela,Android,Linda Willis,F,Pix
+2026-03-17 19:27:25.192795,1475,Belo Horizonte,Carlos,Dell,Barbara Milliner,F,Cartão de Crédito
+2026-03-17 22:29:23.968536,1476,Belo Horizonte,Carleto,iPad,George Mcelroy,M,Boleto
+2026-03-17 23:33:22.691636,1477,Rio de Janeiro,Antônio,Android,Jimmy Pokswinski,M,Dinheiro
+2026-03-18 00:14:22.333217,1478,Belo Horizonte,Stephanie,Android,Alicia Rivera,F,Pix
+2026-03-18 02:22:24.594125,1479,Belo Horizonte,Carlos,iPad,Michael Ibarra,M,Boleto
+2026-03-18 17:22:27.913658,1480,São Paulo,João,iPhone,Jolyn Neel,F,Boleto
+2026-03-18 17:24:26.930552,1481,Florianópolis,Eduardo,Android,Antonio Santiago,O,Dinheiro
+2026-03-18 17:27:22.323766,1482,São Paulo,Maria,Dell,Willie Keyser,M,Dinheiro
+2026-03-18 22:58:22.987986,1483,Porto Alegre,Tiago,iPhone,Nelson Rodriguez,M,Pix
+2026-03-19 02:00:27.167938,1484,Florianópolis,Paola,iPhone,Harry Reitz,M,Boleto
+2026-03-19 17:16:25.260270,1485,Florianópolis,Eduardo,iPad,Mable Ballinger,F,Dinheiro
+2026-03-19 17:58:27.514319,1486,Belo Horizonte,Carlos,Dell,Stephen Creason,M,Dinheiro
+2026-03-19 18:53:24.351927,1487,Porto Alegre,Lucas,iPad,Gussie Thompson,F,Dinheiro
+2026-03-19 20:05:24.029690,1488,Belo Horizonte,Stephanie,Galaxy,Gary Parish,M,Pix
+2026-03-20 00:13:22.155791,1489,Belo Horizonte,Carlos,iPhone,Herman Schultz,M,Boleto
+2026-03-20 00:22:26.256892,1490,Rio de Janeiro,Juliana,iPhone,Lakeisha Conrad,F,Cartão de Crédito
+2026-03-20 00:46:27.310208,1491,Belo Horizonte,Stephanie,Galaxy,Brooke Flores,F,Boleto
+2026-03-20 17:12:25.994169,1492,Porto Alegre,Marta,Galaxy,Mary Gorman,O,Boleto
+2026-03-20 17:39:26.478729,1493,Florianópolis,Eduardo,Android,Gerald Mangrum,M,Boleto
+2026-03-20 18:36:26.513383,1494,São Paulo,Pedro,Android,Misty Reed,F,Pix
+2026-03-21 01:52:24.148925,1495,Belo Horizonte,Carlos,iPhone,Melissa Morales,O,Pix
+2026-03-21 18:24:24.720275,1496,Rio de Janeiro,Paulo,Android,Donna Hood,O,Pix
+2026-03-21 19:32:25.029218,1497,Rio de Janeiro,Antônio,iPad,Billie Scarberry,O,Pix
+2026-03-21 20:51:24.918712,1498,Belo Horizonte,Stephanie,iPhone,Patricia Williams,O,Cartão de Crédito
+2026-03-21 21:19:23.216297,1499,São Paulo,João,iPad,Brandy Doss,F,Dinheiro
+2026-03-22 00:37:26.771835,1500,São Paulo,Maria,Dell,Amy Walker,O,Cartão de Crédito
+2026-03-22 01:21:25.741868,1501,Florianópolis,Paola,iPad,Miriam Fisher,O,Dinheiro
+2026-03-22 19:12:24.140607,1502,Porto Alegre,Tiago,Dell,James Brown,O,Cartão de Crédito
+2026-03-22 20:46:26.320823,1503,Florianópolis,Eduardo,Dell,Peggy Copeland,F,Cartão de Crédito
+2026-03-22 21:26:25.856237,1504,Rio de Janeiro,Antônio,Android,Alison Douglass,F,Cartão de Crédito
+2026-03-22 23:43:24.536104,1505,São Paulo,João,iPad,Gary Felix,O,Pix
+2026-03-23 00:51:23.192776,1506,Belo Horizonte,Carlos,Galaxy,Dale Fisher,M,Cartão de Crédito
+2026-03-23 17:24:26.086598,1507,São Paulo,Pedro,Dell,Kelle Isenberg,O,Cartão de Crédito
+2026-03-23 17:47:27.922702,1508,Belo Horizonte,Carlos,Dell,Carol Hart,O,Pix
+2026-03-23 22:12:26.769173,1509,São Paulo,João,iPhone,Madeline Pollard,O,Pix
+2026-03-23 22:21:22.982585,1510,São Paulo,Maria,Android,Jackie Strain,F,Dinheiro
+2026-03-23 23:02:27.063570,1511,Belo Horizonte,Stephanie,iPad,William Cowart,M,Pix
+2026-03-23 23:56:24.471695,1512,Florianópolis,Rafaela,Galaxy,Melissa Wagner,O,Boleto
+2026-03-24 00:34:26.789164,1513,Florianópolis,Eduardo,iPhone,Celia Perez,F,Pix
+2026-03-24 17:25:24.796868,1514,Porto Alegre,Lucas,iPad,Michael Hatchett,M,Dinheiro
+2026-03-24 20:36:26.988539,1515,Rio de Janeiro,Paulo,Dell,George Putman,M,Dinheiro
+2026-03-24 21:02:27.237784,1516,São Paulo,João,iPad,Gilberto Paske,M,Dinheiro
+2026-03-24 23:06:27.927266,1517,Porto Alegre,Marta,Android,Dale Hamel,M,Pix
+2026-03-25 18:40:28.027857,1518,São Paulo,Maria,iPhone,Jed Roberts,M,Dinheiro
+2026-03-25 19:06:22.155550,1519,São Paulo,João,Dell,Bernard Collins,M,Boleto
+2026-03-25 21:14:26.153193,1520,Florianópolis,Rafaela,Galaxy,Robert Smith,M,Dinheiro
+2026-03-26 01:49:27.928862,1521,Porto Alegre,Lucas,Dell,Angela Duffy,F,Boleto
+2026-03-26 02:14:21.575271,1522,Porto Alegre,Marta,Dell,Jane Stoker,F,Cartão de Crédito
+2026-03-26 18:41:25.032287,1523,São Paulo,Maria,iPad,Amy Capaldi,F,Pix
+2026-03-26 18:41:25.816617,1524,Belo Horizonte,Stephanie,Android,Juanita Sweet,F,Dinheiro
+2026-03-26 20:57:26.179987,1525,Rio de Janeiro,Juliana,Dell,Carmen Strand,F,Pix
+2026-03-27 00:00:24.213178,1526,Rio de Janeiro,Paulo,Dell,Charles Hoover,M,Cartão de Crédito
+2026-03-27 01:14:23.455522,1527,Porto Alegre,Marta,iPhone,Eric Lewis,O,Pix
+2026-03-27 01:32:25.388202,1528,Florianópolis,Rafaela,Galaxy,Dylan Schultz,M,Boleto
+2026-03-27 17:31:27.509412,1529,Rio de Janeiro,Paulo,iPad,Amber Pratt,O,Pix
+2026-03-27 18:51:25.904388,1530,Porto Alegre,Lucas,Dell,Nicholas Rodrigue,M,Boleto
+2026-03-27 20:49:24.621998,1531,Porto Alegre,Lucas,Galaxy,Shane Wright,M,Dinheiro
+2026-03-27 23:08:25.490618,1532,São Paulo,João,iPad,Michelle Herman,O,Pix
+2026-03-27 23:31:23.041749,1533,São Paulo,João,Dell,Joseph Wilson,M,Pix
+2026-03-28 00:17:23.480521,1534,Rio de Janeiro,Antônio,iPhone,Jeramy Snyder,O,Boleto
+2026-03-28 01:42:25.815567,1535,Rio de Janeiro,Juliana,Android,Marion Mcrae,O,Boleto
+2026-03-29 02:12:23.415001,1536,Rio de Janeiro,Paulo,iPad,Ignacio Poorman,M,Dinheiro
+2026-03-29 17:17:27.387733,1537,São Paulo,Pedro,Galaxy,George Gray,O,Cartão de Crédito
+2026-03-29 17:48:24.701557,1538,Rio de Janeiro,Paulo,iPhone,Altha Desler,F,Cartão de Crédito
+2026-03-29 19:59:21.589179,1539,Florianópolis,Rafaela,iPad,Eric Rodriguez,M,Cartão de Crédito
+2026-03-29 22:53:27.800278,1540,São Paulo,Pedro,Dell,Joshua Bouska,O,Pix
+2026-03-30 00:56:26.649979,1541,Porto Alegre,Lucas,iPhone,Jose Palmieri,M,Pix
+2026-03-30 02:09:23.246279,1542,Porto Alegre,Tiago,Galaxy,Donald Culpepper,O,Pix
+2026-03-30 02:32:27.386068,1543,Belo Horizonte,Stephanie,Galaxy,David Kline,M,Pix
+2026-03-30 17:17:21.927687,1544,Florianópolis,Eduardo,iPhone,Edward Walker,M,Cartão de Crédito
+2026-03-30 17:20:27.961105,1545,Florianópolis,Paola,Galaxy,Ricky Johnson,O,Cartão de Crédito
+2026-03-30 20:31:25.638191,1546,Porto Alegre,Lucas,Galaxy,Noelle Plante,F,Cartão de Crédito
+2026-03-30 21:50:24.350523,1547,Rio de Janeiro,Paulo,iPhone,Brian Raines,O,Boleto
+2026-03-30 23:46:26.293230,1548,São Paulo,Maria,Dell,James Kinard,M,Dinheiro
+2026-03-31 00:08:26.895358,1549,São Paulo,Maria,Android,Pete Murray,M,Pix
+2026-03-31 00:18:27.343834,1550,Belo Horizonte,Stephanie,Android,Charles Turner,M,Pix
+2026-03-31 02:46:23.412584,1551,Belo Horizonte,Carlos,iPhone,Kristen Buckman,F,Boleto
+2026-03-31 03:08:22.858668,1552,Belo Horizonte,Stephanie,Dell,Don Burton,M,Boleto
+2026-03-31 17:14:22.434900,1553,Rio de Janeiro,Paulo,iPad,Christopher Landers,M,Boleto
+2026-03-31 21:16:24.349470,1554,Belo Horizonte,Stephanie,Dell,George Hansen,M,Cartão de Crédito
+2026-04-01 00:45:24.192683,1555,Rio de Janeiro,Paulo,Android,Debora Bell,F,Cartão de Crédito
+2026-04-01 17:11:23.463960,1556,Rio de Janeiro,Paulo,Android,Sharon Bentson,F,Pix
+2026-04-01 17:11:27.416178,1557,Florianópolis,Eduardo,iPad,Angela Mares,O,Pix
+2026-04-01 17:36:24.388715,1558,Belo Horizonte,Stephanie,iPad,Natalie Kassis,O,Cartão de Crédito
+2026-04-01 19:06:26.977169,1559,São Paulo,Pedro,iPhone,Janice Jones,F,Pix
+2026-04-01 20:45:27.015259,1560,Porto Alegre,Lucas,Android,Nancy Coats,F,Boleto
+2026-04-01 22:46:25.048780,1561,Florianópolis,Eduardo,Galaxy,Shannon Ng,F,Cartão de Crédito
+2026-04-01 23:33:25.955156,1562,Rio de Janeiro,Juliana,Dell,Sidney Orourke,M,Dinheiro
+2026-04-02 02:01:21.707843,1563,Florianópolis,Rafaela,iPhone,Camille Burks,O,Dinheiro
+2026-04-02 02:49:22.430727,1564,Florianópolis,Paola,Galaxy,Javier Black,O,Dinheiro
+2026-04-02 02:54:21.577182,1565,Porto Alegre,Lucas,Android,Noel Bays,M,Pix
+2026-04-02 19:37:26.035737,1566,Porto Alegre,Lucas,Galaxy,Kristie Manley,O,Boleto
+2026-04-02 23:27:25.844323,1567,São Paulo,João,Dell,Denise Staples,F,Boleto
+2026-04-02 23:37:27.442988,1568,Porto Alegre,Marta,iPad,Richard Irby,M,Pix
+2026-04-03 20:09:25.343435,1569,Rio de Janeiro,Juliana,Android,Elizabeth Nathanson,O,Boleto
+2026-04-03 21:16:22.321337,1570,Florianópolis,Paola,iPad,Michael Stonge,M,Boleto
+2026-04-04 01:05:27.782564,1571,São Paulo,João,Dell,Jarrett Kazmierczak,M,Pix
+2026-04-04 02:42:25.405001,1572,Rio de Janeiro,Antônio,Galaxy,Rose Marcum,O,Pix
+2026-04-04 17:11:25.438022,1573,Belo Horizonte,Carlos,iPad,Paula Wright,F,Boleto
+2026-04-04 17:23:26.202083,1574,Belo Horizonte,Carleto,iPad,Evan Fromm,M,Dinheiro
+2026-04-04 17:38:22.986113,1575,Porto Alegre,Lucas,Galaxy,Joseph Wynne,O,Cartão de Crédito
+2026-04-04 19:06:25.363458,1576,Porto Alegre,Tiago,Galaxy,Marie Holt,F,Pix
+2026-04-04 22:43:22.624662,1577,Belo Horizonte,Stephanie,Galaxy,Keith Ronson,O,Pix
+2026-04-04 23:58:25.761258,1578,Belo Horizonte,Carleto,Android,Helen Boehmer,F,Pix
+2026-04-05 01:33:26.181549,1579,Belo Horizonte,Carleto,iPad,Genevieve Knauss,F,Pix
+2026-04-05 02:38:26.649480,1580,Rio de Janeiro,Juliana,Dell,Ronald Mccarty,M,Boleto
+2026-04-05 16:58:25.503326,1581,Florianópolis,Paola,Galaxy,Scott Langley,M,Boleto
+2026-04-05 17:43:21.491545,1582,São Paulo,João,Android,Linda Hotaling,F,Boleto
+2026-04-05 18:22:24.673150,1583,São Paulo,Maria,Galaxy,Tracy Prewitt,O,Cartão de Crédito
+2026-04-05 21:35:27.400876,1584,São Paulo,Pedro,iPhone,Thomas Davis,M,Boleto
+2026-04-06 00:18:23.025362,1585,São Paulo,Maria,Android,Elizabeth Long,F,Pix
+2026-04-06 17:34:25.248414,1586,Rio de Janeiro,Antônio,iPad,Wilma Massey,O,Pix
+2026-04-06 18:37:22.624021,1587,Belo Horizonte,Carlos,iPhone,Jospeh Diaz,M,Boleto
+2026-04-06 21:12:26.708650,1588,Rio de Janeiro,Paulo,iPad,Peter Brock,O,Pix
+2026-04-06 21:21:25.911025,1589,São Paulo,Pedro,Dell,Keith Tolbert,M,Boleto
+2026-04-06 21:42:25.367424,1590,Rio de Janeiro,Juliana,Galaxy,Leah Kaeo,O,Cartão de Crédito
+2026-04-06 22:51:24.361113,1591,São Paulo,Maria,Galaxy,Juan Ngo,O,Pix
+2026-04-06 23:06:24.812487,1592,São Paulo,Pedro,Galaxy,Mary Cowan,O,Boleto
+2026-04-06 23:09:26.237813,1593,Belo Horizonte,Stephanie,Galaxy,Helen Verdino,F,Dinheiro
+2026-04-07 00:04:24.047783,1594,Porto Alegre,Lucas,iPad,Vicky Otis,F,Pix
+2026-04-07 01:10:27.130612,1595,Florianópolis,Paola,Galaxy,William Lynaugh,M,Boleto
+2026-04-07 17:11:23.891937,1596,Porto Alegre,Tiago,Dell,Clifford Myers,O,Boleto
+2026-04-07 20:00:26.755159,1597,Rio de Janeiro,Antônio,Galaxy,Carl Jacques,O,Cartão de Crédito
+2026-04-07 21:49:21.923867,1598,Florianópolis,Rafaela,Galaxy,Rhonda Cook,F,Cartão de Crédito
+2026-04-07 22:18:25.895466,1599,Rio de Janeiro,Antônio,iPad,Richard Webb,M,Dinheiro
+2026-04-07 23:12:24.805205,1600,Rio de Janeiro,Juliana,iPad,Robin Hight,O,Boleto
+2026-04-08 01:54:22.196024,1601,Belo Horizonte,Carleto,Android,Janet Lowery,O,Boleto
+2026-04-08 20:50:26.146758,1602,Florianópolis,Rafaela,iPhone,Warren Hopes,M,Cartão de Crédito
+2026-04-08 21:11:26.619644,1603,Florianópolis,Eduardo,Galaxy,David Elkin,M,Cartão de Crédito
+2026-04-08 23:42:23.971074,1604,Porto Alegre,Lucas,iPhone,Michael Ledezma,O,Boleto
+2026-04-09 00:29:24.345439,1605,Belo Horizonte,Carleto,Android,Gregory Longley,M,Dinheiro
+2026-04-09 00:31:26.895993,1606,São Paulo,Maria,Dell,Dawn Edward,F,Pix
+2026-04-09 01:49:27.500958,1607,Porto Alegre,Tiago,Android,Heather Berry,F,Dinheiro
+2026-04-09 16:43:27.571318,1608,Rio de Janeiro,Antônio,iPhone,Rosario Schuler,O,Dinheiro
+2026-04-09 19:56:24.440561,1609,Porto Alegre,Tiago,iPad,John Osborne,M,Cartão de Crédito
+2026-04-09 20:18:23.680815,1610,Rio de Janeiro,Juliana,iPhone,Howard Moore,O,Pix
+2026-04-09 22:47:21.835602,1611,Rio de Janeiro,Paulo,iPad,Henry Leonhart,M,Dinheiro
+2026-04-09 22:49:23.226740,1612,Belo Horizonte,Stephanie,Android,Martha Hill,F,Dinheiro
+2026-04-10 00:10:27.016247,1613,Rio de Janeiro,Juliana,Dell,Harry Yee,M,Boleto
+2026-04-10 01:46:26.965031,1614,Florianópolis,Rafaela,Galaxy,Elizabeth Moore,O,Cartão de Crédito
+2026-04-10 02:13:26.114842,1615,Porto Alegre,Tiago,iPhone,Daniel Ayers,M,Cartão de Crédito
+2026-04-10 02:44:22.577432,1616,Belo Horizonte,Carlos,Galaxy,Stacey Martinez,F,Cartão de Crédito
+2026-04-11 00:03:27.195710,1617,São Paulo,João,iPad,Gayle Bates,F,Boleto
+2026-04-11 00:39:22.405898,1618,Belo Horizonte,Carleto,Android,Robert Smith,O,Pix
+2026-04-11 17:29:26.637765,1619,Belo Horizonte,Stephanie,Android,William Vigo,O,Boleto
+2026-04-11 17:45:26.257769,1620,Porto Alegre,Marta,Android,Kimberly Gipson,F,Cartão de Crédito
+2026-04-11 17:57:27.404968,1621,Florianópolis,Rafaela,iPhone,Maria Frew,F,Dinheiro
+2026-04-11 18:40:23.726087,1622,São Paulo,Maria,iPad,Betty Martinez,O,Cartão de Crédito
+2026-04-11 19:37:25.644620,1623,Belo Horizonte,Carleto,iPhone,Mildred Wright,F,Cartão de Crédito
+2026-04-11 21:14:24.524002,1624,Porto Alegre,Lucas,iPhone,Karen Mascia,F,Cartão de Crédito
+2026-04-12 02:30:22.431035,1625,Porto Alegre,Marta,Dell,Gene Shepard,O,Pix
+2026-04-13 00:25:27.669365,1626,São Paulo,Maria,Galaxy,Brian Weir,M,Pix
+2026-04-13 00:57:25.364730,1627,Rio de Janeiro,Juliana,Android,Deborah Brodeur,F,Dinheiro
+2026-04-13 01:32:25.515045,1628,Florianópolis,Paola,Android,Carla Brushwood,O,Cartão de Crédito
+2026-04-13 02:27:24.262134,1629,Belo Horizonte,Carlos,Galaxy,John Decker,O,Cartão de Crédito
+2026-04-13 03:12:26.155652,1630,São Paulo,Maria,Galaxy,Kirsten Novak,F,Cartão de Crédito
+2026-04-13 17:18:26.299314,1631,Florianópolis,Rafaela,iPad,Jane Harris,F,Dinheiro
+2026-04-13 22:41:23.985076,1632,Florianópolis,Paola,Android,Harry Syring,O,Dinheiro
+2026-04-14 00:16:24.945413,1633,Porto Alegre,Tiago,Android,John Colbert,M,Boleto
+2026-04-14 01:57:24.796643,1634,Porto Alegre,Marta,Dell,Marcus Green,M,Dinheiro
+2026-04-14 02:36:23.292227,1635,São Paulo,Maria,iPhone,Valerie Perri,F,Cartão de Crédito
+2026-04-14 18:06:22.230327,1636,Porto Alegre,Marta,Dell,Elvira Richards,O,Boleto
+2026-04-14 21:20:24.003722,1637,Belo Horizonte,Carlos,Android,Ernest Burhans,M,Pix
+2026-04-14 23:50:26.068212,1638,Rio de Janeiro,Juliana,iPad,Pat Henderson,F,Boleto
+2026-04-15 00:56:25.834304,1639,Rio de Janeiro,Paulo,Android,Nora Odom,F,Boleto
+2026-04-15 02:14:25.513350,1640,Porto Alegre,Tiago,iPhone,Angel Jordan,M,Pix
+2026-04-15 03:19:25.139011,1641,São Paulo,Pedro,Android,Robert Gause,M,Dinheiro
+2026-04-15 16:26:23.751423,1642,Rio de Janeiro,Paulo,Android,Keith Blom,O,Cartão de Crédito
+2026-04-15 20:15:22.196968,1643,Florianópolis,Paola,Android,Martha Ellender,F,Pix
+2026-04-15 20:52:25.212193,1644,Porto Alegre,Marta,Galaxy,Amanda Frison,O,Dinheiro
+2026-04-16 00:57:25.222033,1645,Belo Horizonte,Carleto,Dell,Loretta Mayes,F,Dinheiro
+2026-04-16 01:05:25.173239,1646,Florianópolis,Paola,Galaxy,Stanley Sanders,M,Cartão de Crédito
+2026-04-16 01:40:23.217133,1647,São Paulo,Pedro,Dell,Curt Morgan,M,Cartão de Crédito
+2026-04-16 18:34:21.579817,1648,Rio de Janeiro,Juliana,Dell,Joseph Mchargue,M,Pix
+2026-04-16 19:44:21.491346,1649,Florianópolis,Eduardo,iPhone,Edward Hill,M,Cartão de Crédito
+2026-04-16 20:20:25.532708,1650,Porto Alegre,Marta,Galaxy,George Heyward,M,Dinheiro
+2026-04-16 20:33:23.054734,1651,Rio de Janeiro,Juliana,Android,Patricia Kim,F,Boleto
+2026-04-16 23:45:21.938657,1652,Porto Alegre,Marta,Android,David Balkus,M,Dinheiro
+2026-04-17 00:53:22.911674,1653,Belo Horizonte,Carleto,Galaxy,Dorothy Quinones,F,Boleto
+2026-04-17 01:25:27.926973,1654,Rio de Janeiro,Paulo,Galaxy,Rebecca Pena,F,Pix
+2026-04-17 02:08:23.345574,1655,Porto Alegre,Lucas,iPhone,William Hernandez,M,Boleto
+2026-04-17 17:03:26.259219,1656,Florianópolis,Rafaela,iPad,William Potts,M,Boleto
+2026-04-17 18:39:21.956862,1657,Belo Horizonte,Carleto,iPad,Willie Parker,M,Pix
+2026-04-17 21:34:23.650092,1658,São Paulo,Maria,iPad,Eugene Crowell,M,Pix
+2026-04-17 23:00:21.533282,1659,Rio de Janeiro,Juliana,iPhone,Raymond Mattson,O,Cartão de Crédito
+2026-04-17 23:46:23.050713,1660,Florianópolis,Paola,Galaxy,Jeffrey Wooton,M,Pix
+2026-04-18 01:06:25.637769,1661,São Paulo,Pedro,Dell,Chad Gonzalez,M,Boleto
+2026-04-18 21:51:27.509207,1662,Belo Horizonte,Stephanie,iPhone,Louis Nelson,M,Boleto
+2026-04-18 22:31:22.428326,1663,Porto Alegre,Marta,iPad,Christopher Green,M,Cartão de Crédito
+2026-04-19 01:26:23.046348,1664,Belo Horizonte,Carleto,Galaxy,Victoria Hutton,F,Boleto
+2026-04-19 19:42:25.313894,1665,Rio de Janeiro,Juliana,Galaxy,Sara Johnson,O,Dinheiro
+2026-04-19 20:42:26.835346,1666,São Paulo,Pedro,iPad,Noreen Schermann,F,Cartão de Crédito
+2026-04-19 23:03:24.231216,1667,Porto Alegre,Lucas,Dell,Joseph Cates,M,Pix
+2026-04-19 23:06:21.833395,1668,São Paulo,Pedro,iPhone,Michael Jordan,O,Cartão de Crédito
+2026-04-20 01:32:27.485747,1669,Florianópolis,Paola,iPhone,Kevin Bartlett,M,Cartão de Crédito
+2026-04-20 03:24:25.503982,1670,Porto Alegre,Marta,Dell,Katharine Nesby,F,Boleto
+2026-04-20 16:41:26.294995,1671,Belo Horizonte,Stephanie,iPad,Olga Varela,O,Pix
+2026-04-20 18:38:22.323399,1672,Porto Alegre,Tiago,Dell,Angela Anderson,F,Pix
+2026-04-20 19:25:24.774386,1673,Florianópolis,Eduardo,Dell,Travis Luckner,O,Boleto
+2026-04-20 20:50:21.791921,1674,Porto Alegre,Marta,iPhone,Mary Jackson,F,Dinheiro
+2026-04-20 21:07:25.811668,1675,Rio de Janeiro,Juliana,Dell,Bobby Riley,M,Cartão de Crédito
+2026-04-20 23:03:26.531433,1676,Rio de Janeiro,Paulo,Dell,Margarita Crane,F,Boleto
+2026-04-21 00:15:27.203524,1677,Florianópolis,Paola,Dell,Jim Venkus,O,Pix
+2026-04-21 01:37:26.191694,1678,Florianópolis,Eduardo,Android,Marylou Alvarez,O,Pix
+2026-04-21 16:35:24.259684,1679,Belo Horizonte,Carleto,Galaxy,Kathleen Edwards,F,Cartão de Crédito
+2026-04-21 20:56:27.374945,1680,Porto Alegre,Marta,Android,Judith Weatherby,F,Dinheiro
+2026-04-21 22:24:25.360051,1681,Florianópolis,Paola,iPad,Patsy Victor,F,Dinheiro
+2026-04-21 22:27:22.887723,1682,Porto Alegre,Tiago,iPad,Curtis Mason,O,Pix
+2026-04-22 00:23:21.476324,1683,São Paulo,João,Galaxy,Brandon Klein,M,Cartão de Crédito
+2026-04-22 01:48:28.011777,1684,São Paulo,Pedro,Android,Marlene Martin,F,Cartão de Crédito
+2026-04-22 20:25:26.196308,1685,Florianópolis,Paola,iPad,Aaron Pressnell,M,Pix
+2026-04-22 22:55:21.827822,1686,Rio de Janeiro,Antônio,iPhone,Valerie Christian,O,Cartão de Crédito
+2026-04-22 23:59:26.452672,1687,Belo Horizonte,Carlos,Dell,Ashley Kuczenski,F,Cartão de Crédito
+2026-04-23 19:02:26.618179,1688,Florianópolis,Paola,Galaxy,Charles Espinal,O,Dinheiro
+2026-04-23 20:14:25.064560,1689,Belo Horizonte,Stephanie,Android,Joseph Bouman,M,Boleto
+2026-04-23 21:06:27.006624,1690,Belo Horizonte,Stephanie,Dell,Victoria Rayford,O,Boleto
+2026-04-23 21:27:25.911693,1691,Rio de Janeiro,Antônio,Galaxy,Mildred Torry,F,Cartão de Crédito
+2026-04-23 22:30:23.339928,1692,Rio de Janeiro,Paulo,Galaxy,Lidia Gravelle,O,Boleto
+2026-04-23 23:39:25.888035,1693,Florianópolis,Paola,Galaxy,Dorothea Smith,F,Dinheiro
+2026-04-24 01:49:23.226931,1694,Rio de Janeiro,Juliana,iPad,Lyda Morris,F,Cartão de Crédito
+2026-04-24 17:27:23.041924,1695,Porto Alegre,Lucas,Android,Sarah Hanson,O,Pix
+2026-04-24 17:38:26.283634,1696,São Paulo,João,iPad,Maria Bradley,F,Dinheiro
+2026-04-24 21:09:23.109431,1697,Florianópolis,Paola,Dell,Jasmine Cuomo,O,Boleto
+2026-04-24 21:30:27.398580,1698,Florianópolis,Rafaela,Android,Milford Laws,M,Dinheiro
+2026-04-25 00:16:22.480729,1699,Rio de Janeiro,Juliana,iPad,Demetrius Garay,M,Pix
+2026-04-25 18:49:27.731843,1700,São Paulo,Maria,iPhone,Marguerite Dalphonse,F,Pix
+2026-04-25 23:10:23.940387,1701,Belo Horizonte,Carleto,iPhone,Cheryl Perry,F,Cartão de Crédito
+2026-04-26 20:21:27.300211,1702,Belo Horizonte,Stephanie,iPhone,Frank Woodard,M,Cartão de Crédito
+2026-04-26 21:57:22.749649,1703,São Paulo,João,iPad,Celeste Shetlar,F,Cartão de Crédito
+2026-04-26 22:37:21.561637,1704,São Paulo,João,iPad,Ruby Cornejo,F,Cartão de Crédito
+2026-04-27 02:41:25.158283,1705,São Paulo,João,Galaxy,Alphonso Szymczak,M,Cartão de Crédito
+2026-04-27 20:08:21.688618,1706,São Paulo,Pedro,Android,Katherine Hanlon,F,Dinheiro
+2026-04-27 21:02:27.008520,1707,Belo Horizonte,Stephanie,Dell,Elmer Reagan,M,Boleto
+2026-04-28 00:54:22.081758,1708,Porto Alegre,Lucas,Android,Tiffany Babel,F,Cartão de Crédito
+2026-04-28 18:11:22.296593,1709,Porto Alegre,Tiago,Dell,Carl Wade,M,Cartão de Crédito
+2026-04-28 18:32:23.619285,1710,Florianópolis,Eduardo,Android,Roland Skelley,M,Pix
+2026-04-28 19:16:26.608305,1711,Rio de Janeiro,Paulo,Android,Angie Stiffler,O,Cartão de Crédito
+2026-04-28 19:55:21.895222,1712,Florianópolis,Paola,Dell,Jean Quintana,F,Pix
+2026-04-28 22:10:25.840349,1713,Belo Horizonte,Stephanie,Android,Melissa Mcdonough,F,Cartão de Crédito
+2026-04-28 23:56:23.634984,1714,Florianópolis,Paola,iPhone,Wallace Oakes,O,Cartão de Crédito
+2026-04-29 01:39:24.521760,1715,Rio de Janeiro,Juliana,Dell,James Lewis,M,Dinheiro
+2026-04-29 02:08:27.303962,1716,São Paulo,João,Galaxy,Phillip Ortiz,M,Dinheiro
+2026-04-29 19:11:22.570587,1717,Porto Alegre,Marta,iPad,Vicki Nelson,O,Dinheiro
+2026-04-29 20:43:22.123123,1718,Porto Alegre,Tiago,Galaxy,Robert Jacquez,O,Pix
+2026-04-29 20:55:21.956349,1719,Florianópolis,Eduardo,Dell,Douglas Potter,O,Pix
+2026-04-29 23:35:22.471063,1720,Belo Horizonte,Carleto,Dell,Diana Lee,F,Boleto
+2026-04-30 00:40:25.794861,1721,Florianópolis,Paola,iPhone,Luis Davis,O,Cartão de Crédito
+2026-04-30 20:37:21.760774,1722,São Paulo,Pedro,Galaxy,Clara Anyan,F,Boleto
+2026-04-30 22:38:24.239309,1723,Belo Horizonte,Carlos,iPhone,Cameron Mackey,M,Pix
+2026-04-30 22:41:23.974108,1724,São Paulo,Maria,iPad,Bonnie Perez,F,Dinheiro
+2026-05-01 16:45:27.301711,1725,Rio de Janeiro,Antônio,iPad,Earl Oates,O,Boleto
+2026-05-01 17:31:25.971145,1726,Florianópolis,Rafaela,iPhone,David Jacome,M,Pix
+2026-05-01 19:54:21.563997,1727,Rio de Janeiro,Antônio,iPhone,Kathryn Ferguson,F,Dinheiro
+2026-05-01 23:33:21.715002,1728,Rio de Janeiro,Paulo,iPhone,Nicole Moreno,F,Boleto
+2026-05-02 02:34:22.909303,1729,Florianópolis,Eduardo,iPhone,Sandi Maggard,F,Dinheiro
+2026-05-02 17:25:27.346830,1730,Belo Horizonte,Carleto,Galaxy,Pamela Richardson,F,Cartão de Crédito
+2026-05-02 17:45:22.427544,1731,Florianópolis,Eduardo,Android,Connie Mccollum,F,Cartão de Crédito
+2026-05-02 18:15:24.648646,1732,Belo Horizonte,Stephanie,iPhone,Bryant Ciresi,M,Boleto
+2026-05-02 18:37:26.709918,1733,Belo Horizonte,Carlos,iPad,Michael Webb,O,Dinheiro
+2026-05-02 20:05:26.659491,1734,Florianópolis,Paola,Dell,Timothy Choquette,M,Cartão de Crédito
+2026-05-02 20:17:23.909863,1735,Rio de Janeiro,Paulo,iPhone,Tiffany King,F,Pix
+2026-05-02 21:41:23.328868,1736,Belo Horizonte,Stephanie,Dell,Sharon Swartzentrube,F,Boleto
+2026-05-02 21:54:23.692414,1737,Rio de Janeiro,Juliana,iPhone,Valerie Fazio,O,Cartão de Crédito
+2026-05-02 22:58:23.913385,1738,Belo Horizonte,Stephanie,Galaxy,George Cooper,O,Dinheiro
+2026-05-03 00:59:21.896518,1739,Porto Alegre,Marta,iPad,Victor Herrera,M,Pix
+2026-05-03 17:04:25.155768,1740,Rio de Janeiro,Paulo,Galaxy,Heriberto Shelton,M,Cartão de Crédito
+2026-05-03 18:16:23.312067,1741,Porto Alegre,Tiago,Dell,Edgar Tiffany,M,Dinheiro
+2026-05-03 18:41:25.157224,1742,Florianópolis,Rafaela,Dell,Bruce Morin,O,Boleto
+2026-05-03 20:37:23.910094,1743,São Paulo,João,iPad,Karen Lee,F,Dinheiro
+2026-05-03 20:45:22.403259,1744,Belo Horizonte,Carleto,Android,Jason Dube,M,Cartão de Crédito
+2026-05-03 20:56:26.992943,1745,Belo Horizonte,Stephanie,Android,Adela Grantham,F,Dinheiro
+2026-05-04 01:38:27.824368,1746,Florianópolis,Paola,Dell,Daniel Stucker,F,Pix
+2026-05-04 02:00:25.921275,1747,São Paulo,Maria,Android,Kerry Daughtridge,F,Cartão de Crédito
+2026-05-04 02:51:27.982185,1748,Belo Horizonte,Stephanie,iPad,Lora Chowenhill,F,Cartão de Crédito
+2026-05-04 16:35:21.751515,1749,Belo Horizonte,Stephanie,iPhone,Rita Oliver,F,Dinheiro
+2026-05-04 18:03:26.790039,1750,Belo Horizonte,Stephanie,iPhone,Lisa Lewis,F,Dinheiro
+2026-05-04 19:58:23.815280,1751,Rio de Janeiro,Paulo,iPad,Larry Kramer,O,Boleto
+2026-05-04 19:58:26.482492,1752,Porto Alegre,Marta,Dell,Olga Moody,O,Boleto
+2026-05-04 23:50:23.570425,1753,Florianópolis,Paola,Android,Wanda Desautels,F,Dinheiro
+2026-05-05 03:04:24.831028,1754,Rio de Janeiro,Juliana,Galaxy,Vicki Mccauley,O,Dinheiro
+2026-05-05 19:56:27.374438,1755,São Paulo,Pedro,iPad,Jose Webb,M,Boleto
+2026-05-05 20:54:24.139316,1756,Porto Alegre,Marta,iPhone,Tammy Teel,F,Boleto
+2026-05-05 21:19:24.893892,1757,Florianópolis,Rafaela,iPhone,Robert Reyes,M,Boleto
+2026-05-05 22:09:27.928607,1758,Porto Alegre,Tiago,Galaxy,Mark Oliver,M,Boleto
+2026-05-06 00:34:27.387948,1759,São Paulo,Maria,Dell,Winston Hunt,M,Cartão de Crédito
+2026-05-06 01:37:26.791250,1760,Rio de Janeiro,Antônio,Android,Gina Nguyen,F,Pix
+2026-05-06 01:44:27.386604,1761,Belo Horizonte,Carleto,Dell,Patricia Gill,F,Pix
+2026-05-06 02:26:24.674396,1762,Porto Alegre,Marta,iPad,Katherine Collier,F,Boleto
+2026-05-06 20:07:26.712957,1763,Porto Alegre,Lucas,Dell,Roger Evans,O,Cartão de Crédito
+2026-05-06 23:32:25.848533,1764,Florianópolis,Rafaela,Galaxy,Clifford Johnson,M,Cartão de Crédito
+2026-05-07 01:30:24.046540,1765,Belo Horizonte,Carlos,Galaxy,Christopher Lowry,M,Pix
+2026-05-07 21:07:22.224090,1766,Florianópolis,Eduardo,Dell,Martha Boone,O,Cartão de Crédito
+2026-05-07 22:26:25.156373,1767,São Paulo,João,Galaxy,Susan Crabtree,O,Boleto
+2026-05-08 00:13:26.968091,1768,São Paulo,Maria,Android,Jeffrey Laliberte,O,Cartão de Crédito
+2026-05-08 19:40:24.352890,1769,Rio de Janeiro,Juliana,Dell,William Acker,M,Boleto
+2026-05-09 01:30:27.961372,1770,Rio de Janeiro,Juliana,Galaxy,Don Dunlap,M,Pix
+2026-05-09 17:51:23.758097,1771,São Paulo,Maria,Dell,Cindy Gourley,F,Cartão de Crédito
+2026-05-09 19:45:24.344933,1772,Porto Alegre,Tiago,iPad,Rita Elliott,O,Dinheiro
+2026-05-09 20:04:27.388355,1773,Rio de Janeiro,Antônio,Galaxy,Wayne Naples,O,Dinheiro
+2026-05-10 00:24:23.982353,1774,São Paulo,Maria,Android,Danielle Oliver,F,Cartão de Crédito
+2026-05-10 01:02:24.098493,1775,Belo Horizonte,Carlos,iPad,Arthur Fincher,M,Boleto
+2026-05-10 02:43:23.427868,1776,Florianópolis,Rafaela,Android,Margurite Adderley,F,Boleto
+2026-05-10 19:45:25.387722,1777,São Paulo,Pedro,iPad,Maxine Carson,F,Cartão de Crédito
+2026-05-10 22:39:26.831717,1778,Rio de Janeiro,Paulo,iPhone,John Murphy,M,Boleto
+2026-05-11 01:49:22.482870,1779,Porto Alegre,Lucas,Android,Mary Robinson,F,Boleto
+2026-05-11 03:19:27.727997,1780,Belo Horizonte,Carleto,iPad,Anthony Albanese,O,Boleto
+2026-05-11 18:31:24.958262,1781,Rio de Janeiro,Paulo,Dell,Willie Stevenson,O,Dinheiro
+2026-05-11 18:59:23.067523,1782,Belo Horizonte,Stephanie,Android,Stella Mallard,F,Boleto
+2026-05-11 20:11:22.741935,1783,São Paulo,João,iPhone,Brad Quayle,M,Pix
+2026-05-11 20:45:25.831639,1784,Rio de Janeiro,Paulo,Galaxy,Lindsey Provencher,F,Pix
+2026-05-11 21:43:24.522512,1785,Porto Alegre,Tiago,Android,David Helms,O,Boleto
+2026-05-12 01:01:21.794417,1786,Florianópolis,Rafaela,Android,Benita Contreras,F,Pix
+2026-05-12 01:59:23.790391,1787,Porto Alegre,Tiago,Galaxy,Brad Rogers,M,Boleto
+2026-05-12 21:26:24.961542,1788,Rio de Janeiro,Antônio,iPhone,William Dansby,O,Dinheiro
+2026-05-12 22:18:23.421697,1789,São Paulo,João,Android,Peggy Morey,O,Pix
+2026-05-13 01:53:25.044303,1790,Florianópolis,Paola,Galaxy,Gwyn Hayes,F,Dinheiro
+2026-05-13 02:17:24.666111,1791,Belo Horizonte,Carlos,iPhone,Brittany Anderson,O,Boleto
+2026-05-13 19:27:26.429830,1792,Rio de Janeiro,Juliana,iPhone,Kristina Spier,F,Dinheiro
+2026-05-13 20:32:25.963121,1793,Rio de Janeiro,Antônio,iPhone,James Wiggins,O,Cartão de Crédito
+2026-05-13 21:13:26.206019,1794,Rio de Janeiro,Juliana,Android,David Abdelhamid,M,Cartão de Crédito
+2026-05-14 03:12:26.710129,1795,Florianópolis,Paola,Dell,Gina George,F,Dinheiro
+2026-05-14 18:47:27.519529,1796,São Paulo,Pedro,Dell,Anne Ramgel,F,Boleto
+2026-05-14 21:11:24.564589,1797,Rio de Janeiro,Juliana,Dell,Rhonda Huang,F,Pix
+2026-05-14 22:11:24.378288,1798,Florianópolis,Eduardo,iPhone,Kelley Devine,O,Pix
+2026-05-14 22:34:26.033285,1799,Belo Horizonte,Carleto,iPhone,Joe Ching,O,Boleto
+2026-05-14 22:43:24.308909,1800,Rio de Janeiro,Antônio,Android,Mary Tubb,F,Cartão de Crédito
+2026-05-14 23:09:27.358942,1801,São Paulo,Pedro,iPhone,Clair Goodrich,M,Cartão de Crédito
+2026-05-15 02:58:26.672225,1802,Florianópolis,Paola,Android,Viola Hicks,O,Dinheiro
+2026-05-15 03:11:25.007005,1803,Porto Alegre,Tiago,Galaxy,Terri Levine,O,Boleto
+2026-05-15 19:23:24.160038,1804,Porto Alegre,Tiago,Android,Pamela Stahl,F,Cartão de Crédito
+2026-05-15 19:24:26.990157,1805,Florianópolis,Rafaela,Android,Eliza Foster,F,Cartão de Crédito
+2026-05-15 20:47:22.371723,1806,Porto Alegre,Marta,iPhone,John Mclean,M,Dinheiro
+2026-05-15 21:46:27.693310,1807,Rio de Janeiro,Paulo,iPhone,Victor Ivy,O,Pix
+2026-05-15 23:10:27.266533,1808,São Paulo,Maria,Dell,Brent Koger,M,Dinheiro
+2026-05-16 01:53:25.868040,1809,Rio de Janeiro,Juliana,Dell,Irene Monteagudo,O,Boleto
+2026-05-16 02:22:22.316021,1810,Florianópolis,Rafaela,Dell,Brandon Wolfgang,M,Dinheiro
+2026-05-16 22:03:27.347211,1811,Belo Horizonte,Carleto,iPhone,Craig Virgilio,O,Dinheiro
+2026-05-17 02:14:27.940775,1812,Porto Alegre,Tiago,Dell,Paula Mathews,O,Dinheiro
+2026-05-17 18:00:26.296072,1813,Rio de Janeiro,Paulo,Dell,Pedro Sturm,M,Cartão de Crédito
+2026-05-17 18:09:26.222604,1814,São Paulo,João,iPad,Catherine Bowen,O,Boleto
+2026-05-17 18:23:26.223092,1815,Florianópolis,Eduardo,iPhone,Barbara Walton,F,Dinheiro
+2026-05-17 18:57:24.566901,1816,Belo Horizonte,Carleto,Android,Edward Miller,O,Dinheiro
+2026-05-17 19:24:22.824777,1817,Belo Horizonte,Carlos,Galaxy,Brent Rock,M,Pix
+2026-05-17 20:33:22.076982,1818,São Paulo,Maria,Dell,Steven Niemann,M,Cartão de Crédito
+2026-05-17 21:29:26.371102,1819,Porto Alegre,Marta,iPhone,Drew Schiel,M,Cartão de Crédito
+2026-05-17 22:22:23.381314,1820,Florianópolis,Rafaela,iPad,James Garza,O,Pix
+2026-05-17 22:49:22.385606,1821,Rio de Janeiro,Paulo,iPad,Willie Thomas,F,Pix
+2026-05-17 23:31:21.555059,1822,Porto Alegre,Marta,iPad,Darlene Aguilar,F,Boleto
+2026-05-18 00:31:23.164068,1823,Porto Alegre,Tiago,iPhone,Kenneth Sherwood,M,Cartão de Crédito
+2026-05-18 16:25:26.428998,1824,Rio de Janeiro,Antônio,iPhone,Helen Enriquez,F,Pix
+2026-05-18 18:36:25.440165,1825,Rio de Janeiro,Antônio,iPhone,Kenneth Bonardi,M,Cartão de Crédito
+2026-05-18 22:22:24.349709,1826,Rio de Janeiro,Juliana,iPad,Pedro Hopkins,O,Pix
+2026-05-19 00:09:25.141267,1827,Belo Horizonte,Carleto,Dell,Eugene Estrada,O,Pix
+2026-05-19 03:16:25.217984,1828,Florianópolis,Paola,iPhone,Bernice Gonzales,F,Pix
+2026-05-19 16:28:26.944285,1829,São Paulo,Pedro,Android,Charlie Anderson,M,Dinheiro
+2026-05-19 16:29:23.694996,1830,São Paulo,João,iPhone,Joan Frisch,F,Dinheiro
+2026-05-19 20:19:28.040481,1831,Porto Alegre,Tiago,Dell,Keith Gonzalez,M,Dinheiro
+2026-05-19 20:49:26.708998,1832,São Paulo,Pedro,iPhone,Beverly Roy,F,Dinheiro
+2026-05-20 00:17:23.385110,1833,Florianópolis,Rafaela,iPad,Robert Reinmann,M,Dinheiro
+2026-05-20 03:14:25.429256,1834,São Paulo,Maria,Galaxy,Willie Koran,O,Dinheiro
+2026-05-20 19:24:24.522152,1835,Porto Alegre,Marta,Galaxy,Sarah Barton,O,Dinheiro
+2026-05-20 20:13:27.570576,1836,Porto Alegre,Lucas,Android,Madelyn Smith,O,Pix
+2026-05-20 21:42:25.618130,1837,Rio de Janeiro,Paulo,Dell,Jenna Kidd,O,Dinheiro
+2026-05-21 01:29:24.721595,1838,Rio de Janeiro,Juliana,Galaxy,Jillian Perrier,F,Dinheiro
+2026-05-21 17:42:22.912507,1839,Florianópolis,Eduardo,iPhone,Michael Vanderwal,M,Pix
+2026-05-21 20:08:27.891618,1840,Porto Alegre,Tiago,Dell,Allan Werner,M,Pix
+2026-05-21 21:12:23.083148,1841,São Paulo,Maria,Dell,Melvin Flores,O,Dinheiro
+2026-05-21 21:48:25.177115,1842,São Paulo,Maria,Android,Vincent Skinner,M,Dinheiro
+2026-05-21 22:54:25.314688,1843,Rio de Janeiro,Antônio,Android,Warren Rotella,O,Dinheiro
+2026-05-21 23:42:24.897893,1844,Porto Alegre,Lucas,Dell,Mark Lewis,M,Boleto
+2026-05-22 02:16:26.876212,1845,Florianópolis,Rafaela,iPhone,Michael Crawford,M,Dinheiro
+2026-05-22 23:08:21.687277,1846,São Paulo,João,Android,Helen Goins,F,Boleto
+2026-05-22 23:51:26.179083,1847,Florianópolis,Rafaela,Dell,Abbey Wilson,O,Dinheiro
+2026-05-23 00:10:23.381553,1848,Florianópolis,Paola,iPhone,Matthew Dillard,M,Boleto
+2026-05-23 00:21:21.859330,1849,Florianópolis,Eduardo,iPad,Kandy Waldman,O,Cartão de Crédito
+2026-05-23 01:26:24.594871,1850,Rio de Janeiro,Paulo,Dell,Christopher Holahan,O,Dinheiro
+2026-05-23 20:19:25.895682,1851,Florianópolis,Eduardo,Android,Alice Moreno,F,Pix
+2026-05-23 21:29:22.648487,1852,Porto Alegre,Lucas,Galaxy,Chad Alvarado,M,Cartão de Crédito
+2026-05-23 23:26:23.229746,1853,Belo Horizonte,Stephanie,Galaxy,Wilmer Flores,M,Cartão de Crédito
+2026-05-24 01:35:22.011277,1854,Porto Alegre,Tiago,Galaxy,Jack Evangelista,O,Dinheiro
+2026-05-24 19:09:24.342247,1855,Rio de Janeiro,Juliana,iPad,David Dees,M,Dinheiro
+2026-05-24 22:29:25.938666,1856,Belo Horizonte,Carlos,Android,Rich Frank,M,Pix
+2026-05-24 22:52:24.362297,1857,Florianópolis,Rafaela,iPad,Louise Skinner,F,Boleto
+2026-05-24 22:57:26.709349,1858,Florianópolis,Paola,Galaxy,James Knowles,M,Boleto
+2026-05-25 18:48:27.816516,1859,Belo Horizonte,Carlos,Galaxy,David Exum,M,Pix
+2026-05-25 23:58:27.859245,1860,Florianópolis,Paola,iPad,Maude Watkins,F,Dinheiro
+2026-05-26 00:10:22.105372,1861,Belo Horizonte,Stephanie,Galaxy,Maria Meza,F,Pix
+2026-05-26 00:48:21.911641,1862,Florianópolis,Paola,iPad,Jose Doucette,M,Dinheiro
+2026-05-26 02:04:26.694808,1863,Florianópolis,Rafaela,Galaxy,Mathew Dishon,O,Pix
+2026-05-26 17:46:25.714976,1864,São Paulo,Pedro,iPhone,Shirley Rucker,O,Boleto
+2026-05-26 17:55:25.640196,1865,Florianópolis,Paola,Galaxy,Michael Wagers,O,Dinheiro
+2026-05-26 19:59:27.063349,1866,São Paulo,João,iPad,Mary Simpson,F,Dinheiro
+2026-05-26 20:00:25.460758,1867,Porto Alegre,Marta,iPhone,Louie Tanner,M,Dinheiro
+2026-05-26 20:46:21.715290,1868,Rio de Janeiro,Antônio,Android,Irma Lightle,F,Boleto
+2026-05-26 20:49:26.380624,1869,Belo Horizonte,Stephanie,Dell,Adriana Fogle,F,Pix
+2026-05-26 21:01:27.444192,1870,Belo Horizonte,Carlos,Android,Ricardo Cloutier,M,Cartão de Crédito
+2026-05-26 21:38:22.825734,1871,Florianópolis,Eduardo,Galaxy,Alexander Bild,M,Dinheiro
+2026-05-26 21:49:26.446002,1872,Rio de Janeiro,Antônio,Galaxy,Tamar Pearsall,O,Dinheiro
+2026-05-27 00:09:25.218248,1873,São Paulo,Maria,Galaxy,Randall Thames,M,Dinheiro
+2026-05-27 02:34:27.053808,1874,Florianópolis,Eduardo,Galaxy,Diana Ibarra,F,Boleto
+2026-05-27 02:36:24.645680,1875,Rio de Janeiro,Antônio,Galaxy,Vesta Parker,F,Dinheiro
+2026-05-27 18:30:26.818554,1876,Rio de Janeiro,Juliana,Dell,Thomas Seppala,M,Pix
+2026-05-27 20:09:27.128682,1877,Porto Alegre,Marta,iPhone,Tina Lockwood,F,Cartão de Crédito
+2026-05-27 20:34:22.230754,1878,Florianópolis,Paola,iPhone,Helen Buziak,F,Cartão de Crédito
+2026-05-27 20:56:27.371464,1879,Porto Alegre,Tiago,Android,Anna Dollar,O,Cartão de Crédito
+2026-05-27 23:34:26.771002,1880,Florianópolis,Paola,Galaxy,Chet Kerr,O,Pix
+2026-05-28 03:11:23.875102,1881,Porto Alegre,Marta,Galaxy,Irene Kramer,F,Cartão de Crédito
+2026-05-28 16:50:26.036532,1882,Belo Horizonte,Carleto,iPhone,Lloyd Davidson,M,Cartão de Crédito
+2026-05-28 18:39:24.817069,1883,Florianópolis,Eduardo,Galaxy,Isabelle Ellwanger,O,Dinheiro
+2026-05-28 22:20:25.841448,1884,Florianópolis,Rafaela,iPhone,Derrick Turley,O,Cartão de Crédito
+2026-05-28 23:41:22.413527,1885,Belo Horizonte,Stephanie,iPhone,Donna Stocker,F,Cartão de Crédito
+2026-05-28 23:52:22.296150,1886,Porto Alegre,Lucas,iPhone,Erik Nicholson,O,Boleto
+2026-05-29 01:38:24.433531,1887,Porto Alegre,Tiago,iPad,Ricardo Wilson,M,Boleto
+2026-05-29 19:50:23.315542,1888,Belo Horizonte,Carlos,iPhone,Jorge Eckman,M,Dinheiro
+2026-05-29 20:21:23.725266,1889,Rio de Janeiro,Paulo,iPhone,Henry Keen,M,Boleto
+2026-05-29 20:45:24.946094,1890,Florianópolis,Rafaela,iPad,Ester Powell,O,Cartão de Crédito
+2026-05-30 19:22:25.997145,1891,Porto Alegre,Tiago,Dell,Sherrie Warmbier,F,Dinheiro
+2026-05-30 20:59:24.192124,1892,Florianópolis,Eduardo,Galaxy,Geraldine Craft,O,Cartão de Crédito
+2026-05-30 23:06:24.720054,1893,Porto Alegre,Marta,Android,Sean Thomas,M,Pix
+2026-05-31 16:30:26.828484,1894,Porto Alegre,Tiago,Android,Keith Pagan,M,Pix
+2026-05-31 16:36:25.569274,1895,Belo Horizonte,Carleto,Android,Jo Grau,F,Boleto
+2026-05-31 18:34:25.491147,1896,Belo Horizonte,Carlos,Dell,Twana Thompson,F,Cartão de Crédito
+2026-05-31 19:47:27.403860,1897,Florianópolis,Rafaela,Android,Amy Castellanos,O,Cartão de Crédito
+2026-05-31 20:21:24.279997,1898,Belo Horizonte,Carlos,iPhone,Kelly Klaver,F,Dinheiro
+2026-05-31 20:43:23.328506,1899,Belo Horizonte,Carlos,iPhone,Emily Patrick,F,Pix
+2026-05-31 20:53:23.067317,1900,Belo Horizonte,Carleto,Galaxy,John Perry,M,Boleto
+2026-05-31 20:53:23.616244,1901,Florianópolis,Paola,Android,Peggy Sellers,F,Boleto
+2026-05-31 21:09:25.787472,1902,Rio de Janeiro,Antônio,Galaxy,Jodee Kitchen,F,Dinheiro
+2026-05-31 21:28:27.076363,1903,Belo Horizonte,Carlos,iPad,Renee Tilley,O,Cartão de Crédito
+2026-05-31 21:44:23.100043,1904,Belo Horizonte,Stephanie,Dell,Charlotte Fitzhenry,O,Boleto
+2026-06-01 00:03:26.863666,1905,São Paulo,João,Dell,Brenda Dame,F,Cartão de Crédito
+2026-06-01 00:18:24.345248,1906,São Paulo,João,Dell,Dorothy Cox,F,Boleto
+2026-06-01 01:34:21.549589,1907,Rio de Janeiro,Juliana,Android,Mary Banton,F,Dinheiro
+2026-06-01 03:06:22.436311,1908,Porto Alegre,Marta,Dell,Susan Lavallee,F,Pix
+2026-06-01 17:02:22.298631,1909,São Paulo,Maria,Android,Linda Curry,F,Dinheiro
+2026-06-01 19:22:24.369879,1910,Rio de Janeiro,Paulo,Android,Kelvin Johnson,O,Dinheiro
+2026-06-01 22:38:22.109567,1911,São Paulo,Maria,iPad,Felicia Lind,F,Cartão de Crédito
+2026-06-02 17:10:22.785450,1912,Belo Horizonte,Stephanie,iPad,Anglea Tucker,F,Boleto
+2026-06-02 17:15:25.050506,1913,São Paulo,João,Android,Derek Jackson,O,Pix
+2026-06-03 01:45:22.281964,1914,São Paulo,João,iPhone,Tonya Dierking,O,Boleto
+2026-06-03 17:32:27.486181,1915,Porto Alegre,Tiago,iPhone,Jennifer Bolstad,F,Pix
+2026-06-03 18:08:22.288441,1916,Rio de Janeiro,Paulo,Galaxy,Amanda Mccrae,O,Dinheiro
+2026-06-03 20:18:22.287104,1917,Belo Horizonte,Carlos,Android,Jonathan Becerra,M,Dinheiro
+2026-06-03 21:10:25.184023,1918,Florianópolis,Rafaela,iPad,Sherman Leone,M,Dinheiro
+2026-06-03 21:49:23.490234,1919,São Paulo,Pedro,iPad,Joe Starling,O,Pix
+2026-06-04 01:24:23.236659,1920,Belo Horizonte,Carlos,Dell,Louis Hajduk,M,Dinheiro
+2026-06-04 02:10:27.344026,1921,Porto Alegre,Lucas,Dell,Sonja Carbaugh,F,Cartão de Crédito
+2026-06-04 21:56:25.237328,1922,Belo Horizonte,Carlos,Galaxy,Stephanie Baines,F,Pix
+2026-06-04 22:04:24.834861,1923,Florianópolis,Eduardo,Android,Susan Sembler,O,Pix
+2026-06-04 22:39:25.007611,1924,Florianópolis,Eduardo,iPad,Dolores Sanos,F,Boleto
+2026-06-05 22:25:25.388704,1925,Porto Alegre,Marta,Dell,Pete Sales,M,Dinheiro
+2026-06-06 00:17:25.636849,1926,Belo Horizonte,Stephanie,iPad,Wanda Souza,F,Pix
+2026-06-06 16:38:24.687284,1927,Belo Horizonte,Stephanie,iPhone,Vance Szymanski,O,Boleto
+2026-06-06 23:17:26.310190,1928,São Paulo,João,iPhone,James Tompkins,M,Cartão de Crédito
+2026-06-07 02:27:24.433945,1929,Florianópolis,Paola,Galaxy,Oliva Baker,O,Boleto
+2026-06-07 17:25:22.314572,1930,Belo Horizonte,Stephanie,iPad,Ethelyn Maynard,F,Cartão de Crédito
+2026-06-07 18:22:24.142651,1931,Rio de Janeiro,Juliana,iPad,Nelle Walker,O,Boleto
+2026-06-07 18:41:21.714482,1932,São Paulo,Maria,Dell,Terry Morales,M,Cartão de Crédito
+2026-06-07 22:48:23.481856,1933,Belo Horizonte,Carlos,Galaxy,Jennifer Caskey,O,Pix
+2026-06-08 00:43:25.283725,1934,Florianópolis,Rafaela,Galaxy,Kenneth Lee,M,Pix
+2026-06-08 00:46:21.904912,1935,Belo Horizonte,Stephanie,Dell,Lorraine Keegan,F,Boleto
+2026-06-08 00:50:25.537898,1936,Rio de Janeiro,Antônio,Dell,Franklin Rautenstrauch,O,Boleto
+2026-06-08 01:56:21.536589,1937,Belo Horizonte,Carleto,Dell,Mark Williams,M,Pix
+2026-06-08 17:42:22.110623,1938,Florianópolis,Paola,iPad,Charles Barnes,M,Boleto
+2026-06-08 23:44:26.417813,1939,Rio de Janeiro,Paulo,iPad,Elizabeth Clark,F,Pix
+2026-06-09 01:53:22.538869,1940,Florianópolis,Paola,Galaxy,Andrea Iredale,F,Cartão de Crédito
+2026-06-09 03:13:25.786381,1941,São Paulo,João,Android,Nathan Bowie,M,Pix
+2026-06-09 18:58:25.226803,1942,Florianópolis,Paola,Galaxy,Margaret Martinez,F,Cartão de Crédito
+2026-06-10 16:29:24.351718,1943,Florianópolis,Paola,iPad,Ralph Sanders,O,Pix
+2026-06-10 18:31:27.446537,1944,Belo Horizonte,Stephanie,Dell,Elizabeth Purkey,F,Pix
+2026-06-10 19:27:22.690359,1945,Florianópolis,Eduardo,iPad,Travis Reid,O,Boleto
+2026-06-11 00:29:26.258846,1946,Florianópolis,Rafaela,Dell,Kimberly Burnett,O,Pix
+2026-06-11 01:12:21.568146,1947,Porto Alegre,Lucas,iPad,Susan Christie,O,Dinheiro
+2026-06-11 01:21:25.087891,1948,Florianópolis,Paola,Android,Michael Beltran,M,Cartão de Crédito
+2026-06-11 02:19:23.125552,1949,Porto Alegre,Tiago,iPad,Mary Morrissey,F,Boleto
+2026-06-11 03:08:27.374673,1950,Rio de Janeiro,Paulo,Android,Julio King,O,Pix
+2026-06-11 16:28:21.831837,1951,Rio de Janeiro,Antônio,iPad,Derek Vasquez,M,Cartão de Crédito
+2026-06-11 20:46:24.590527,1952,Rio de Janeiro,Antônio,Dell,Josephine Fox,O,Pix
+2026-06-12 01:58:24.906523,1953,Porto Alegre,Lucas,iPad,Leah Barnes,F,Cartão de Crédito
+2026-06-12 02:57:26.388583,1954,Belo Horizonte,Stephanie,iPad,Reginald Audette,M,Boleto
+2026-06-12 16:52:24.834063,1955,Florianópolis,Rafaela,iPhone,John Winn,O,Boleto
+2026-06-12 17:04:25.133529,1956,Rio de Janeiro,Paulo,iPhone,Charity Moree,F,Boleto
+2026-06-12 17:13:22.320793,1957,Belo Horizonte,Stephanie,Dell,John Poole,M,Pix
+2026-06-12 20:21:24.144819,1958,Porto Alegre,Lucas,Galaxy,Leona Kiely,F,Boleto
+2026-06-12 22:11:22.229208,1959,Rio de Janeiro,Paulo,iPhone,John Evans,O,Cartão de Crédito
+2026-06-12 23:04:28.025113,1960,Florianópolis,Eduardo,iPhone,Jose Gorski,M,Dinheiro
+2026-06-13 16:42:21.832918,1961,Rio de Janeiro,Paulo,Dell,Pamela Cline,O,Pix
+2026-06-13 16:46:27.932258,1962,Porto Alegre,Lucas,Dell,Karen Delapp,F,Dinheiro
+2026-06-13 17:24:25.618872,1963,São Paulo,João,Dell,Pat Schnader,M,Dinheiro
+2026-06-13 19:31:25.314137,1964,Porto Alegre,Marta,Android,Kevin Richards,M,Cartão de Crédito
+2026-06-13 20:51:27.839711,1965,Porto Alegre,Marta,Dell,Max Schmaltz,M,Boleto
+2026-06-14 18:31:23.232641,1966,São Paulo,Maria,Android,Kyra Ehrlich,F,Dinheiro
+2026-06-14 22:40:21.928605,1967,Florianópolis,Eduardo,Galaxy,William Hernandez,O,Dinheiro
+2026-06-15 02:35:23.969211,1968,Belo Horizonte,Carlos,Dell,Margaret Wright,F,Cartão de Crédito
+2026-06-15 02:43:26.985168,1969,Belo Horizonte,Stephanie,Dell,Angelo King,M,Dinheiro
+2026-06-15 17:44:26.484097,1970,Rio de Janeiro,Antônio,Android,Elizabeth Banks,F,Cartão de Crédito
+2026-06-15 20:43:26.672538,1971,São Paulo,Maria,Dell,Catherine Guarnera,F,Pix
+2026-06-15 21:17:26.497137,1972,Belo Horizonte,Carlos,Android,Homer Sheldon,M,Cartão de Crédito
+2026-06-15 22:12:26.028948,1973,Rio de Janeiro,Paulo,Android,Jackie Lange,O,Boleto
+2026-06-15 22:28:27.981329,1974,Florianópolis,Paola,Android,Aaron Walker,M,Pix
+2026-06-15 23:32:26.935359,1975,Belo Horizonte,Stephanie,iPad,Michael Cahall,M,Boleto
+2026-06-16 00:20:23.054978,1976,Porto Alegre,Tiago,Dell,Morgan Heath,O,Boleto
+2026-06-16 18:41:23.021601,1977,Rio de Janeiro,Paulo,iPad,Kimberly Sain,F,Dinheiro
+2026-06-16 20:24:24.387916,1978,Florianópolis,Paola,Dell,Nicholas Gallegos,M,Boleto
+2026-06-17 16:52:25.929059,1979,Belo Horizonte,Stephanie,Galaxy,Lila Gooslin,F,Boleto
+2026-06-17 18:30:23.127574,1980,São Paulo,Maria,Android,Jennifer Lothridge,F,Dinheiro
+2026-06-17 20:10:24.565592,1981,São Paulo,João,iPad,Edward Brewster,M,Cartão de Crédito
+2026-06-17 20:24:26.139664,1982,Florianópolis,Eduardo,iPad,George Roby,O,Dinheiro
+2026-06-17 21:34:27.509021,1983,Florianópolis,Rafaela,iPad,Michael Mitchell,M,Boleto
+2026-06-17 23:02:27.260890,1984,Florianópolis,Paola,Galaxy,Oscar Lum,M,Dinheiro
+2026-06-17 23:15:23.479313,1985,Rio de Janeiro,Juliana,Dell,Allen Rucker,O,Cartão de Crédito
+2026-06-18 00:56:25.438285,1986,Porto Alegre,Marta,Android,Lester Brogan,M,Pix
+2026-06-18 01:26:25.939403,1987,Florianópolis,Rafaela,Galaxy,Cody Glenn,M,Pix
+2026-06-18 02:37:25.969556,1988,São Paulo,Maria,Dell,Jacques Littlefield,M,Boleto
+2026-06-18 17:40:22.906896,1989,Florianópolis,Rafaela,iPad,Evelyn Jablonski,F,Dinheiro
+2026-06-18 20:54:23.734965,1990,Florianópolis,Eduardo,Android,Greg Kubinski,O,Cartão de Crédito
+2026-06-18 23:18:21.708543,1991,Rio de Janeiro,Antônio,Dell,Miguel Saliba,M,Dinheiro
+2026-06-19 00:32:21.795673,1992,Rio de Janeiro,Antônio,Galaxy,Kay Paxton,F,Cartão de Crédito
+2026-06-19 16:38:24.020407,1993,São Paulo,João,Galaxy,Betty Gotto,O,Cartão de Crédito
+2026-06-19 17:31:23.703290,1994,Florianópolis,Rafaela,iPhone,Wayne Collins,O,Pix
+2026-06-19 18:00:23.041208,1995,Porto Alegre,Marta,iPad,Jennifer Ratliff,F,Pix
+2026-06-19 19:03:22.110817,1996,Florianópolis,Paola,iPhone,Ray Towers,M,Boleto
+2026-06-19 20:21:27.445740,1997,Florianópolis,Eduardo,Galaxy,David Rowland,M,Boleto
+2026-06-19 22:44:28.017161,1998,Belo Horizonte,Carlos,Galaxy,Clemente Mcgarry,M,Dinheiro
+2026-06-19 22:45:24.434895,1999,Rio de Janeiro,Paulo,Dell,Daniel Owings,M,Pix
